@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="C:\FIRST\Sandbox\GrantKeane\robot\branches\Team93Robot2015\src\org\usfirst\frc93\Team93Robot2015\AutonomousSelection.java">
+<error line="0" severity="error" message="Missing package-info.java file." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocPackageCheck"/>
+<error line="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+<error line="17" severity="error" message="Line is longer than 100 characters (found 103)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="37" severity="error" message="Line is longer than 100 characters (found 103)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="55" severity="error" message="Line is longer than 100 characters (found 103)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="67" severity="error" message="Line is longer than 100 characters (found 103)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="C:\FIRST\Sandbox\GrantKeane\robot\branches\Team93Robot2015\src\org\usfirst\frc93\Team93Robot2015\OI.java">
+</file>
+<file name="C:\FIRST\Sandbox\GrantKeane\robot\branches\Team93Robot2015\src\org\usfirst\frc93\Team93Robot2015\Robot.java">
+<error line="38" column="35" severity="warning" message="Name &apos;VisionProc&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*_?$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+</file>
+<file name="C:\FIRST\Sandbox\GrantKeane\robot\branches\Team93Robot2015\src\org\usfirst\frc93\Team93Robot2015\RobotMap.java">
+<error line="65" column="31" severity="warning" message="Name &apos;PWDSensor&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*_?$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+<error line="66" column="31" severity="warning" message="Name &apos;PWDSensorTwo&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*_?$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+</file>
+<file name="C:\FIRST\Sandbox\GrantKeane\robot\branches\Team93Robot2015\src\org\usfirst\frc93\Team93Robot2015\commands\AutonomousCommandGroup.java">
+<error line="0" severity="error" message="Missing package-info.java file." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocPackageCheck"/>
+<error line="51" severity="error" message="All TODOs should be named.  e.g. &quot;TODO(johndoe): Refactor when v2 is released.&quot;" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\FIRST\Sandbox\GrantKeane\robot\branches\Team93Robot2015\src\org\usfirst\frc93\Team93Robot2015\commands\AutonomousCommands.java">
+</file>
+<file name="C:\FIRST\Sandbox\GrantKeane\robot\branches\Team93Robot2015\src\org\usfirst\frc93\Team93Robot2015\commands\BinSnatcherDeploy.java">
+</file>
+<file name="C:\FIRST\Sandbox\GrantKeane\robot\branches\Team93Robot2015\src\org\usfirst\frc93\Team93Robot2015\commands\CanGrabber.java">
+</file>
+<file name="C:\FIRST\Sandbox\GrantKeane\robot\branches\Team93Robot2015\src\org\usfirst\frc93\Team93Robot2015\commands\DriveBackward.java">
+<error line="24" column="9" severity="warning" message="Name &apos;m_driveDistance&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+<error line="28" column="17" severity="warning" message="Method Name &apos;DriveBackward&apos; must not equal the enclosing class name." source="com.puppycrawl.tools.checkstyle.checks.naming.MethodNameCheck"/>
+<error line="28" column="17" severity="warning" message="Name &apos;DriveBackward&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*(_[a-zA-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MethodNameCheck"/>
+<error line="50" column="9" severity="warning" message="&apos;}&apos; should be on the same line." source="com.puppycrawl.tools.checkstyle.checks.blocks.RightCurlyCheck"/>
+</file>
+<file name="C:\FIRST\Sandbox\GrantKeane\robot\branches\Team93Robot2015\src\org\usfirst\frc93\Team93Robot2015\commands\DriveContinuous.java">
+<error line="24" column="12" severity="warning" message="Name &apos;m_scalingFactor&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+</file>
+<file name="C:\FIRST\Sandbox\GrantKeane\robot\branches\Team93Robot2015\src\org\usfirst\frc93\Team93Robot2015\commands\DriveForward.java">
+<error line="26" column="12" severity="warning" message="Name &apos;m_driveDistance&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+<error line="27" column="19" severity="warning" message="Name &apos;m_driveControl&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+<error line="28" column="12" severity="warning" message="Name &apos;m_Kp&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+<error line="29" column="12" severity="warning" message="Name &apos;m_Ki&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+<error line="30" column="12" severity="warning" message="Name &apos;m_Kd&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+<error line="60" column="9" severity="warning" message="&apos;}&apos; should be on the same line." source="com.puppycrawl.tools.checkstyle.checks.blocks.RightCurlyCheck"/>
+</file>
+<file name="C:\FIRST\Sandbox\GrantKeane\robot\branches\Team93Robot2015\src\org\usfirst\frc93\Team93Robot2015\commands\DriveForwardOld.java">
+<error line="25" column="9" severity="warning" message="Name &apos;m_driveDistance&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+<error line="53" column="9" severity="warning" message="&apos;}&apos; should be on the same line." source="com.puppycrawl.tools.checkstyle.checks.blocks.RightCurlyCheck"/>
+</file>
+<file name="C:\FIRST\Sandbox\GrantKeane\robot\branches\Team93Robot2015\src\org\usfirst\frc93\Team93Robot2015\commands\SleepCommand.java">
+</file>
+<file name="C:\FIRST\Sandbox\GrantKeane\robot\branches\Team93Robot2015\src\org\usfirst\frc93\Team93Robot2015\commands\TurnLeft.java">
+<error line="24" column="9" severity="warning" message="Name &apos;m_driveDistance&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+<error line="51" column="9" severity="warning" message="&apos;}&apos; should be on the same line." source="com.puppycrawl.tools.checkstyle.checks.blocks.RightCurlyCheck"/>
+</file>
+<file name="C:\FIRST\Sandbox\GrantKeane\robot\branches\Team93Robot2015\src\org\usfirst\frc93\Team93Robot2015\commands\TurnRight.java">
+<error line="24" column="9" severity="warning" message="Name &apos;m_driveDistance&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+<error line="51" column="9" severity="warning" message="&apos;}&apos; should be on the same line." source="com.puppycrawl.tools.checkstyle.checks.blocks.RightCurlyCheck"/>
+</file>
+<file name="C:\FIRST\Sandbox\GrantKeane\robot\branches\Team93Robot2015\src\org\usfirst\frc93\Team93Robot2015\commands\UltrasonicSensor.java">
+<error line="52" column="9" severity="warning" message="&apos;}&apos; should be on the same line." source="com.puppycrawl.tools.checkstyle.checks.blocks.RightCurlyCheck"/>
+<error line="60" column="9" severity="warning" message="&apos;}&apos; should be on the same line." source="com.puppycrawl.tools.checkstyle.checks.blocks.RightCurlyCheck"/>
+</file>
+<file name="C:\FIRST\Sandbox\GrantKeane\robot\branches\Team93Robot2015\src\org\usfirst\frc93\Team93Robot2015\commands\VisionProcessor.java">
+<error line="13" severity="warning" message="Wrong order for &apos;java.nio.ByteBuffer&apos; import." source="com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck"/>
+<error line="31" column="16" severity="warning" message="Name &apos;m_rawData&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+<error line="38" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+<error line="48" severity="error" message="All TODOs should be named.  e.g. &quot;TODO(johndoe): Refactor when v2 is released.&quot;" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="75" severity="error" message="All TODOs should be named.  e.g. &quot;TODO(johndoe): Refactor when v2 is released.&quot;" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="116" column="17" severity="warning" message="&apos;}&apos; should be on the same line." source="com.puppycrawl.tools.checkstyle.checks.blocks.RightCurlyCheck"/>
+<error line="240" severity="error" message="All TODOs should be named.  e.g. &quot;TODO(johndoe): Refactor when v2 is released.&quot;" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="251" severity="error" message="All TODOs should be named.  e.g. &quot;TODO(johndoe): Refactor when v2 is released.&quot;" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="262" severity="error" message="All TODOs should be named.  e.g. &quot;TODO(johndoe): Refactor when v2 is released.&quot;" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\FIRST\Sandbox\GrantKeane\robot\branches\Team93Robot2015\src\org\usfirst\frc93\Team93Robot2015\subsystems\AutonomousSelector.java">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="0" severity="error" message="Missing package-info.java file." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocPackageCheck"/>
+</file>
+<file name="C:\FIRST\Sandbox\GrantKeane\robot\branches\Team93Robot2015\src\org\usfirst\frc93\Team93Robot2015\subsystems\Drive.java">
+</file>
+<file name="C:\FIRST\Sandbox\GrantKeane\robot\branches\Team93Robot2015\src\org\usfirst\frc93\Team93Robot2015\subsystems\Switches.java">
+</file>
+<file name="C:\FIRST\Sandbox\GrantKeane\robot\branches\Team93Robot2015\src\org\usfirst\frc93\Team93Robot2015\subsystems\ToteStack.java">
+</file>
+</checkstyle>

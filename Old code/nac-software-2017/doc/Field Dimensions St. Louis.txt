@@ -1,0 +1,13 @@
+Red:
+Driver station to airship: 114
+Airship side length: 41
+Center to key: 54 1/4
+Center to loading zone: 77 3/8 
+Baseline: 95
+
+Blue:
+Driver station to airship: 114
+Airship side length: 40 5/8
+Center to key: 52 1/2
+Center to loading zone: 77 3/4
+Baseline: 94 3/4

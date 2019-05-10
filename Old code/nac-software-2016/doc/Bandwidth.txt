@@ -1,0 +1,23 @@
+Bandwidth (bytes per second)
+
+How To Find: 
+1) Open Wireshark
+
+2) Click "Local Area Connection" and press "Start"
+
+3) Stop after 5 seconds
+
+4) Go to "Statistics" and click "Conversations" 
+
+5) Look for the line that has Address A as "DellInc_d8:70:ae" and 
+Address B as "National_17:98:42"
+
+6) Column labeled as "bps A<-B" will be the amount of bytes per second 
+the robot code is using 
+
+
+
+LOGS:
+
+32919.52 bps No code and no Camera (1/16/2016)
+3110953.06 bps No code With Camera (1/16/2016)

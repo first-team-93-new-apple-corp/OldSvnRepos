@@ -1,0 +1,142 @@
+Pre-Season
+
+[What went well?]
+
+People understood instruction and Java basics much better than last year.
+We got a lot more new people.
+We actually made the Robot drive this time, people actually understood.
+
+
+[What didn't go well?]
+
+Objects and classes are still troublesome.
+People were not taught about Subsystems, Commands, CommandGroups, etc.
+MORE SVN INTRO REQUIRED. Must be taught much better.
+People were very bored by the Line Drawing.
+
+
+[What we could do better?]
+
+Teach people Robot Code Structure.
+Spend less time on the Line Drawing stuff, 2-3 weeks max. Just enough for Functions and Loops.
+"Teach to the top of the class, so that they understand it the best, and if people lag behind, they will drop out."
+Don't let the bottom of the class hold people back.
+It is better to have a couple people who know what they're doing than many people who only kind of know what they're doing.
+If people struggle, assign veteran members to help them.
+TO help with boredom, incentives are good. :)
+Plan lessons much better.
+
+Andy's Plan:
+First 2-3 weeks: Basics, line drawer.
+AS SOON AS POSSIBLE, move into robot code. WPILib, Robot Code Structure, Commands, etc.
+Explain Objects and Classes WHILE we teach Robot Code.
+
+Alex's Plan implements Andy's plan:
+Make a ladder system, with specific goals for each rung of the ladder to move to the next rung.
+Give them a total list of tasks on the ladder.
+Each night, teach them the tools they need to complete these tasks.
+Use the laptops since we have plenty. Integrate SVN Training.
+We teach the lesson, then give a little project.
+Keep teaching the lessons, and the students should be completing projects on time.
+If they lag behind, assign a veteran member to help them.
+
+Andy's Plan v2 implements Alex's plan:
+Over the summer, get a group of people who will organize lesson plans and projects for each week of build.
+Everything should be planned.
+Keeps people interested and learning new things.
+If people are really struggling, schedules may have to remain flexible, but try to avoid this.
+
+Discuss topics in terms of how to use it on the Robot.
+
+Lizzy's plan implements Andy's plan v2:
+When creating a lesson plan, assign a different person designated to teach for each week.
+The one person teaching gets really confusing (e.g. Conor).
+Freshman should take notes. Strongly recommended, but not forced. Possibly give them cheat-sheets, such as for things like primitive data types.
+
+SVN Plan implements Lizzy's plan:
+Give each new person its own SVN account, and have them commit to their own folder in a Pre-Season folder on the repository.
+
+UNSOLVED PROBLEM: HOW TO TEACH CONFLICTS IN SVN?
+UNSOLVED PROBLEM: HOW TO TEACH BRANCHES AND MERGING?
+
+Lesson Planning People:
+Alex Stevenson
+Andy Gagnon
+Conor Mares
+Colby Mckinley
+Claire Mihalko
+Lizzy Olson
+Evans Chen
+Josh Hawbaker?
+Alex Mindorff
+
+
+
+Build Season
+
+[Things we did well?]
+
+We got a functional robot.
+Crap scores (dang it Colby).
+Completed SteeringFunction and other utilities.
+Many utilities can be salvaged and published.
+Much of the easy tasks were finished right away.
+Kanban boards were used to an extent.
+SVN seemed to work pretty well.
+Code review was done.
+
+
+[Things that didn't go well?]
+
+Members dropped out frequently. Examples: Jacob Lutz, Tony Zenz, Alissa Thoong, Yan Lee, Grant (not Keane, the other Grant).
+There were a lot of people who only kind of knew what they were doing. A lot of help was given to various people.
+Laptop Shortage for a short amount of time. Already resolved.
+Code Arch had MANY ISSUES with merging into the trunk.
+SVN education was very, very poor.
+Corps were paralyzed without the Corps Owner.
+Distractions were common.
+PID Expertise was difficult to find.
+Autonomous is difficult without the design and subsystem code complete.
+Camera went poorly. Caused many problems. Avoid camera in future? STRONGLY advise against using the camera.
+If they want a camera, they MUST use it. Otherwise, it is a MASSIVE waste of time and resources. This has occurred through multiple years.
+Salvage code was not uploaded. Colby will take control of this now.
+FRC Software Updates were not communicated to Software.
+We require a NI Account.
+Education about CAN was nonexistant.
+We need to know what is going to be on the Robot from design ASAP. We need design before we can do any Robot things.
+
+
+[Things to change?]
+
+Enforce room border immigration limitations. (Basically, kick people out who are just being distractions.)
+Better Communication.
+Better Corps Software People Selection: NO corps with only new people, each corps must have a veteran to go to.
+Some people never committed their code. Will resolve with better SVN education during Pre-Season.
+Teach branching and merging MUCH better.
+This isn't really under our control, but try to streamline the design process more.
+Possibly ship parts to Fab as they are designed, instead of giving the entire Robot to Fab.
+This gives Software more time to test and tune PIDs. That way, we can test on a test platform as things get done.
+Teach people about CAN.
+
+
+[RBAD Things that didn't go well?]
+
+Kanban board use was... poor.
+It is very difficult to timebox items.
+Corps Owners had to prompt people to do tasks. People need to take initiative by themselves, instead of having the Corps Owner do everything.
+
+
+[RBAD Things to change?]
+
+Get a Functional Group Kanban Board?
+Break down tasks much more on the kanban board.
+Corps system must be improved. Corps owner meetings were not optimal.
+
+Possibly create a special Software kanban board.
+Also, keep all software people in one room.
+Possibly keep the Software Kanban Board in 1507C or wherever the software room is.
+Possibly talk to Mr. Wegand to see if we can just keep the Kanban board in 1507C for build.
+This promotes Kanban Board participation.
+Make a "Software Meeting" as either part of the Daily Standup or every other day.
+This greatly improves communication.
+Then, move all software tasks to the software kanban board.

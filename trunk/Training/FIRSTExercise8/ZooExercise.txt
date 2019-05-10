@@ -1,0 +1,63 @@
+-----------------------------------------------------------------------------------
+Zoo Exercise
+-----------------------------------------------------------------------------------                        
+
+-----------------------------------------------------------------------------------
+Problem 1
+-----------------------------------------------------------------------------------
+
+Create an interface to represent any Animal. It should have 1 method:
+	Speak (0 parameters, no return type) - The Animal should print a noise.
+
+Create three classes that implement that interface: Lion, Monkey, and Bat.
+
+Create an ArrayList in the main method that can hold Animals. Add a loop afterwards
+that prompts the user to type a letter. Based on that letter, do the following:
+	L - Create a Lion and add it to the list.
+	M - Create a Monkey and add it to the list.
+	B - Create a Bat and add it to the list.
+	S - Call the Speak method on all the Animals in the list.
+	E - Quit the program.
+	
+-----------------------------------------------------------------------------------
+Problem 2
+-----------------------------------------------------------------------------------
+
+Add another method to the Animal interface:
+	TimeOfDay (1 Boolean parameter, no return type) - The Boolean passed in tells
+		the animal if it is daytime (true) or nighttime (false). Depending on whether 
+		the animal sleeps during the day or the night, the animal should set an internal
+		Boolean indicating whether it is asleep or awake. 
+	
+Modify the Lion, Monkey, and Bat to implement the TimeOfDay method (the bat should
+be nocturnal). Also modify their Speak methods so that they do not print a noise if
+they are asleep.
+
+Add a Boolean to main that indicates the time of day. Pass that into the constructor
+of each Animal type, so that it can start asleep or awake as needed.
+
+Add a new letter option:
+	T - Change the time of day from day to night, or night to day. Update all the
+		Animals by calling their TimeOfDay methods.
+		
+		
+-----------------------------------------------------------------------------------
+Problem 3
+-----------------------------------------------------------------------------------
+
+Add another method to the Animal interface:
+	Feed (0 parameters, returns int) - The Animal should print what it is eating, and 
+		it should return the cost to replace that food. The animal doesn't eat while
+		it's asleep, so it should return 0 if it is asleep.
+	
+Modify the Lion, Monkey, and Bat to implement the Feed method.
+
+Add an int to main that contains the amount of money you currently have. It should
+start at 200.
+
+Add 2 new letter options:
+	F - Feed all the Animals, and subtract the cost of feeding them from your money.
+		Print if you run out of money.
+	P - Payday. Increase your money by 100.
+		
+	

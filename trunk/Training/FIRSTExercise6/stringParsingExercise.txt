@@ -1,0 +1,65 @@
+-----------------------------------------------------------------------------------
+String Parsing Exercise
+-----------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------
+Problem 1
+-----------------------------------------------------------------------------------
+
+You are provided with a StudentDatabase.csv file. This file contains information
+about various students at Acme High School, including names, GPAs, Student IDs, 
+Expected Graduation Dates, and Membership in FIRST.
+
+For Problem 1, your goal is to read in the CSV file and print out the contents to
+the console.
+
+When the File fails to compile due to "Throwing a FileNotFoundException", you need to:
+Hover over the red line complaining about the File,
+Select the quick fix for "Add throws declaration",
+Done!
+
+Hint:
+You should look at the Javadocs for the File and Scanner classes:
+https://docs.oracle.com/javase/7/docs/api/java/util/Scanner.html
+https://docs.oracle.com/javase/7/docs/api/java/io/File.html
+
+
+-----------------------------------------------------------------------------------
+Problem 2
+-----------------------------------------------------------------------------------
+
+After completing Problem 1, your next goal is to read in the CSV file and print to
+the console the information for students who are members of FIRST. In other words, you
+want to filter out the students who are not on the FIRST team.
+
+
+-----------------------------------------------------------------------------------
+Problem 3
+-----------------------------------------------------------------------------------
+
+Your next goal is to read in the CSV file and print to the console just the names
+and Student IDs of the students who are members of FIRST.
+
+-----------------------------------------------------------------------------------
+Problem 4
+-----------------------------------------------------------------------------------
+
+At this point, if you have completed problems 1 through 3, you should have a firm
+grasp of how to read data from a CSV file and parse it. Your next goal (if you haven't
+already done this during the previous problems) is to create a Student class
+to hold the information from each row in the CSV file. Then when you read in the CSV
+file, you should store the student information as a list (or array) of Student objects.
+ 
+ 
+-----------------------------------------------------------------------------------
+Problem 5
+-----------------------------------------------------------------------------------
+
+Your next goal is to sort your list (or array) of students alphabetically by name, and print
+to the console the names and student IDs of the FIRST students in alphabetical order.
+
+Hint:
+You may want to look at the "sort" method in the List class and the Comparable interface:
+https://docs.oracle.com/javase/8/docs/api/java/util/List.html
+https://docs.oracle.com/javase/8/docs/api/java/lang/Comparable.html

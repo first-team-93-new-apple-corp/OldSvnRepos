@@ -1,0 +1,9 @@
+Issue 1 - Colby understands this well
+Eclipse:  
+Build path specifies execution environment JavaSE-1.6. There are no JREs installed in the workspace that are strictly compatible with this environment. 	Build path	JRE System Library Problem
+I believe the correct action is to switch to JavaSE-1.8
+
+
+Issue 2 - Believe Colby and Alex S. understand this one
+Eclipse can't find wpilib, networktables, not listed in build path->classpath variables
+Solution: Create a new wpilib project (File->New->Other->WPILib Java Robot).  Creating the new project seems to configure eclipse to your local wpilib installation and things begin to work.  I believe the new project may then be discarded.

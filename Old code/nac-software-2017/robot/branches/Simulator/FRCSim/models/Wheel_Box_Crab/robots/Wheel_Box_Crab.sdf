@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sdf version="1.5">
+  <model name="Wheel_Box_Crab">
+    <pose>0 0 0 0 0 0</pose>
+    <plugin name="clock" filename="libclock.so">
+      <topic>/gazebo/frc/time</topic>
+    </plugin>
+    <link name="Box">
+      <gravity>1</gravity>
+      <self_collide>0</self_collide>
+      <pose>0.153145246615346 1.77288722130145 -0.0624924384928124 0 0 0</pose>
+      <must_be_base_link>1</must_be_base_link>
+      <velocity_decay>
+        <linear>0</linear>
+        <angular>0</angular>
+      </velocity_decay>
+      <inertial>
+        <mass>28.4471590879369</mass>
+        <pose>0 0 0 0 0 0</pose>
+        <inertia>
+          <ixx>0.441916337343042</ixx>
+          <ixy>0.0024120767953384</ixy>
+          <ixz>3.58695853864457E-17</ixz>
+          <iyy>0.4436266149846</iyy>
+          <iyz>1.86354344397112E-16</iyz>
+          <izz>0.443618816222266</izz>
+        </inertia>
+      </inertial>
+      <collision name="Box_collision">
+        <pose>-0.153145246615346 -1.77288722130145 0.0624924384928124 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <scale>1 1 1</scale>
+            <uri>model://Wheel_Box_Crab/meshes/Box_col.STL</uri>
+          </mesh>
+        </geometry>
+        <surface>
+          <contact>
+            <ode />
+          </contact>
+          <friction>
+            <ode>
+              <mu>0</mu>
+              <mu2>0</mu2>
+            </ode>
+          </friction>
+        </surface>
+      </collision>
+      <visual name="Box_visual">
+        <pose>-0.153145246615346 -1.77288722130145 0.0624924384928124 0 0 0</pose>
+        <material>
+          <ambient>1 0 0 1</ambient>
+          <diffuse>1 0 0 1</diffuse>
+        </material>
+        <geometry>
+          <mesh>
+            <scale>1 1 1</scale>
+            <uri>model://Wheel_Box_Crab/meshes/Box.STL</uri>
+          </mesh>
+        </geometry>
+      </visual>
+      <sensor name="BoxCamera" type="camera">
+        <visualize>1</visualize>
+        <always_on>1</always_on>
+        <pose>0.29845 0.2 0.27 0 0 0</pose>
+        <camera name="Boxcamera">
+          <horizontal_fov>1.5707963267949</horizontal_fov>
+          <image>
+            <width>320</width>
+            <height>240</height>
+          </image>
+          <clip>
+            <near>0.1</near>
+            <far>100</far>
+          </clip>
+        </camera>
+      </sensor>
+    </link>
+    <link name="FR_Stick">
+      <gravity>1</gravity>
+      <self_collide>0</self_collide>
+      <pose>0.29845 1.55839354489211 0.0835575615071875 0 0 0</pose>
+      <must_be_base_link>0</must_be_base_link>
+      <velocity_decay>
+        <linear>0</linear>
+        <angular>0</angular>
+      </velocity_decay>
+      <inertial>
+        <mass>0.235763425443376</mass>
+        <pose>0 0 0 0 0 0</pose>
+        <inertia>
+          <ixx>0.000144556984953015</ixx>
+          <ixy>1.71339362461993E-23</ixy>
+          <ixz>2.86301547801887E-21</ixz>
+          <iyy>0.000134003225112169</iyy>
+          <iyz>3.25626197560209E-25</iyz>
+          <izz>0.000178808707496169</izz>
+        </inertia>
+      </inertial>
+      <collision name="FR_Stick_collision">
+        <pose>-0.29845 -1.55839354489211 -0.0835575615071875 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <scale>1 1 1</scale>
+            <uri>model://Wheel_Box_Crab/meshes/FR_Stick_col.STL</uri>
+          </mesh>
+        </geometry>
+        <surface>
+          <contact>
+            <ode />
+          </contact>
+          <friction>
+            <ode>
+              <mu>0</mu>
+              <mu2>0</mu2>
+            </ode>
+          </friction>
+        </surface>
+      </collision>
+      <visual name="FR_Stick_visual">
+        <pose>-0.29845 -1.55839354489211 -0.0835575615071875 0 0 0</pose>
+        <material>
+          <ambient>1 0 0 1</ambient>
+          <diffuse>1 0 0 1</diffuse>
+        </material>
+        <geometry>
+          <mesh>
+            <scale>1 1 1</scale>
+            <uri>model://Wheel_Box_Crab/meshes/FR_Stick.STL</uri>
+          </mesh>
+        </geometry>
+      </visual>
+    </link>
+    <joint name="Box-FR_Stick" type="revolute">
+      <parent>Box</parent>
+      <child>FR_Stick</child>
+      <pose>-5.55111512312578E-17 0 2.77555756156289E-17 0 0 0</pose>
+      <axis>
+        <xyz>0 1 0</xyz>
+        <use_parent_model_frame>1</use_parent_model_frame>
+        <limit>
+          <lower>-1e+16</lower>
+          <upper>1e+16</upper>
+          <effort>-1</effort>
+          <velocity>-1</velocity>
+        </limit>
+        <dynamics>
+          <spring_reference>0</spring_reference>
+          <spring_stiffness>0</spring_stiffness>
+          <damping>0.2</damping>
+          <friction>0.5</friction>
+        </dynamics>
+      </axis>
+      <physics>
+        <ode>
+          <limit>
+            <cfm>0</cfm>
+            <erp>0.2</erp>
+          </limit>
+          <suspension>
+            <cfm>0</cfm>
+            <erp>0.2</erp>
+          </suspension>
+        </ode>
+      </physics>
+    </joint>
+    <link name="FL_Stick">
+      <gravity>1</gravity>
+      <self_collide>0</self_collide>
+      <pose>0.29845 1.55839354489211 -0.208542438492812 0 0 0</pose>
+      <must_be_base_link>0</must_be_base_link>
+      <velocity_decay>
+        <linear>0</linear>
+        <angular>0</angular>
+      </velocity_decay>
+      <inertial>
+        <mass>0.235763425443376</mass>
+        <pose>0 0 0 0 0 0</pose>
+        <inertia>
+          <ixx>0.000144556984953015</ixx>
+          <ixy>1.08352373504352E-23</ixy>
+          <ixz>3.58879778282545E-23</ixz>
+          <iyy>0.000134003225112169</iyy>
+          <iyz>1.14666873091346E-20</iyz>
+          <izz>0.000178808707496169</izz>
+        </inertia>
+      </inertial>
+      <collision name="FL_Stick_collision">
+        <pose>-0.29845 -1.55839354489211 0.208542438492812 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <scale>1 1 1</scale>
+            <uri>model://Wheel_Box_Crab/meshes/FL_Stick_col.STL</uri>
+          </mesh>
+        </geometry>
+        <surface>
+          <contact>
+            <ode />
+          </contact>
+          <friction>
+            <ode>
+              <mu>0</mu>
+              <mu2>0</mu2>
+            </ode>
+          </friction>
+        </surface>
+      </collision>
+      <visual name="FL_Stick_visual">
+        <pose>-0.29845 -1.55839354489211 0.208542438492812 0 0 0</pose>
+        <material>
+          <ambient>1 0 0 1</ambient>
+          <diffuse>1 0 0 1</diffuse>
+        </material>
+        <geometry>
+          <mesh>
+            <scale>1 1 1</scale>
+            <uri>model://Wheel_Box_Crab/meshes/FL_Stick.STL</uri>
+          </mesh>
+        </geometry>
+      </visual>
+    </link>
+    <joint name="Box-FL_Stick" type="revolute">
+      <parent>Box</parent>
+      <child>FL_Stick</child>
+      <pose>0 0 -2.77555756156289E-17 0 0 0</pose>
+      <axis>
+        <xyz>0 1 0</xyz>
+        <use_parent_model_frame>1</use_parent_model_frame>
+        <limit>
+          <lower>-1e+16</lower>
+          <upper>1e+16</upper>
+          <effort>-1</effort>
+          <velocity>-1</velocity>
+        </limit>
+        <dynamics>
+          <spring_reference>0</spring_reference>
+          <spring_stiffness>0</spring_stiffness>
+          <damping>0.2</damping>
+          <friction>0.5</friction>
+        </dynamics>
+      </axis>
+      <physics>
+        <ode>
+          <limit>
+            <cfm>0</cfm>
+            <erp>0.2</erp>
+          </limit>
+          <suspension>
+            <cfm>0</cfm>
+            <erp>0.2</erp>
+          </suspension>
+        </ode>
+      </physics>
+    </joint>
+    <link name="BL_Stick">
+      <gravity>1</gravity>
+      <self_collide>0</self_collide>
+      <pose>0.00635 1.55839354489211 -0.208542438492812 0 0 0</pose>
+      <must_be_base_link>0</must_be_base_link>
+      <velocity_decay>
+        <linear>0</linear>
+        <angular>0</angular>
+      </velocity_decay>
+      <inertial>
+        <mass>0.235763425443376</mass>
+        <pose>0 0 0 0 0 0</pose>
+        <inertia>
+          <ixx>0.000144556984953015</ixx>
+          <ixy>1.0471156374155E-21</ixy>
+          <ixz>4.48221601255364E-23</ixz>
+          <iyy>0.000134003225112169</iyy>
+          <iyz>1.71061063325853E-20</iyz>
+          <izz>0.000178808707496169</izz>
+        </inertia>
+      </inertial>
+      <collision name="BL_Stick_collision">
+        <pose>-0.00635 -1.55839354489211 0.208542438492812 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <scale>1 1 1</scale>
+            <uri>model://Wheel_Box_Crab/meshes/BL_Stick_col.STL</uri>
+          </mesh>
+        </geometry>
+        <surface>
+          <contact>
+            <ode />
+          </contact>
+          <friction>
+            <ode>
+              <mu>0</mu>
+              <mu2>0</mu2>
+            </ode>
+          </friction>
+        </surface>
+      </collision>
+      <visual name="BL_Stick_visual">
+        <pose>-0.00635 -1.55839354489211 0.208542438492812 0 0 0</pose>
+        <material>
+          <ambient>1 0 0 1</ambient>
+          <diffuse>1 0 0 1</diffuse>
+        </material>
+        <geometry>
+          <mesh>
+            <scale>1 1 1</scale>
+            <uri>model://Wheel_Box_Crab/meshes/BL_Stick.STL</uri>
+          </mesh>
+        </geometry>
+      </visual>
+    </link>
+    <joint name="Box-BL_Stick" type="revolute">
+      <parent>Box</parent>
+      <child>BL_Stick</child>
+      <pose>8.67361737988404E-19 0 -5.55111512312578E-17 0 0 0</pose>
+      <axis>
+        <xyz>0 1 0</xyz>
+        <use_parent_model_frame>1</use_parent_model_frame>
+        <limit>
+          <lower>-1e+16</lower>
+          <upper>1e+16</upper>
+          <effort>-1</effort>
+          <velocity>-1</velocity>
+        </limit>
+        <dynamics>
+          <spring_reference>0</spring_reference>
+          <spring_stiffness>0</spring_stiffness>
+          <damping>0.2</damping>
+          <friction>0.5</friction>
+        </dynamics>
+      </axis>
+      <physics>
+        <ode>
+          <limit>
+            <cfm>0</cfm>
+            <erp>0.2</erp>
+          </limit>
+          <suspension>
+            <cfm>0</cfm>
+            <erp>0.2</erp>
+          </suspension>
+        </ode>
+      </physics>
+    </joint>
+    <link name="BR_Stick">
+      <gravity>1</gravity>
+      <self_collide>0</self_collide>
+      <pose>0.00635 1.55839354489211 0.0835575615071876 0 0 0</pose>
+      <must_be_base_link>0</must_be_base_link>
+      <velocity_decay>
+        <linear>0</linear>
+        <angular>0</angular>
+      </velocity_decay>
+      <inertial>
+        <mass>0.235763425443376</mass>
+        <pose>0 0 0 0 0 0</pose>
+        <inertia>
+          <ixx>0.000144556984953015</ixx>
+          <ixy>3.70118682080908E-22</ixy>
+          <ixz>2.95726988139465E-21</ixz>
+          <iyy>0.000134003225112169</iyy>
+          <iyz>2.66953482612113E-21</iyz>
+          <izz>0.000178808707496169</izz>
+        </inertia>
+      </inertial>
+      <collision name="BR_Stick_collision">
+        <pose>-0.00635 -1.55839354489211 -0.0835575615071876 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <scale>1 1 1</scale>
+            <uri>model://Wheel_Box_Crab/meshes/BR_Stick_col.STL</uri>
+          </mesh>
+        </geometry>
+        <surface>
+          <contact>
+            <ode />
+          </contact>
+          <friction>
+            <ode>
+              <mu>0</mu>
+              <mu2>0</mu2>
+            </ode>
+          </friction>
+        </surface>
+      </collision>
+      <visual name="BR_Stick_visual">
+        <pose>-0.00635 -1.55839354489211 -0.0835575615071876 0 0 0</pose>
+        <material>
+          <ambient>1 0 0 1</ambient>
+          <diffuse>1 0 0 1</diffuse>
+        </material>
+        <geometry>
+          <mesh>
+            <scale>1 1 1</scale>
+            <uri>model://Wheel_Box_Crab/meshes/BR_Stick.STL</uri>
+          </mesh>
+        </geometry>
+      </visual>
+    </link>
+    <joint name="Box-BR_Stick" type="revolute">
+      <parent>Box</parent>
+      <child>BR_Stick</child>
+      <pose>1.73472347597681E-18 3.5527136788005E-15 1.38777878078145E-17 0 0 0</pose>
+      <axis>
+        <xyz>0 1 0</xyz>
+        <use_parent_model_frame>1</use_parent_model_frame>
+        <limit>
+          <lower>-1e+16</lower>
+          <upper>1e+16</upper>
+          <effort>-1</effort>
+          <velocity>-1</velocity>
+        </limit>
+        <dynamics>
+          <spring_reference>0</spring_reference>
+          <spring_stiffness>0</spring_stiffness>
+          <damping>0.2</damping>
+          <friction>0.5</friction>
+        </dynamics>
+      </axis>
+      <physics>
+        <ode>
+          <limit>
+            <cfm>0</cfm>
+            <erp>0.2</erp>
+          </limit>
+          <suspension>
+            <cfm>0</cfm>
+            <erp>0.2</erp>
+          </suspension>
+        </ode>
+      </physics>
+    </joint>
+    <link name="FR_Wheel">
+      <gravity>1</gravity>
+      <self_collide>0</self_collide>
+      <pose>0.29845 1.55751081377124 0.0835575615071875 0 0 0</pose>
+      <must_be_base_link>0</must_be_base_link>
+      <velocity_decay>
+        <linear>0</linear>
+        <angular>0</angular>
+      </velocity_decay>
+      <inertial>
+        <mass>0.231666659443376</mass>
+        <pose>0 0 0 0 0 0</pose>
+        <inertia>
+          <ixx>0.000133893097214146</ixx>
+          <ixy>1.01957882312477E-52</ixy>
+          <ixz>2.86861824803456E-21</ixz>
+          <iyy>0.000133893097214146</iyy>
+          <iyz>4.33246001477765E-37</iyz>
+          <izz>0.0001681448197573</izz>
+        </inertia>
+      </inertial>
+      <kinematic>0</kinematic>
+      <collision name="FR_Wheel_collision">
+        <laser_retro>0</laser_retro>
+        <pose>-0.29845 -1.55751081377124 -0.0835575615071875 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <scale>1 1 1</scale>
+            <uri>model://Wheel_Box_Crab/meshes/FR_Wheel_col.STL</uri>
+          </mesh>
+        </geometry>
+        <surface>
+          <friction>
+            <ode>
+              <mu>0.1</mu>
+              <mu2>0.1</mu2>
+	      <fdir1>0 0 0</fdir1>
+              <slip1>0</slip1>
+              <slip2>0</slip2>
+            </ode>
+          </friction>
+	  <bounce>
+            <restitution_coefficient>0</restitution_coefficient>
+            <threshold>1e+06</threshold>
+          </bounce>
+          <contact>
+            <collide_without_contact>0</collide_without_contact>
+            <collide_without_contact_bitmask>1</collide_without_contact_bitmask>
+            <collide_bitmask>1</collide_bitmask>
+            <ode>
+              <soft_cfm>0</soft_cfm>
+              <soft_erp>0.2</soft_erp>
+              <kp>1e+13</kp>
+              <kd>1</kd>
+              <max_vel>0.01</max_vel>
+              <min_depth>0</min_depth>
+            </ode>
+            <bullet>
+              <split_impulse>1</split_impulse>
+              <split_impulse_penetration_threshold>-0.01</split_impulse_penetration_threshold>
+              <soft_cfm>0</soft_cfm>
+              <soft_erp>0.2</soft_erp>
+              <kp>1e+13</kp>
+              <kd>1</kd>
+            </bullet>
+          </contact>
+        </surface>
+      </collision>
+      <visual name="FR_Wheel_visual">
+        <pose>-0.29845 -1.55751081377124 -0.0835575615071875 0 0 0</pose>
+        <material>
+          <ambient>1 0 0 1</ambient>
+          <diffuse>1 0 0 1</diffuse>
+        </material>
+        <geometry>
+          <mesh>
+            <scale>1 1 1</scale>
+            <uri>model://Wheel_Box_Crab/meshes/FR_Wheel.STL</uri>
+          </mesh>
+        </geometry>
+      </visual>
+    </link>
+    <joint name="FR_Stick-FR_Wheel" type="revolute">
+      <parent>FR_Stick</parent>
+      <child>FR_Wheel</child>
+      <pose>0 0 0 0 0 0</pose>
+      <axis>
+        <xyz>0 0 -1</xyz>
+        <use_parent_model_frame>1</use_parent_model_frame>
+        <limit>
+          <lower>-1e+16</lower>
+          <upper>1e+16</upper>
+          <effort>-1</effort>
+          <velocity>-1</velocity>
+        </limit>
+        <dynamics>
+          <spring_reference>0</spring_reference>
+          <spring_stiffness>0</spring_stiffness>
+          <damping>0.2</damping>
+          <friction>0.5</friction>
+        </dynamics>
+      </axis>
+      <physics>
+        <ode>
+          <limit>
+            <cfm>0</cfm>
+            <erp>0.2</erp>
+          </limit>
+          <suspension>
+            <cfm>0</cfm>
+            <erp>0.2</erp>
+          </suspension>
+        </ode>
+      </physics>
+    </joint>
+    <link name="FL_Wheel">
+      <gravity>1</gravity>
+      <self_collide>0</self_collide>
+      <pose>0.29845 1.55751081377124 -0.208542438492812 0 0 0</pose>
+      <must_be_base_link>0</must_be_base_link>
+      <velocity_decay>
+        <linear>0</linear>
+        <angular>0</angular>
+      </velocity_decay>
+      <inertial>
+        <mass>0.231666659443376</mass>
+        <pose>0 0 0 0 0 0</pose>
+        <inertia>
+          <ixx>0.000133893097214146</ixx>
+          <ixy>0</ixy>
+          <ixz>7.3468396926393E-37</ixz>
+          <iyy>0.000133893097214146</iyy>
+          <iyz>4.33246001477765E-37</iyz>
+          <izz>0.0001681448197573</izz>
+        </inertia>
+      </inertial>
+      <collision name="FL_Wheel_collision">
+        <pose>-0.29845 -1.55751081377124 0.208542438492812 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <scale>1 1 1</scale>
+            <uri>model://Wheel_Box_Crab/meshes/FL_Wheel_col.STL</uri>
+          </mesh>
+        </geometry>
+        <surface>
+          <friction>
+            <ode>
+              <mu>0.1</mu>
+              <mu2>0.1</mu2>
+	      <fdir1>0 0 0</fdir1>
+              <slip1>0</slip1>
+              <slip2>0</slip2>
+            </ode>
+          </friction>
+	  <bounce>
+            <restitution_coefficient>0</restitution_coefficient>
+            <threshold>1e+06</threshold>
+          </bounce>
+          <contact>
+            <collide_without_contact>0</collide_without_contact>
+            <collide_without_contact_bitmask>1</collide_without_contact_bitmask>
+            <collide_bitmask>1</collide_bitmask>
+            <ode>
+              <soft_cfm>0</soft_cfm>
+              <soft_erp>0.2</soft_erp>
+              <kp>1e+13</kp>
+              <kd>1</kd>
+              <max_vel>0.01</max_vel>
+              <min_depth>0</min_depth>
+            </ode>
+            <bullet>
+              <split_impulse>1</split_impulse>
+              <split_impulse_penetration_threshold>-0.01</split_impulse_penetration_threshold>
+              <soft_cfm>0</soft_cfm>
+              <soft_erp>0.2</soft_erp>
+              <kp>1e+13</kp>
+              <kd>1</kd>
+            </bullet>
+          </contact>
+        </surface>
+      </collision>
+      <visual name="FL_Wheel_visual">
+        <pose>-0.29845 -1.55751081377124 0.208542438492812 0 0 0</pose>
+        <material>
+          <ambient>1 0 0 1</ambient>
+          <diffuse>1 0 0 1</diffuse>
+        </material>
+        <geometry>
+          <mesh>
+            <scale>1 1 1</scale>
+            <uri>model://Wheel_Box_Crab/meshes/FL_Wheel.STL</uri>
+          </mesh>
+        </geometry>
+      </visual>
+    </link>
+    <joint name="FL_Stick-FL_Wheel" type="revolute">
+      <parent>FL_Stick</parent>
+      <child>FL_Wheel</child>
+      <pose>0 0 0 0 0 0</pose>
+      <axis>
+        <xyz>0 0 -1</xyz>
+        <dynamics>
+          <spring_reference>0</spring_reference>
+          <spring_stiffness>0</spring_stiffness>
+          <damping>0.2</damping>
+          <friction>0.5</friction>
+        </dynamics>
+      </axis>
+      <physics>
+        <ode>
+          <limit>
+            <cfm>0</cfm>
+            <erp>0.2</erp>
+          </limit>
+          <suspension>
+            <cfm>0</cfm>
+            <erp>0.2</erp>
+          </suspension>
+        </ode>
+      </physics>
+    </joint>
+    <link name="BL_Wheel">
+      <gravity>1</gravity>
+      <self_collide>0</self_collide>
+      <pose>0.00635 1.55751081377124 -0.208542438492812 0 0 0</pose>
+      <must_be_base_link>0</must_be_base_link>
+      <velocity_decay>
+        <linear>0</linear>
+        <angular>0</angular>
+      </velocity_decay>
+      <inertial>
+        <mass>0.231666659443376</mass>
+        <pose>0 0 0 0 0 0</pose>
+        <inertia>
+          <ixx>0.000133893097214146</ixx>
+          <ixy>0</ixy>
+          <ixz>0</ixz>
+          <iyy>0.000133893097214146</iyy>
+          <iyz>4.33246001477765E-37</iyz>
+          <izz>0.0001681448197573</izz>
+        </inertia>
+      </inertial>
+      <collision name="BL_Wheel_collision">
+        <pose>-0.00635 -1.55751081377124 0.208542438492812 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <scale>1 1 1</scale>
+            <uri>model://Wheel_Box_Crab/meshes/BL_Wheel_col.STL</uri>
+          </mesh>
+        </geometry>
+        <surface>
+          <friction>
+            <ode>
+              <mu>0.1</mu>
+              <mu2>0.1</mu2>
+	      <fdir1>0 0 0</fdir1>
+              <slip1>0</slip1>
+              <slip2>0</slip2>
+            </ode>
+          </friction>
+	  <bounce>
+            <restitution_coefficient>0</restitution_coefficient>
+            <threshold>1e+06</threshold>
+          </bounce>
+          <contact>
+            <collide_without_contact>0</collide_without_contact>
+            <collide_without_contact_bitmask>1</collide_without_contact_bitmask>
+            <collide_bitmask>1</collide_bitmask>
+            <ode>
+              <soft_cfm>0</soft_cfm>
+              <soft_erp>0.2</soft_erp>
+              <kp>1e+13</kp>
+              <kd>1</kd>
+              <max_vel>0.01</max_vel>
+              <min_depth>0</min_depth>
+            </ode>
+            <bullet>
+              <split_impulse>1</split_impulse>
+              <split_impulse_penetration_threshold>-0.01</split_impulse_penetration_threshold>
+              <soft_cfm>0</soft_cfm>
+              <soft_erp>0.2</soft_erp>
+              <kp>1e+13</kp>
+              <kd>1</kd>
+            </bullet>
+          </contact>
+        </surface>
+      </collision>
+      <visual name="BL_Wheel_visual">
+        <pose>-0.00635 -1.55751081377124 0.208542438492812 0 0 0</pose>
+        <material>
+          <ambient>1 0 0 1</ambient>
+          <diffuse>1 0 0 1</diffuse>
+        </material>
+        <geometry>
+          <mesh>
+            <scale>1 1 1</scale>
+            <uri>model://Wheel_Box_Crab/meshes/BL_Wheel.STL</uri>
+          </mesh>
+        </geometry>
+      </visual>
+    </link>
+
+    <joint name="BL_Stick-BL_Wheel" type="revolute">
+      <parent>BL_Stick</parent>
+      <child>BL_Wheel</child>
+      <pose>0 0 0 0 0 0</pose>
+      <axis>
+        <xyz>0 0 -1</xyz>
+        <dynamics>
+          <spring_reference>0</spring_reference>
+          <spring_stiffness>0</spring_stiffness>
+          <damping>0.2</damping>
+          <friction>0.5</friction>
+        </dynamics>
+      </axis>
+      <physics>
+        <ode>
+          <limit>
+            <cfm>0</cfm>
+            <erp>0.2</erp>
+          </limit>
+          <suspension>
+            <cfm>0</cfm>
+            <erp>0.2</erp>
+          </suspension>
+        </ode>
+      </physics>
+    </joint>
+
+
+
+    <link name="BR_Wheel">  <!-- Trying to fix this -->
+      <gravity>1</gravity>
+      <self_collide>0</self_collide>
+      <pose>0.00635 1.55751081377124 0.0835575615071875 0 0 0</pose>
+      <must_be_base_link>0</must_be_base_link>
+      <velocity_decay>
+        <linear>0</linear>
+        <angular>0</angular>
+      </velocity_decay>
+      <inertial>
+        <mass>0.231666659443376</mass>
+        <pose>0 0 0 0 0 0</pose>
+        <inertia>
+          <ixx>0.000133893097214146</ixx>
+          <ixy>0</ixy>
+          <ixz>0</ixz>
+          <iyy>0.000133893097214146</iyy>
+          <iyz>4.33246001477765E-37</iyz>
+          <izz>0.0001681448197573</izz>
+        </inertia>
+      </inertial>
+      <collision name="BR_Wheel_collision">
+        <pose>-0.00635 -1.55751081377124 -0.0835575615071875 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <scale>1 1 1</scale>
+            <uri>model://Wheel_Box_Crab/meshes/BR_Wheel_col.STL</uri>
+          </mesh>
+        </geometry>
+        <surface>
+          <friction>
+            <ode>
+              <mu>0.1</mu>
+              <mu2>0.1</mu2>
+	      <fdir1>0 0 0</fdir1>
+              <slip1>0</slip1>
+              <slip2>0</slip2>
+            </ode>
+          </friction>
+	  <bounce>
+            <restitution_coefficient>0</restitution_coefficient>
+            <threshold>1e+06</threshold>
+          </bounce>
+          <contact>
+            <collide_without_contact>0</collide_without_contact>
+            <collide_without_contact_bitmask>1</collide_without_contact_bitmask>
+            <collide_bitmask>1</collide_bitmask>
+            <ode>
+              <soft_cfm>0</soft_cfm>
+              <soft_erp>0.2</soft_erp>
+              <kp>1e+13</kp>
+              <kd>1</kd>
+              <max_vel>0.01</max_vel>
+              <min_depth>0</min_depth>
+            </ode>
+            <bullet>
+              <split_impulse>1</split_impulse>
+              <split_impulse_penetration_threshold>-0.01</split_impulse_penetration_threshold>
+              <soft_cfm>0</soft_cfm>
+              <soft_erp>0.2</soft_erp>
+              <kp>1e+13</kp>
+              <kd>1</kd>
+            </bullet>
+          </contact>
+        </surface>
+      </collision>
+      <visual name="BR_Wheel_visual">
+        <pose>-0.00635 -1.55751081377124 -0.0835575615071875 0 0 0</pose>
+        <material>
+          <ambient>1 0 0 1</ambient>
+          <diffuse>1 0 0 1</diffuse>
+        </material>
+        <geometry>
+          <mesh>
+            <scale>1 1 1</scale>
+            <uri>model://Wheel_Box_Crab/meshes/BR_Wheel.STL</uri>
+          </mesh>
+        </geometry>
+      </visual>
+    </link>
+
+    <joint name="BR_Stick-BR_Wheel" type="revolute">
+      <parent>BR_Stick</parent>
+      <child>BR_Wheel</child>
+      <pose>0 0 0 0 0 0</pose>
+      <axis>
+        <xyz>0 0 -1</xyz>
+        <dynamics>
+          <spring_reference>0</spring_reference>
+          <spring_stiffness>0</spring_stiffness>
+          <damping>0.2</damping>
+          <friction>0.5</friction>
+        </dynamics>
+      </axis>
+      <physics>
+        <ode>
+          <limit>
+            <cfm>0</cfm>
+            <erp>0.2</erp>
+          </limit>
+          <suspension>
+            <cfm>0</cfm>
+            <erp>0.2</erp>
+          </suspension>
+        </ode>
+      </physics>
+    </joint>
+    <plugin name="Box_gyro" filename="libgyro.so">
+      <link>Box</link>
+      <topic>/gazebo/frc/simulator/analog/0</topic>
+      <units>degrees</units>
+      <axis>yaw</axis>
+    </plugin>
+    <plugin name="Box-FR Stick_motor" filename="libdc_motor.so">
+      <joint>Box-FR_Stick</joint>
+      <topic>/gazebo/frc/simulator/pwm/5</topic>
+      <multiplier>5</multiplier>
+    </plugin>
+    <plugin name='Box-FR Stick-Encoder' filename='libencoder.so'>
+      <joint>Box-FR_Stick</joint>
+      <topic>/gazebo/frc/simulator/dio/1/2</topic>
+      <units>degrees</units>
+    </plugin>
+    <plugin name="Box-FL Stick_motor" filename="libdc_motor.so">
+      <joint>Box-FL_Stick</joint>
+      <topic>/gazebo/frc/simulator/pwm/6</topic>
+      <multiplier>5</multiplier>
+    </plugin>
+    <plugin name='Box-FL Stick-Encoder' filename='libencoder.so'>
+      <joint>Box-FL_Stick</joint>
+      <topic>/gazebo/frc/simulator/dio/3/4</topic>
+      <units>degrees</units>
+    </plugin>
+    <plugin name="Box-BL Stick_motor" filename="libdc_motor.so">
+      <joint>Box-BL_Stick</joint>
+      <topic>/gazebo/frc/simulator/pwm/7</topic>
+      <multiplier>5</multiplier>
+    </plugin>
+    <plugin name='Box-BL Stick-Encoder' filename='libencoder.so'>
+      <joint>Box-BL_Stick</joint>
+      <topic>/gazebo/frc/simulator/dio/5/6</topic>
+      <units>degrees</units>
+    </plugin>
+    <plugin name="Box-BR Stick_motor" filename="libdc_motor.so">
+      <joint>Box-BR_Stick</joint>
+      <topic>/gazebo/frc/simulator/pwm/8</topic>
+      <multiplier>5</multiplier>
+    </plugin>
+    <plugin name='Box-BR Stick-Encoder' filename='libencoder.so'>
+      <joint>Box-BR_Stick</joint>
+      <topic>/gazebo/frc/simulator/dio/7/8</topic>
+      <units>degrees</units>
+    </plugin>
+    <plugin name="FR Stick-FR Wheel_motor" filename="libdc_motor.so">
+      <joint>FR_Stick-FR_Wheel</joint>
+      <topic>/gazebo/frc/simulator/pwm/1</topic>
+      <multiplier>20</multiplier>
+    </plugin>
+    <plugin name='Left_Wheel-Encoder' filename='libencoder.so'>
+      <joint>FR_Stick-FR_Wheel</joint>
+      <topic>/gazebo/frc/simulator/dio/9/10</topic>
+      <units>degrees</units>
+    </plugin>
+    <plugin name="FL Stick-FL Wheel_motor" filename="libdc_motor.so">
+      <joint>FL_Stick-FL_Wheel</joint>
+      <topic>/gazebo/frc/simulator/pwm/2</topic>
+      <multiplier>20</multiplier>
+    </plugin>
+    <plugin name='Right_Wheel-Encoder' filename='libencoder.so'>
+      <joint>FL_Stick-FL_Wheel</joint>
+      <topic>/gazebo/frc/simulator/dio/11/12</topic>
+      <units>degrees</units>
+    </plugin>
+    <plugin name="BL Stick-BL Wheel_motor" filename="libdc_motor.so">
+      <joint>BL_Stick-BL_Wheel</joint>
+      <topic>/gazebo/frc/simulator/pwm/3</topic>
+      <multiplier>20</multiplier>
+    </plugin>
+    <plugin name="BR Stick-BR Wheel_motor" filename="libdc_motor.so">
+      <joint>BR_Stick-BR_Wheel</joint>
+      <topic>/gazebo/frc/simulator/pwm/4</topic>
+      <multiplier>20</multiplier>
+    </plugin>
+  </model>
+</sdf>

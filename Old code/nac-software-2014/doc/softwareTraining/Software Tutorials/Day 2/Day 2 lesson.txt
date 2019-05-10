@@ -1,0 +1,16 @@
+Congradulate class for showing up for a second time
+Topic: Continue work on calucator
+Check on homework
+	must have 2 if statements done.
+	must be able to add and subtract
+
+Talk about and, or statements (&&, ||)
+Use switchs from autonomous code as examples
+T. Hanks and N. Luther talk about it
+
+Complete:
+	must have 2 more if statements (total of four)
+	must be able to mulitply and divide (use the new statement types)
+	opitional have any of the following: exponts, pi function
+	visit http://www.w3schools.com/jsref/jsref_obj_math.asp for mor ideas
+

@@ -1,0 +1,27 @@
+
+
+Error Directory:
+	0-99    --General--
+	100-199 --Vision Tape--
+				100:  No Camera
+				101:  No image from camera
+				102:  No contours found
+				103:  No pieces of tape found
+				104:  Two pieces of tape not found
+	200-299 --Null--
+				200:  Distance forward null
+				201:  Distance to center null
+				202:  Quality score null
+	300-399 --Camera--
+				300:  Camera not found
+				301:  Camera will not open
+				302:  Camera will not read
+	400-499 --Connection--
+				400:  Data not sent
+				401:  Roborio is not found
+	500-599 --Exepctions--
+				500:  Side found is not a legitimate value
+	600-699 --
+	700-699 --
+	800-899 --
+	900-999 --

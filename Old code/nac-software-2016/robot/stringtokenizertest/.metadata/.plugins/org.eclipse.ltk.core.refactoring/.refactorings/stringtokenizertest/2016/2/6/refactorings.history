@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;StringTokenizerTestMain.java&apos; to &apos;FileInput.java&apos;&#x0D;&#x0A;- Original project: &apos;stringtokenizertest&apos;&#x0D;&#x0A;- Destination element: &apos;FileInput.java&apos;&#x0D;&#x0A;- Original element: &apos;stringtokenizertest.StringTokenizerTestMain.java&apos;" description="Copy compilation unit" destination="=StringTokenizer Test/src&lt;{FileInput.java" element1="/src&lt;stringtokenizertest{StringTokenizerTestMain.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1454779371319" units="1" version="1.0"/>
+</session>

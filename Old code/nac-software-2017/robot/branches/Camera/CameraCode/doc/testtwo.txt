@@ -1,0 +1,354 @@
+CS: cam: Connecting to USB camera on /dev/video0
+CS: cam: set format 1 res 160x120
+CS: cam: Connecting to USB camera on /dev/video0
+CS: cam: set format 1 res 640x480
+CS: cam: set FPS to 7
+index size 1
+index size 2
+index size 3
+index size 4
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+index size 5
+driving left
+box zero 242.0
+index size 6
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+index size 7
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+index size 8
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+index size 9
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+index size 10
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+index size 11
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+driving left
+box zero 242.0
+OpenCV Error: Insufficient memory (Failed to allocate 921600 bytes) in OutOfMemoryError, file /var/lib/jenkins/workspace/OpenCV-roborio/modules/core/src/alloc.cpp, line 52
+OpenCV Error: Assertion failed (u != 0) in create, file /var/lib/jenkins/workspace/OpenCV-roborio/modules/core/src/matrix.cpp, line 424
+Exception in thread "Thread-0" CvException [org.opencv.core.CvException: cv::Exception: /var/lib/jenkins/workspace/OpenCV-roborio/modules/core/src/matrix.cpp:424: error: (-215) u != 0 in function create
+]
+	at org.opencv.imgproc.Imgproc.cvtColor_1(Native Method)
+	at org.opencv.imgproc.Imgproc.cvtColor(Unknown Source)
+	at org.usfirst.frc.team93.robot.commands.VisionProcessor2017.processor(VisionProcessor2017.java:149)
+	at org.usfirst.frc.team93.robot.commands.VisionProcessor2017$RunnableVisionProcessor.run(VisionProcessor2017.java:452)
+	at java.lang.Thread.run(Thread.java:745)
+terminate called after throwing an instance of 'std::system_error'
+  what():  Resource temporarily unavailable
+➔ Launching «'/usr/local/frc/JRE/bin/java' '-Djava.library.path=/usr/local/frc/lib/' '-jar' '/home/lvuser/FRCUserProgram.jar'»
+********** Robot program starting **********
+NT: server: client CONNECTED: 172.22.11.1 port 60501
+robot init
+Default IterativeRobot.robotPeriodic() method... Overload me!

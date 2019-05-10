@@ -1,0 +1,9 @@
+package newTextBasedAdventure;
+
+public class ScenarioTreeBuilder {
+	Scenario end1 = new Scenario("dream 1");
+	Scenario end2 = new Scenario("dream 2");
+	Scenario end3 = new Scenario("dream 3");
+	Scenario end4 = new Scenario("dream 4");
+	Scenario end5 = new Scenario("You didn't have any dreams");
+}

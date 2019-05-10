@@ -1,0 +1,2 @@
+Increasing framerate:
+https://picamera.readthedocs.io/en/latest/api_mmalobj.html

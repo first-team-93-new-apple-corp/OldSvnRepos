@@ -1,0 +1,35 @@
+1. Drive
+	Finish Drive code(disconnected encoders)
+	Turn Modes
+	Test Drive Code
+	Driver Tryouts
+	Customize controller
+	Autonomus Driver code
+2. Gear
+	a. finish up code for testing
+	b. test track
+	c. test claw
+	d. finalize code in trunk
+3. Cimber
+	a. test climber when constructed
+	b. finalize code in trunk
+4. Basic Auto Modes
+	a. Drive forward/more advanced Driving
+	b. Gear Placement
+	c. pick up gear from ally (a good joke)
+	d. optimize Auto code
+5. Camera
+	a. finish camera switching code
+	b. test camera switching code
+	c. finalize camera switching code in trunk with the rest of the robot
+6. Other (anything not directly affecting the robot or it's development)
+	a. fix all computers with broken driver station
+	b. Button Board
+		i. order buttons and joystick(s)
+		ii. Get overall layout from after Driver Tryouts
+		iii. construct final button board
+		iv. test final button board
+	c. Simulator
+		i. finish robot in simulator
+		ii. test robot in simulator
+		iii. write autonomus code for the crab drive in the simulator

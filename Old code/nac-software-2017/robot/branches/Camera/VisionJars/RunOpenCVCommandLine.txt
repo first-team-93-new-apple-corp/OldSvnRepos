@@ -1,0 +1,1 @@
+java -Djava.library.path="C:\Users\Admin93\Vision2017\OpenCV-2.4.13\opencv\build\java\x64" -jar CameraCodeV8.jar

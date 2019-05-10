@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.Encoder"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team93.robot.OI"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.GenericHID.Hand"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team93.robot.utilities.DriveChooser"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.CameraServer"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team93.robot.Robot"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team93.robot.commands.DriveEncoderTicks"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team93.robot.subsystems.Drive"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team93.robot.commands.ScalerMove"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team93.robot.commands.AngleVelocity"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team93.robot.Robot.AutoPath"/>
+<fullyQualifiedTypeName name="realisticAutoCases.LeftLeft"/>
+<fullyQualifiedTypeName name="realisticAutoCases.MidLeft"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team93.robot.utilities.AutoSelector.path"/>
+<fullyQualifiedTypeName name="realisticAutoCases.LeftRightBehind"/>
+<fullyQualifiedTypeName name="realisticAutoCases.RightLeftBehind"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team93.robot.commands.TurnDeg"/>
+</qualifiedTypeNameHistroy>

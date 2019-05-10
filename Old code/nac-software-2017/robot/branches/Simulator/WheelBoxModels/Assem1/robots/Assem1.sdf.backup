@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sdf version="1.5">
+  <model name="Assem1">
+    <pose>0 0 0 0 0 0</pose>
+    <plugin name="clock" filename="libgz_clock.so">
+      <topic>/gazebo/frc/time</topic>
+    </plugin>
+    <link name="Box">
+      <gravity>1</gravity>
+      <self_collide>0</self_collide>
+      <pose>-0.1524 -0.1524 0.112215306434483 -1.5707963267949 0 -1.5707963267949</pose>
+      <must_be_base_link>1</must_be_base_link>
+      <velocity_decay>
+        <linear>0</linear>
+        <angular>0</angular>
+      </velocity_decay>
+      <inertial>
+        <mass>20.8502862045901</mass>
+        <pose>0 0 0 0 0 0</pose>
+        <inertia>
+          <ixx>0.248938760332727</ixx>
+          <ixy>1.40998324127395E-16</ixy>
+          <ixz>2.06207631654528E-33</ixz>
+          <iyy>0.32284249554608</iyy>
+          <iyz>7.04991620636974E-17</iyz>
+          <izz>0.248938760332727</izz>
+        </inertia>
+      </inertial>
+      <collision name="Box_collision">
+        <pose>-0.145069105676851 -0.0972502325598028 0.090476788751854 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <scale>1 1 1</scale>
+            <uri>model://Assem1/meshes/Box_col.STL</uri>
+          </mesh>
+        </geometry>
+        <surface>
+          <contact>
+            <ode />
+          </contact>
+          <friction>
+            <ode>
+              <mu>0.1</mu>
+              <mu2>0.1</mu2>
+            </ode>
+          </friction>
+        </surface>
+      </collision>
+      <visual name="Box_visual">
+        <pose>-0.145069105676851 -0.0972502325598028 0.090476788751854 0 0 0</pose>
+        <material>
+          <ambient>1 0 0 1</ambient>
+          <diffuse>1 0 0 1</diffuse>
+        </material>
+        <geometry>
+          <mesh>
+            <scale>1 1 1</scale>
+            <uri>model://Assem1/meshes/Box.STL</uri>
+          </mesh>
+        </geometry>
+      </visual>
+      <sensor name="BoxCamera" type="camera">
+        <visualize>1</visualize>
+        <always_on>1</always_on>
+        <pose>-0.1524 -0.112215306434483 0.1524 0 4.71238898038469 0</pose>
+        <camera name="Boxcamera">
+          <horizontal_fov>1.5707963267949</horizontal_fov>
+          <image>
+            <width>320</width>
+            <height>240</height>
+          </image>
+          <clip>
+            <near>0.1</near>
+            <far>100</far>
+          </clip>
+        </camera>
+      </sensor>
+    </link>
+    <link name="Front_left">
+      <gravity>1</gravity>
+      <self_collide>0</self_collide>
+      <pose>-0.00507999999999992 -0.3302 0.00507999999999997 -1.5707963267949 0 -1.5707963267949</pose>
+      <must_be_base_link>0</must_be_base_link>
+      <velocity_decay>
+        <linear>0</linear>
+        <angular>0</angular>
+      </velocity_decay>
+      <inertial>
+        <mass>0.231666659443376</mass>
+        <pose>0 0 0 0 0 0</pose>
+        <inertia>
+          <ixx>0.0001681448197573</ixx>
+          <ixy>1.43430912401728E-21</ixy>
+          <ixz>2.86861824803457E-21</ixz>
+          <iyy>0.000133893097214146</iyy>
+          <iyz>2.15146368602593E-21</iyz>
+          <izz>0.000133893097214146</izz>
+        </inertia>
+      </inertial>
+      <collision name="Front_left_collision">
+        <pose>-0.322869105676851 -0.204385538994286 -0.0568432112481461 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <scale>1 1 1</scale>
+            <uri>model://Assem1/meshes/Front_left_col.STL</uri>
+          </mesh>
+        </geometry>
+        <surface>
+          <contact>
+            <ode />
+          </contact>
+          <friction>
+            <ode>
+              <mu>0.1</mu>
+              <mu2>0.1</mu2>
+            </ode>
+          </friction>
+        </surface>
+      </collision>
+      <visual name="Front_left_visual">
+        <pose>-0.322869105676851 -0.204385538994286 -0.0568432112481461 0 0 0</pose>
+        <material>
+          <ambient>1 0 0 1</ambient>
+          <diffuse>1 0 0 1</diffuse>
+        </material>
+        <geometry>
+          <mesh>
+            <scale>1 1 1</scale>
+            <uri>model://Assem1/meshes/Front_left.STL</uri>
+          </mesh>
+        </geometry>
+      </visual>
+    </link>
+    <joint name="Box-Front_left" type="revolute">
+      <parent>Box</parent>
+      <child>Front_left</child>
+      <pose>-1.66533453693773E-16 8.32667268468867E-17 5.55111512312578E-17 0 0 3.14159265358979</pose>
+      <axis>
+        <xyz>-1 -1.86726877117081E-16 -3.90791074625762E-17</xyz>
+        <dynamics>
+          <damping>1</damping>
+          <friction>0.1</friction>
+        </dynamics>
+        <limit>
+          <upper>0</upper>
+          <lower>0</lower>
+          <effort>1</effort>
+        </limit>
+      </axis>
+    </joint>
+    <link name="Rear_Left">
+      <gravity>1</gravity>
+      <self_collide>0</self_collide>
+      <pose>-0.29972 -0.3302 0.00507999999999992 -1.5707963267949 0 -1.5707963267949</pose>
+      <must_be_base_link>0</must_be_base_link>
+      <velocity_decay>
+        <linear>0</linear>
+        <angular>0</angular>
+      </velocity_decay>
+      <inertial>
+        <mass>0.231666659443376</mass>
+        <pose>0 0 0 0 0 0</pose>
+        <inertia>
+          <ixx>0.0001681448197573</ixx>
+          <ixy>2.86861824803457E-21</ixy>
+          <ixz>2.86861824803457E-21</ixz>
+          <iyy>0.000133893097214146</iyy>
+          <iyz>2.42533767230482E-21</iyz>
+          <izz>0.000133893097214146</izz>
+        </inertia>
+      </inertial>
+      <collision name="Rear_Left_collision">
+        <pose>-0.322869105676851 -0.204385538994286 0.237796788751854 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <scale>1 1 1</scale>
+            <uri>model://Assem1/meshes/Rear_Left_col.STL</uri>
+          </mesh>
+        </geometry>
+        <surface>
+          <contact>
+            <ode />
+          </contact>
+          <friction>
+            <ode>
+              <mu>0.1</mu>
+              <mu2>0.1</mu2>
+            </ode>
+          </friction>
+        </surface>
+      </collision>
+      <visual name="Rear_Left_visual">
+        <pose>-0.322869105676851 -0.204385538994286 0.237796788751854 0 0 0</pose>
+        <material>
+          <ambient>1 0 0 1</ambient>
+          <diffuse>1 0 0 1</diffuse>
+        </material>
+        <geometry>
+          <mesh>
+            <scale>1 1 1</scale>
+            <uri>model://Assem1/meshes/Rear_Left.STL</uri>
+          </mesh>
+        </geometry>
+      </visual>
+    </link>
+    <joint name="Box-Rear_Left" type="revolute">
+      <parent>Box</parent>
+      <child>Rear_Left</child>
+      <pose>0 0 0 0 0 0</pose>
+      <axis>
+        <xyz>1 0 0</xyz>
+        <dynamics>
+          <damping>1</damping>
+          <friction>0.1</friction>
+        </dynamics>
+        <limit>
+          <upper>0</upper>
+          <lower>0</lower>
+          <effort>1</effort>
+        </limit>
+      </axis>
+    </joint>
+    <link name="Front_Right">
+      <gravity>1</gravity>
+      <self_collide>0</self_collide>
+      <pose>-0.00507999999999993 0.0254 0.00507999999999989 -1.5707963267949 0 -1.5707963267949</pose>
+      <must_be_base_link>0</must_be_base_link>
+      <velocity_decay>
+        <linear>0</linear>
+        <angular>0</angular>
+      </velocity_decay>
+      <inertial>
+        <mass>0.231666659443376</mass>
+        <pose>0 0 0 0 0 0</pose>
+        <inertia>
+          <ixx>0.000168144819757299</ixx>
+          <ixy>4.040201947287E-21</ixy>
+          <ixz>1.18877940367576E-21</ixz>
+          <iyy>0.000133893097214146</iyy>
+          <iyz>1.4865428224313E-21</iyz>
+          <izz>0.000133893097214146</izz>
+        </inertia>
+      </inertial>
+      <collision name="Front_Right_collision">
+        <pose>0.0327308943231488 -0.204385538994286 -0.0568432112481461 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <scale>1 1 1</scale>
+            <uri>model://Assem1/meshes/Front_Right_col.STL</uri>
+          </mesh>
+        </geometry>
+        <surface>
+          <contact>
+            <ode />
+          </contact>
+          <friction>
+            <ode>
+              <mu>0.1</mu>
+              <mu2>0.1</mu2>
+            </ode>
+          </friction>
+        </surface>
+      </collision>
+      <visual name="Front_Right_visual">
+        <pose>0.0327308943231488 -0.204385538994286 -0.0568432112481461 0 0 0</pose>
+        <material>
+          <ambient>1 0 0 1</ambient>
+          <diffuse>1 0 0 1</diffuse>
+        </material>
+        <geometry>
+          <mesh>
+            <scale>1 1 1</scale>
+            <uri>model://Assem1/meshes/Front_Right.STL</uri>
+          </mesh>
+        </geometry>
+      </visual>
+    </link>
+    <joint name="Box-Front_Right" type="revolute">
+      <parent>Box</parent>
+      <child>Front_Right</child>
+      <pose>-2.08166817117217E-17 -8.32667268468867E-17 -5.55111512312578E-17 0 0 0</pose>
+      <axis>
+        <xyz>1 0 0</xyz>
+        <dynamics>
+          <damping>1</damping>
+          <friction>0.1</friction>
+        </dynamics>
+        <limit>
+          <upper>0</upper>
+          <lower>0</lower>
+          <effort>1</effort>
+        </limit>
+      </axis>
+    </joint>
+    <link name="Rear_Right">
+      <gravity>1</gravity>
+      <self_collide>0</self_collide>
+      <pose>-0.29972 0.0253999999999999 0.00507999999999992 -1.5707963267949 0 -1.5707963267949</pose>
+      <must_be_base_link>0</must_be_base_link>
+      <velocity_decay>
+        <linear>0</linear>
+        <angular>0</angular>
+      </velocity_decay>
+      <inertial>
+        <mass>0.231666659443376</mass>
+        <pose>0 0 0 0 0 0</pose>
+        <inertia>
+          <ixx>0.000168144819757299</ixx>
+          <ixy>4.48221601255396E-23</ixy>
+          <ixz>2.20405190779179E-36</ixz>
+          <iyy>0.000133893097214146</iyy>
+          <iyz>5.85952687782897E-22</iyz>
+          <izz>0.000133893097214146</izz>
+        </inertia>
+      </inertial>
+      <collision name="Rear_Right_collision">
+        <pose>0.0327308943231488 -0.204385538994286 0.237796788751854 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <scale>1 1 1</scale>
+            <uri>model://Assem1/meshes/Rear_Right_col.STL</uri>
+          </mesh>
+        </geometry>
+        <surface>
+          <contact>
+            <ode />
+          </contact>
+          <friction>
+            <ode>
+              <mu>0.1</mu>
+              <mu2>0.1</mu2>
+            </ode>
+          </friction>
+        </surface>
+      </collision>
+      <visual name="Rear_Right_visual">
+        <pose>0.0327308943231488 -0.204385538994286 0.237796788751854 0 0 0</pose>
+        <material>
+          <ambient>1 0 0 1</ambient>
+          <diffuse>1 0 0 1</diffuse>
+        </material>
+        <geometry>
+          <mesh>
+            <scale>1 1 1</scale>
+            <uri>model://Assem1/meshes/Rear_Right.STL</uri>
+          </mesh>
+        </geometry>
+      </visual>
+    </link>
+    <joint name="Box-Rear_Right" type="revolute">
+      <parent>Box</parent>
+      <child>Rear_Right</child>
+      <pose>0 0 0 0 0 0</pose>
+      <axis>
+        <xyz>1 0 0</xyz>
+        <dynamics>
+          <damping>1</damping>
+          <friction>0.1</friction>
+        </dynamics>
+        <limit>
+          <upper>0</upper>
+          <lower>0</lower>
+          <effort>1</effort>
+        </limit>
+      </axis>
+    </joint>
+    <plugin name="Box_gyro" filename="libgz_gyro.so">
+      <link>Box</link>
+      <topic>/gazebo/frc/simulator/analog/0</topic>
+      <units>degrees</units>
+      <axis>yaw</axis>
+    </plugin>
+    <plugin name="Box-Front left_motor" filename="libgz_dc_motor.so">
+      <joint>Box-Front_left</joint>
+      <topic>/gazebo/frc/simulator/pwm/1</topic>
+      <multiplier>0</multiplier>
+    </plugin>
+    <plugin name="Box-Rear Left_motor" filename="libgz_dc_motor.so">
+      <joint>Box-Rear_Left</joint>
+      <topic>/gazebo/frc/simulator/pwm/2</topic>
+      <multiplier>0</multiplier>
+    </plugin>
+    <plugin name="Box-Front Right_motor" filename="libgz_dc_motor.so">
+      <joint>Box-Front_Right</joint>
+      <topic>/gazebo/frc/simulator/pwm/3</topic>
+      <multiplier>0</multiplier>
+    </plugin>
+    <plugin name="Box-Rear Right_motor" filename="libgz_dc_motor.so">
+      <joint>Box-Rear_Right</joint>
+      <topic>/gazebo/frc/simulator/pwm/4</topic>
+      <multiplier>0</multiplier>
+    </plugin>
+  </model>
+</sdf>

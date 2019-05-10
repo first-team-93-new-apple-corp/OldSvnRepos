@@ -1,0 +1,22 @@
+Josh started to go through the code and got rid of all the commands we dont' use.
+
+The list inclues(they're all commands):
+-BackAcquireB
+-FrontAcquireB
+-GearMoveDown
+-GearMoveUp
+-ReleaseGearA
+-ReleaseGearB
+-WallAcquireB
+
+Delted on 3.21.17
+(they're all utilities)
+-DeadzonePIDOutput
+-JoystickDirection
+-JoystickExtended
+-JoystickMagnitude
+
+Deleted on 4.4.17
+-ManualInterrupt
+-PrintCommand
+-DriveAndRealignDuration

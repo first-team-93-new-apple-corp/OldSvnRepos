@@ -1,0 +1,8 @@
+Mission Statement:  If its broken, get a controls guy to fix it.
+What Controls Sofeware Does:  We write the code for the robot to make it move and do stuff.  We fix many problems on the robot.  We are the most important part of the team.
+We write our code in Java
+What you might do: (Examples from last year)
+	Autonomous
+	Drive
+	Shooter
+	Code Arch

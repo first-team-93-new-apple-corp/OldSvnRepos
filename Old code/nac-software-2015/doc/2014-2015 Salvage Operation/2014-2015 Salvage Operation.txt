@@ -1,0 +1,122 @@
+This text document gives information on the 2014-2015 Salvage Operation.
+
+The "Salvage Operation" is an attempt to salvage any reusable code for next year from the current blob of robot code.
+This is done in several easy steps:
+
+1. Identify a command, utility, or other piece of code to salvage.
+
+2. Confirm that that section of code may be of use next year*.
+
+3. Confirm that the section of code is functional and tested.
+
+4. Thoroughly read through the code and make sure that the code is completely understood by the salvager.
+
+5. Variables in the code should be refactored to make them more self documenting if necessary.
+
+6. Check existing javadoc documentation, and add javadoc to all methods without javadoc. All javadoc fields should be filled.
+This includes an @author, and all methods should have descriptions, and @param and @return fields filled if applicable.
+All @codereview comments should be resolved and removed.
+
+7. Comments should be added to the code to thoroughly explain all actions in code.
+These comments should explain the code so well that absolutely anybody can understand the code on sight.
+
+8. Make any other necessary changes to the segment of code to make the code as perfect as possible.
+
+9. If nothing other than comments and javadoc was changed, there is no need to re-test.
+However, if code structure was edited, then the code may need to be re-tested.
+
+10. Once code has gone through this salvaging process, it must be published publicly online for a team to be able to use it the next year.
+Communicate with the Marketing Functional Group, likely Isaac Slayton.
+Request for a section on the team website for our code salvage be made if it does not yet exist.
+If this section already exists, ask him to upload this salvaged code onto the team website.
+Once that has been completed, that section of code has been salvaged.
+
+-----------------------------------------
+*From Step 2.
+Some examples of code that may be useful next year are (As of Revision 381):
+
+Commands:
+/**@CodeReview conor.mares
+* I really, really want to rework these. As-is, they're really basic and not worth publishing.
+* It's a fun off-season project for veterans though
+*/
+DriveContinuous.java
+DriveContinuousSingleCycle.java
+DriveForward.java
+
+/**@CodeReview conor.mares
+* This one for sure. It's nice, simple, and I don't think it can be improved.
+*/
+ManualInterrupt.java
+
+/**@CodeReview conor.mares
+*I'd like to see this using the wpilib Timer object
+*/
+SleepCommand.java
+
+/**@CodeReview conor.mares
+* It's pretty rad, but I'm not sure about publishing it. It's kinda multi-file messy.
+*/
+TransitionGear.java
+
+/**@CodeReview conor.mares
+* Evans and I have a super-cool Calc thing we're going to try working out on these - might be unnecessary
+*
+* Also of note - we never used these.
+*/
+TurnLeft.java
+TurnRight.java
+
+Utilities:
+/**@CodeReview conor.mares
+* I'd love to do this one, it needs cleanup.
+*/
+PIDCoordinator.java
+
+/**@CodeReview conor.mares
+* 2 and 3 should be invalidated by the flexible one, but it's untested.
+*/
+PID2OutputGroup.java
+PID3OutputGroup.java
+PIDOutputAnyAmount.java
+
+/**@CodeReview conor.mares
+* This should have the flexibility that the any output PID group has.
+* i.e. utilizes an array list.
+*/
+PIDSourceGroup.java
+
+SpeedControllerExtension.java
+/**@CodeReview conor.mares
+* Pretty good - I'd love to beef up the documentation substantially. It took me a day to head-wrap.
+*/
+SteeringAndSpeedCoordinator.java
+Team93CanTalon.java
+/**@CodeReview conor.mares
+* Should probably be extended to all anologue inputs
+*/
+Team93Potentiometer.java
+
+/**@CodeReview conor.mares
+* Refactor to EncoderSteeringSource? Or similar...
+*/
+TwoEncoderPIDSource.java
+
+Subsystems:
+AutonomousSelector.java
+Drive.java
+
+Possibly parts of:
+AutonomousSelection.java structure
+
+/**@CodeReview conor.mares
+* Sure, just the skeleton would be nice.
+*/
+AutoCommandsMilwaukee.java structure
+TheNewAutoCommandsDuluth.java structure
+
+/**@CodeReview conor.mares
+*Eeesh not too sure for these two
+*/
+VisionProcessor.java
+VisionPositionOutput.java

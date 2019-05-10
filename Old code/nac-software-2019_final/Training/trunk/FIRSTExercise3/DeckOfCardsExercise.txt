@@ -1,0 +1,37 @@
+Java Challenge Problem 3: Deck of Cards
+
+This exercise focuses on using what you just learned about classes, objects, and methods.
+
+Objective:
+Make a set of classes to represent a deck of cards.
+
+Your solution should satisfy the following:
+  * Have at least two classes: One for a card and one for a deck that contains many cards.
+  * The set of cards should be stored in a "linked-list" pattern. This means that each card has a reference to the next card in the deck, forming a chain of cards.
+  * Each card must also have variables for its suit and value.
+  * The deck should provide a method to add a card to the front of the list ("put a card on the top").
+  * The deck should provide a method to remove the card at the beginning of the list and return it ("Draw the top card").
+  * The deck should store the current number of cards in the deck and provide a method that reports that count.
+  * Your solution should create a deck with the standard 52 cards in it. It should draw the top 5 cards and display their values.
+
+If you have time, your solution may also satisfy the following:
+  * The deck may provide methods that insert a card at any location within the deck, and that remove a card from any location in the deck and return it.
+  * The deck may provide a method that shuffles the order of the cards in the deck. The shuffle results in a different order of cards every time, regardless of the starting order.
+  * The deck may provide a method that sorts the order of the cards in the deck. The sorting algorithm used is a "bubble sort".
+  * The deck may provide a method that sorts the order of the cards in the deck more efficiently. The sorting algorithm used is a "merge sort".
+  * The methods provided by the deck to shuffle, sort, insert, and remove cards do not use any For or While loops. Instead, they use methods that call themselves repeatedly to process cards one by one.
+	(These are called recursive methods).
+	
+UPDATE: Modified instructions:
+
+1. Start by making a Card class. The class should have two variables: a suit and a value (for value, just treat J, Q, K as 11, 12, 13). It should also have two methods: a constructor
+	that takes a suit and value, and a method that prints the suit and value.
+2. Make an array of 10 cards in main. Write a loop that prints all the cards.
+3. Make a Deck class that contains the array of 10 cards. The deck should keep track of how many cards are in the array. Write an "add" method that puts a card in the next open spot 
+	in the array. Make sure that the "add" method prevents you from adding an 11th card, overflowing the array.
+4. Change the Card class to have a reference to another Card object. Replace the array in the Deck with just the top Card in the deck. Modify the "add" method to put a new card at the
+	front of the list. Create a "draw" method that removes the front card from the list and returns it.
+5. Create a method that can insert a card at any location within the list, between the existing cards there. Optionally, create a method that removes a card from any location in the
+	list and returns it.
+6. Create a shuffle method that randomizes the order of the cards.
+7. Create a sort method that sorts the cards by suit and value.

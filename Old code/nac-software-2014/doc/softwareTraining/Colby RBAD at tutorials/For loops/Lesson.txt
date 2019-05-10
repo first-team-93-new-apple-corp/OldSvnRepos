@@ -1,0 +1,21 @@
+use for loops to draw squares
+give examples of for loops 
+explain nesting for loops
+explain dangers of them
+  for (int x = 0; x<10; x++){
+        int y1 = 10;
+        int y2 = 20;
+        int x2 = 30;
+        canvas.drawLine (x, x2, y1, y2);
+}
+	Looks almost like triangle
+use while loops to draw spuares
+give examples of while loops
+while (true == ColbyIsHere){
+	Happiness = Great;
+	Happiness ++;
+	}
+while (false == ColbyIsHere){
+	Happiness = Sad;
+	Happiness --;
+	}

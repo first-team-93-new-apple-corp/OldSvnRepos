@@ -1,0 +1,250 @@
+!SESSION 2016-01-26 18:45:34.264 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-01-26 18:46:29.640
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\NAC Controls'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2016-01-26 19:01:24.324
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jre1.8.0_25\lib\rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getRawClasspathEntry(PackageFragmentRoot.java:562)
+	at org.eclipse.jdt.internal.core.JavaElement.getJavadocBaseLocation(JavaElement.java:728)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1011)
+	at org.eclipse.jdt.internal.core.BinaryMethod.getAttachedJavadoc(BinaryMethod.java:717)
+	at org.eclipse.jdt.internal.core.ResolvedBinaryMethod.getAttachedJavadoc(ResolvedBinaryMethod.java:1)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:533)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:721)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:639)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:631)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:129)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:85)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2016-01-26 19:01:24.327
+!MESSAGE C:\Program Files\Java\jre1.8.0_25\lib\rt.jar is not on its project's build path
+!SESSION 2016-01-28 18:43:50.366 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.ui.workbench 4 2 2016-01-28 18:44:13.938
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.workbench".
+!STACK 0
+java.lang.IllegalStateException: The profile is currently in use.
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.internalGetProfileStateProperties(SimpleProfileRegistry.java:1182)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.getProfileStateProperties(SimpleProfileRegistry.java:1172)
+	at org.eclipse.equinox.internal.p2.ui.sdk.scheduler.migration.MigrationSupport.isFirstTimeRunningThisSharedInstance(MigrationSupport.java:133)
+	at org.eclipse.equinox.internal.p2.ui.sdk.scheduler.migration.MigrationSupport.performMigration(MigrationSupport.java:54)
+	at org.eclipse.equinox.internal.p2.ui.sdk.scheduler.AutomaticUpdateScheduler.earlyStartup(AutomaticUpdateScheduler.java:90)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.runEarlyStartup(EarlyStartupRunnable.java:90)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:68)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench$56.run(Workbench.java:2812)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.ui 4 4 2016-01-28 18:44:13.985
+!MESSAGE Unhandled Exception
+
+!ENTRY org.eclipse.equinox.p2.ui.sdk.scheduler 4 0 2016-01-28 18:44:14.001
+!MESSAGE Unable to execute early startup code for an extension
+!STACK 0
+java.lang.IllegalStateException: The profile is currently in use.
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.internalGetProfileStateProperties(SimpleProfileRegistry.java:1182)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.getProfileStateProperties(SimpleProfileRegistry.java:1172)
+	at org.eclipse.equinox.internal.p2.ui.sdk.scheduler.migration.MigrationSupport.isFirstTimeRunningThisSharedInstance(MigrationSupport.java:133)
+	at org.eclipse.equinox.internal.p2.ui.sdk.scheduler.migration.MigrationSupport.performMigration(MigrationSupport.java:54)
+	at org.eclipse.equinox.internal.p2.ui.sdk.scheduler.AutomaticUpdateScheduler.earlyStartup(AutomaticUpdateScheduler.java:90)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.runEarlyStartup(EarlyStartupRunnable.java:90)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:68)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench$56.run(Workbench.java:2812)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY edu.wpi.first.wpilib.plugins.core 1 0 2016-01-28 18:44:20.459
+!MESSAGE Installing tools if necessary
+
+!ENTRY edu.wpi.first.wpilib.plugins.core 1 0 2016-01-28 18:44:20.537
+!MESSAGE Install necessary for tools
+
+!ENTRY edu.wpi.first.wpilib.plugins.core 1 0 2016-01-28 18:44:30.053
+!MESSAGE Installedtools
+
+!ENTRY edu.wpi.first.wpilib.plugins.core 1 0 2016-01-28 18:44:30.063
+!MESSAGE Installing cpp if necessary
+
+!ENTRY edu.wpi.first.wpilib.plugins.core 1 0 2016-01-28 18:44:30.115
+!MESSAGE Install necessary for cpp
+
+!ENTRY edu.wpi.first.wpilib.plugins.core 1 0 2016-01-28 18:44:33.275
+!MESSAGE Installing java if necessary
+
+!ENTRY org.eclipse.core.jobs 4 2 2016-01-28 18:44:33.384
+!MESSAGE An internal error occurred during: "Install cpp".
+!STACK 0
+org.eclipse.core.runtime.AssertionFailedException: null argument:The dialog should be created in UI thread
+	at org.eclipse.core.runtime.Assert.isNotNull(Assert.java:85)
+	at org.eclipse.jface.dialogs.IconAndMessageDialog.getSWTImage(IconAndMessageDialog.java:285)
+	at org.eclipse.jface.dialogs.IconAndMessageDialog.getErrorImage(IconAndMessageDialog.java:236)
+	at org.eclipse.jface.dialogs.MessageDialog.<init>(MessageDialog.java:179)
+	at org.eclipse.jface.dialogs.MessageDialog.open(MessageDialog.java:356)
+	at org.eclipse.jface.dialogs.MessageDialog.openError(MessageDialog.java:423)
+	at edu.wpi.first.wpilib.plugins.core.installer.AbstractInstaller.install(AbstractInstaller.java:155)
+	at edu.wpi.first.wpilib.plugins.core.installer.AbstractInstaller$1.run(AbstractInstaller.java:92)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY edu.wpi.first.wpilib.plugins.core 1 0 2016-01-28 18:44:33.478
+!MESSAGE Install necessary for java
+
+!ENTRY org.eclipse.oomph.setup.core 2 0 2016-01-28 18:44:44.530
+!MESSAGE Profile C__Users_NAC Controls_eclipse_java-mars_eclipse is not current. Expected timestamp 0 but was 0.
+!STACK 0
+java.lang.IllegalStateException: Profile C__Users_NAC Controls_eclipse_java-mars_eclipse is not current. Expected timestamp 0 but was 0.
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.lockProfile(SimpleProfileRegistry.java:850)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:67)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:44)
+	at org.eclipse.equinox.internal.provisional.p2.director.PlanExecutionHelper.executePlan(PlanExecutionHelper.java:42)
+	at org.eclipse.oomph.p2.internal.core.ProfileTransactionImpl$3.commit(ProfileTransactionImpl.java:520)
+	at org.eclipse.oomph.p2.internal.core.ProfileTransactionImpl.commit(ProfileTransactionImpl.java:329)
+	at org.eclipse.oomph.setup.p2.impl.P2TaskImpl.perform(P2TaskImpl.java:729)
+	at org.eclipse.oomph.setup.internal.core.SetupTaskPerformer.doPerformNeededSetupTasks(SetupTaskPerformer.java:3028)
+	at org.eclipse.oomph.setup.internal.core.SetupTaskPerformer.access$1(SetupTaskPerformer.java:2972)
+	at org.eclipse.oomph.setup.internal.core.SetupTaskPerformer$WorkspaceUtil$1.run(SetupTaskPerformer.java:4152)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241)
+	at org.eclipse.oomph.setup.internal.core.SetupTaskPerformer$WorkspaceUtil.performNeededSetupTasks(SetupTaskPerformer.java:4146)
+	at org.eclipse.oomph.setup.internal.core.SetupTaskPerformer$WorkspaceUtil.access$0(SetupTaskPerformer.java:4144)
+	at org.eclipse.oomph.setup.internal.core.SetupTaskPerformer.performNeededSetupTasks(SetupTaskPerformer.java:2963)
+	at org.eclipse.oomph.setup.internal.core.SetupTaskPerformer.performTriggeredSetupTasks(SetupTaskPerformer.java:2938)
+	at org.eclipse.oomph.setup.internal.core.SetupTaskPerformer.perform(SetupTaskPerformer.java:2829)
+	at org.eclipse.oomph.setup.ui.wizards.ProgressPage$9.run(ProgressPage.java:552)
+	at org.eclipse.oomph.setup.ui.wizards.ProgressPage$11$1.run(ProgressPage.java:671)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-01-28 18:45:05.503
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\NAC Controls'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY edu.wpi.first.wpilib.plugins.core 1 0 2016-01-28 18:45:06.767
+!MESSAGE Installedjava
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2016-01-28 18:50:22.948
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [C:\Program Files\Java\jre1.8.0_25\lib\rt.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getRawClasspathEntry(PackageFragmentRoot.java:562)
+	at org.eclipse.jdt.internal.core.JavaElement.getJavadocBaseLocation(JavaElement.java:728)
+	at org.eclipse.jdt.internal.core.BinaryType.getJavadocContents(BinaryType.java:1011)
+	at org.eclipse.jdt.internal.core.BinaryType.getAttachedJavadoc(BinaryType.java:997)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:533)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:721)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:639)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:631)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:129)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:85)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2016-01-28 18:50:22.948
+!MESSAGE C:\Program Files\Java\jre1.8.0_25\lib\rt.jar is not on its project's build path
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-01-28 19:44:49.064
+!MESSAGE Invalid site reference %update-site-url in feature com.agitar.eclipse.api.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-01-28 19:44:49.095
+!MESSAGE Invalid site reference %update-site-url in feature com.agitar.eclipse.api.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-01-28 19:44:49.095
+!MESSAGE Invalid site reference %update-site-url in feature com.agitar.eclipse.testrunner.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-01-28 19:44:49.095
+!MESSAGE Invalid site reference %update-site-url in feature com.agitar.eclipse.testrunner.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-01-28 19:44:49.110
+!MESSAGE Invalid site reference %update-site-url in feature com.agitar.eclipse.junit.runner.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-01-28 19:44:49.110
+!MESSAGE Invalid site reference %update-site-url in feature com.agitar.eclipse.junit.runner.
+!SESSION 2016-01-28 19:46:16.697 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.equinox.registry 2 0 2016-01-28 19:46:22.429
+!MESSAGE The extensions and extension-points from the bundle "org.crap4j" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY edu.wpi.first.wpilib.plugins.core 1 0 2016-01-28 19:48:51.528
+!MESSAGE Installing tools if necessary
+
+!ENTRY edu.wpi.first.wpilib.plugins.core 1 0 2016-01-28 19:48:51.543
+!MESSAGE Installedtools
+
+!ENTRY edu.wpi.first.wpilib.plugins.core 1 0 2016-01-28 19:48:51.575
+!MESSAGE Installing cpp if necessary
+
+!ENTRY edu.wpi.first.wpilib.plugins.core 1 0 2016-01-28 19:48:51.684
+!MESSAGE Install necessary for cpp
+
+!ENTRY edu.wpi.first.wpilib.plugins.core 1 0 2016-01-28 19:49:05.240
+!MESSAGE Installedcpp
+
+!ENTRY edu.wpi.first.wpilib.plugins.core 1 0 2016-01-28 19:49:05.256
+!MESSAGE Installing java if necessary
+
+!ENTRY edu.wpi.first.wpilib.plugins.core 1 0 2016-01-28 19:49:05.256
+!MESSAGE Installedjava
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-01-28 19:49:38.609
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\NAC Controls'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2016-01-28 20:07:50.599 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-01-28 20:08:07.276
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\NAC Controls'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY edu.wpi.first.wpilib.plugins.core 1 0 2016-01-28 20:08:08.368
+!MESSAGE Installing tools if necessary
+
+!ENTRY edu.wpi.first.wpilib.plugins.core 1 0 2016-01-28 20:08:08.602
+!MESSAGE Installedtools
+
+!ENTRY edu.wpi.first.wpilib.plugins.core 1 0 2016-01-28 20:08:08.633
+!MESSAGE Installing cpp if necessary
+
+!ENTRY edu.wpi.first.wpilib.plugins.core 1 0 2016-01-28 20:08:09.070
+!MESSAGE Installedcpp
+
+!ENTRY edu.wpi.first.wpilib.plugins.core 1 0 2016-01-28 20:08:09.086
+!MESSAGE Installing java if necessary
+
+!ENTRY edu.wpi.first.wpilib.plugins.core 1 0 2016-01-28 20:08:09.273
+!MESSAGE Installedjava

@@ -1,0 +1,1 @@
+Establishing your external tools to be useable in any check out.  Refer to the Ant build doc to learn how to configure external tools, but under the common tab, you can have the file saved not to local, but to \Team93RobotYear ie for the 2015 build season, it was \Team93Robot2015.  This create a .launch file that you can commit in the truck for all to use

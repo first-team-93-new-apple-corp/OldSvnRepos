@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="FRC Deployment" default="deploy">
+
+  <!--
+  The following properties can be defined to override system level
+  settings. These should not be touched unless you know what you're
+  doing. The primary use is to override the wpilib version when
+  working with older robots that can't compile with the latest
+  libraries.
+  -->
+
+  <!-- By default the system version of WPI is used -->
+  <!-- <property name="version" value=""/> -->
+
+  <!-- By default the system team number is used -->
+  <!-- <property name="team-number" value=""/> -->
+
+  <!-- By default the target is set to 10.TE.AM.2 -->
+  <!-- <property name="target" value=""/> -->
+
+  <property file="${user.home}/wpilib/wpilib.properties" />
+  <property file="build.properties" />
+  <property file="${user.home}/wpilib/java/${version}/ant/build.properties" />
+  <property name="CRAP4J_HOME" value="${basedir}/hooks/crap4j"/>
+  <property name="classpath" value="${classpath}" />
+	
+  <!--<path id="findbugs">
+  		<fileset dir="${basedir}/hooks/findbugs/lib/annotations.jar"/>
+  		<fileset dir="${basedir}/hooks/findbugs/lib/jsr305.jar"/>
+	</path>
+	<classpath="${basedir}/hooks/findbugs/lib/annotations.jar"/>
+	<classpath="${basedir}/hooks/findbugs/lib/jsr305.jar"/> -->
+	
+  <!-- <property environment="env"/>
+		<echo message="CRAP4J_HOME=${env.CRAP4J_HOME}" />
+	-->
+		
+	<!--<taskdef resource="checkstyletask.properties"
+			classpath="${basedir}/hooks/checkstyle/checkstyle-6.2-all.jar"/>
+	<target name="checkstyle" description="Generates a report of code convention violations.">
+	<checkstyle config="${basedir}/hooks/checkstyle/checkstyle-rules.xml"
+	  		failureProperty="checkstyle.failure" 
+	  		failOnViolation="false">
+		<formatter type="xml" tofile="reports/checkstyle_report.xml"/>
+		<fileset dir="src" includes="**/*.java"/>
+	</checkstyle>
+	<style in="reports/checkstyle_report.xml" out="reports/checkstyle_report.html" style="${basedir}/hooks/checkstyle/checkstyle-simple.xsl"/>
+	</target> -->
+	
+	<taskdef name="crap4j" classname="org.crap4j.anttask.Crap4jAntTask">
+		<classpath>
+			<fileset dir="${CRAP4J_HOME}/lib">
+				<include name="**/*.jar"/>
+			</fileset>
+		</classpath>
+	</taskdef>
+  
+	<target name="run-crap4j">
+		<crap4j projectdir="${basedir}" 
+			    outputDir="reports/crap4j" 
+			    dontTest="false" debug="false">
+			
+			<classDirs>
+				<!-- put the project's class directories here. These are the classes you want crap numbers for -->
+				<pathElement location="${basedir}/bin" />
+			</classDirs>
+			
+			<srcDirs>
+				<!-- The project's src folders -->
+				<pathElement location="${basedir}/src" /> 
+			</srcDirs>
+			
+			<testClassDirs>
+				<!-- The project's test classes. 
+				         Note, separating it from the project classes makes life so much easier
+				         but if you didn't, then you probably just want to repeat the classDir entry here -->
+				<pathElement location="${basedir}/bin" />
+			</testClassDirs>
+			
+			<libClasspath>
+				<!-- Put the dependent paths and libraries here. 
+				         This is for stuff necessary to your project, but not stuff you want analyzed -->
+				<fileset dir="${basedir}/lib">
+					<include name="**/*.jar" />
+				</fileset>
+				<!-- if you get errors loading any agitar classes, like the mock classes, add this entry -->
+				
+				<fileset dir="${CRAP4J_HOME}/lib/com.agitar.eclipse.api_4.2.0.401405/lib/ext">
+				                    <include name="**/*.jar" />
+				                </fileset>    
+			</libClasspath>
+		</crap4j>
+	</target>
+
+  <!-- Any other property in build.properties can also be overridden. -->
+  
+ <!--  <taskdef name="findbugs" classname="edu.umd.cs.findbugs.anttask.FindBugsTask">
+	  <classpath>
+	    <pathelement location="${basedir}/hooks/findbugs/lib/findbugs-ant.jar" />
+	  </classpath>
+	</taskdef>
+	
+	<property name="findbugs.home" value="${basedir}/hooks/findbugs/" />
+	<target name="findbugs" depends="athena-project-build.jar">
+	  <findbugs home="${findbugs.home}" output="html" outputFile="${basedir}/reports/findbugs.html" >
+	    <auxClasspath path="${basedir}/lib/" />
+	    <sourcePath path="${basedir}/src/" />
+	  	<class location="${basedir}/bin/" />
+	  </findbugs>
+	</target> -->
+	
+	
+  <import file="${wpilib.ant.dir}/build.xml"/>
+  
+	<target name="compile" depends="athena-project-build.compile" description="Compile the source code.">
+	</target>
+	
+	<target name="jar" depends="athena-project-build.jar" description="Build the jar file.">
+	</target>
+		
+
+</project> 

@@ -1,0 +1,11515 @@
+CS: cam0: Connecting to USB camera on /dev/video0
+CS: cam0: set format 1 res 160x120
+CS: cam0: Connecting to USB camera on /dev/video0
+CS: cam0: set format 1 res 640x480
+CS: cam0: set FPS to 30
+index size 1
+index size 2
+index size 3
+starting this
+all good
+left side 288
+right side 515
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 4
+starting this
+all good
+left side 1
+right side 345
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 5
+starting this
+all good
+left side 1
+right side 627
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 6
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 7
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 8
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 9
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 10
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 11
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 12
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 13
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 14
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 15
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 16
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 17
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 18
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 19
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 20
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 21
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 22
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 23
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 24
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 25
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 26
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 27
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 28
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 29
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 30
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 31
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 32
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 33
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 34
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 35
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 36
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 37
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 38
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 39
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 40
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 41
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 42
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 43
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 44
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 45
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 46
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 47
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 48
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 49
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 50
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 51
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 52
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 53
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 54
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 55
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 56
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 57
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 58
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 59
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 60
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 61
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 62
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 63
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 64
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 65
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 66
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 67
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 68
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 69
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 70
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 71
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 72
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 73
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 74
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 75
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 76
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 77
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 78
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 79
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 80
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 81
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 82
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 83
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 84
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 85
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 86
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 87
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 88
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 89
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 90
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 91
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 92
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 93
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 94
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 95
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 96
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 97
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 98
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 99
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 100
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 101
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 102
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 103
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 104
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 105
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 106
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 107
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 108
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 109
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 110
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 111
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 112
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 113
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 114
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 115
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 116
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 117
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 118
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 119
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 120
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 121
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 122
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 123
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 124
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 125
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 126
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 127
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 128
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 129
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 130
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 131
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 132
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 133
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 134
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 135
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 136
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 137
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 138
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 139
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 140
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 141
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 142
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 143
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 144
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 145
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 146
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 147
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 148
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 149
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 150
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 151
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 152
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 153
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 154
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 155
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 156
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 157
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 158
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 159
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 160
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 161
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 162
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 163
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 164
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 165
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 166
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 167
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 168
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 169
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 170
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 171
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 172
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 173
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 174
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 175
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 176
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 177
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 178
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 179
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 180
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 181
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 182
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 183
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 184
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 185
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 186
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 187
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 188
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 189
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 190
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 191
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 192
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 193
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 194
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 195
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 196
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 197
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 198
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 199
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 200
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 201
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 202
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 203
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 204
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 205
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 206
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 207
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 208
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 209
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 210
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 211
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 212
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 213
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 214
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 215
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 216
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 217
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 218
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 219
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 220
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 221
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 222
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 223
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 224
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 225
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 226
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 227
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 228
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 229
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 230
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 231
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 232
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 233
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 234
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 235
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 236
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 237
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 238
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 239
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 240
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 241
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 242
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 243
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 244
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 245
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 246
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 247
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 248
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 249
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 250
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 251
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 252
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 253
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 254
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 255
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 256
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 257
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 258
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 259
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 260
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 261
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 262
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 263
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 264
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 265
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 266
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 267
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 268
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 269
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 270
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 271
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 272
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 273
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 274
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 275
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 276
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 277
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 278
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 279
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 280
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 281
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 282
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 283
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 284
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 285
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 286
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 287
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 288
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 289
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 290
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 291
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 292
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 293
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 294
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 295
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 296
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 297
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 298
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 299
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 300
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 301
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 302
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 303
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 304
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 305
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 306
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 307
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 308
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 309
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 310
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 311
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 312
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 313
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 314
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 315
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 316
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 317
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 318
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 319
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 320
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 321
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 322
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 323
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 324
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 325
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 326
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 327
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 328
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 329
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 330
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 331
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 332
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 333
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 334
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 335
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 336
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 337
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 338
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 339
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 340
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 341
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 342
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 343
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 344
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 345
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 346
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 347
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 348
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 349
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 350
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 351
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 352
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 353
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 354
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 355
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 356
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 357
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 358
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 359
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 360
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 361
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 362
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 363
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 364
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 365
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 366
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 367
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 368
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 369
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 370
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 371
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 372
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 373
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 374
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 375
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 376
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 377
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 378
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 379
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 380
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 381
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 382
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 383
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 384
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 385
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 386
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 387
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 388
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 389
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 390
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 391
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 392
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 393
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 394
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 395
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 396
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 397
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 398
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 399
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 400
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 401
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 402
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 403
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 404
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 405
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 406
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 407
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 408
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 409
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 410
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 411
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 412
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 413
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 414
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 415
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 416
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 417
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 418
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 419
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 420
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 421
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 422
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 423
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 424
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 425
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 426
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 427
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 428
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 429
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 430
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 431
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 432
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 433
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 434
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 435
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 436
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 437
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 438
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 439
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 440
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 441
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 442
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 443
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 444
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 445
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 446
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 447
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 448
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 449
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 450
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 451
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 452
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 453
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 454
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 455
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 456
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 457
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 458
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 459
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 460
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 461
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 462
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 463
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 464
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 465
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 466
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 467
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 468
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 469
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 470
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 471
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 472
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 473
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 474
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 475
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 476
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 477
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 478
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 479
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 480
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 481
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 482
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 483
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 484
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 485
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 486
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 487
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 488
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 489
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 490
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 491
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 492
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 493
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 494
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 495
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 496
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 497
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 498
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 499
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 500
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 501
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 502
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 503
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 504
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 505
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 506
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 507
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 508
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 509
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 510
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 511
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 512
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 513
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 514
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 515
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 516
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 517
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 518
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 519
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 520
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 521
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 522
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 523
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 524
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 525
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 526
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 527
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+starting this
+all good
+left side 1
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 528
+starting this
+all good
+left side 609
+right side 628
+left-right ratio 0.0
+driving left
+pixelsInfinity
+inches0.0
+SHIP_RIGHT
+index size 529
+index size 530
+index size 531
+starting this
+all good
+left side 560
+right side 47
+left-right ratio 11.0
+drivingRight
+pixels4.2727272727272725
+inches67.75531914893618
+SHIP_LEFT
+index size 532
+starting this
+all good
+left side 560
+right side 39
+left-right ratio 14.0
+drivingRight
+pixels2.7857142857142856
+inches105.71794871794873
+SHIP_LEFT
+index size 533
+index size 534
+starting this
+all good
+left side 560
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.006896551724139
+SHIP_LEFT
+index size 535
+index size 536
+starting this
+all good
+left side 560
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.006896551724139
+SHIP_LEFT
+index size 537
+index size 538
+index size 539
+starting this
+all good
+left side 560
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.006896551724139
+SHIP_LEFT
+index size 540
+index size 541
+index size 542
+index size 543
+starting this
+all good
+left side 560
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.006896551724139
+SHIP_LEFT
+index size 544
+index size 545
+index size 546
+starting this
+all good
+left side 560
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.006896551724139
+SHIP_LEFT
+index size 547
+index size 548
+starting this
+all good
+left side 560
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.006896551724139
+SHIP_LEFT
+index size 549
+index size 550
+starting this
+all good
+left side 560
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.006896551724139
+SHIP_LEFT
+index size 551
+index size 552
+starting this
+all good
+left side 560
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.006896551724139
+SHIP_LEFT
+index size 553
+index size 554
+starting this
+all good
+left side 560
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.006896551724139
+SHIP_LEFT
+index size 555
+index size 556
+index size 557
+starting this
+all good
+left side 560
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.006896551724139
+SHIP_LEFT
+index size 558
+index size 559
+starting this
+all good
+left side 560
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.006896551724139
+SHIP_LEFT
+index size 560
+index size 561
+index size 562
+starting this
+all good
+left side 560
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.006896551724139
+SHIP_LEFT
+index size 563
+index size 564
+index size 565
+starting this
+all good
+left side 560
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.006896551724139
+SHIP_LEFT
+index size 566
+index size 567
+index size 568
+starting this
+all good
+left side 560
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.006896551724139
+SHIP_LEFT
+index size 569
+index size 570
+index size 571
+starting this
+all good
+left side 560
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.006896551724139
+SHIP_LEFT
+index size 572
+starting this
+all good
+left side 560
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.006896551724139
+SHIP_LEFT
+index size 573
+index size 574
+starting this
+all good
+left side 560
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.006896551724139
+SHIP_LEFT
+index size 575
+index size 576
+starting this
+all good
+left side 560
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.006896551724139
+SHIP_LEFT
+index size 577
+index size 578
+index size 579
+starting this
+all good
+left side 560
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.006896551724139
+SHIP_LEFT
+index size 580
+index size 581
+index size 582
+starting this
+all good
+left side 560
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.006896551724139
+SHIP_LEFT
+index size 583
+index size 584
+starting this
+all good
+left side 560
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.006896551724139
+SHIP_LEFT
+index size 585
+index size 586
+index size 587
+starting this
+all good
+left side 560
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.006896551724139
+SHIP_LEFT
+index size 588
+index size 589
+index size 590
+starting this
+all good
+left side 560
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.006896551724139
+SHIP_LEFT
+index size 591
+index size 592
+index size 593
+starting this
+all good
+left side 560
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.006896551724139
+SHIP_LEFT
+index size 594
+index size 595
+starting this
+all good
+left side 560
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.006896551724139
+SHIP_LEFT
+index size 596
+index size 597
+starting this
+all good
+left side 560
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.006896551724139
+SHIP_LEFT
+index size 598
+index size 599
+starting this
+all good
+left side 560
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.006896551724139
+SHIP_LEFT
+index size 600
+index size 601
+index size 602
+index size 603
+starting this
+all good
+left side 579
+right side 69
+left-right ratio 8.0
+drivingRight
+pixels8.625
+inches32.46376811594203
+SHIP_LEFT
+index size 604
+index size 605
+starting this
+all good
+left side 579
+right side 69
+left-right ratio 8.0
+drivingRight
+pixels8.625
+inches32.46376811594203
+SHIP_LEFT
+index size 606
+index size 607
+starting this
+all good
+left side 579
+right side 69
+left-right ratio 8.0
+drivingRight
+pixels8.625
+inches32.46376811594203
+SHIP_LEFT
+index size 608
+index size 609
+starting this
+all good
+left side 579
+right side 69
+left-right ratio 8.0
+drivingRight
+pixels8.625
+inches32.46376811594203
+SHIP_LEFT
+index size 610
+index size 611
+index size 612
+starting this
+all good
+left side 579
+right side 69
+left-right ratio 8.0
+drivingRight
+pixels8.625
+inches32.46376811594203
+SHIP_LEFT
+index size 613
+index size 614
+index size 615
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 616
+index size 617
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 618
+index size 619
+index size 620
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 621
+index size 622
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 623
+index size 624
+index size 625
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 626
+index size 627
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 628
+index size 629
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 630
+index size 631
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 632
+index size 633
+index size 634
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 635
+index size 636
+index size 637
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 638
+index size 639
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 640
+index size 641
+index size 642
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 643
+index size 644
+index size 645
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 646
+index size 647
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 648
+index size 649
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 650
+index size 651
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 652
+index size 653
+index size 654
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 655
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 656
+index size 657
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 658
+index size 659
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 660
+index size 661
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 662
+index size 663
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 664
+index size 665
+index size 666
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 667
+index size 668
+index size 669
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 670
+index size 671
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 672
+index size 673
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 674
+index size 675
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 676
+index size 677
+index size 678
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 679
+index size 680
+index size 681
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 682
+index size 683
+index size 684
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 685
+index size 686
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 687
+index size 688
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 689
+index size 690
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 691
+index size 692
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 693
+index size 694
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 695
+index size 696
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 697
+index size 698
+index size 699
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 700
+index size 701
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 702
+index size 703
+index size 704
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 705
+index size 706
+index size 707
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 708
+index size 709
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 710
+index size 711
+index size 712
+index size 713
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 714
+index size 715
+index size 716
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 717
+index size 718
+index size 719
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 720
+index size 721
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 722
+index size 723
+index size 724
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 725
+index size 726
+index size 727
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 728
+index size 729
+index size 730
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 731
+index size 732
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 733
+index size 734
+index size 735
+index size 736
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 737
+index size 738
+index size 739
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 740
+index size 741
+index size 742
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 743
+index size 744
+index size 745
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 746
+index size 747
+index size 748
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 749
+index size 750
+index size 751
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 752
+index size 753
+index size 754
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 755
+index size 756
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 757
+index size 758
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 759
+index size 760
+index size 761
+index size 762
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 763
+index size 764
+index size 765
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 766
+index size 767
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 768
+index size 769
+index size 770
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 771
+index size 772
+index size 773
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 774
+index size 775
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 776
+index size 777
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 778
+index size 779
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 780
+index size 781
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 782
+index size 783
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 784
+index size 785
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 786
+index size 787
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 788
+index size 789
+index size 790
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 791
+index size 792
+index size 793
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 794
+index size 795
+index size 796
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 797
+index size 798
+index size 799
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 800
+index size 801
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 802
+index size 803
+index size 804
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 805
+index size 806
+index size 807
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 808
+index size 809
+index size 810
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 811
+index size 812
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 813
+index size 814
+index size 815
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 816
+index size 817
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 818
+index size 819
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 820
+index size 821
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 822
+index size 823
+index size 824
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 825
+index size 826
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 827
+index size 828
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 829
+index size 830
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 831
+index size 832
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 833
+index size 834
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 835
+index size 836
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 837
+index size 838
+index size 839
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 840
+index size 841
+index size 842
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 843
+index size 844
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 845
+index size 846
+index size 847
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 848
+index size 849
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 850
+index size 851
+index size 852
+index size 853
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 854
+index size 855
+index size 856
+index size 857
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 858
+index size 859
+index size 860
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 861
+index size 862
+index size 863
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 864
+index size 865
+index size 866
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 867
+index size 868
+index size 869
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 870
+index size 871
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 872
+index size 873
+index size 874
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 875
+index size 876
+index size 877
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 878
+index size 879
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 880
+index size 881
+index size 882
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 883
+index size 884
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 885
+index size 886
+index size 887
+index size 888
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 889
+index size 890
+index size 891
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 892
+index size 893
+index size 894
+index size 895
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 896
+index size 897
+index size 898
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 899
+index size 900
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 901
+index size 902
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 903
+index size 904
+index size 905
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 906
+index size 907
+index size 908
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 909
+index size 910
+index size 911
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 912
+index size 913
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 914
+index size 915
+index size 916
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 917
+index size 918
+index size 919
+index size 920
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 921
+index size 922
+index size 923
+index size 924
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 925
+index size 926
+index size 927
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 928
+index size 929
+index size 930
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 931
+index size 932
+index size 933
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 934
+index size 935
+index size 936
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 937
+index size 938
+index size 939
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 940
+index size 941
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 942
+index size 943
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 944
+index size 945
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 946
+index size 947
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 948
+index size 949
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 950
+index size 951
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 952
+index size 953
+index size 954
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 955
+index size 956
+index size 957
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 958
+index size 959
+index size 960
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 961
+index size 962
+index size 963
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 964
+index size 965
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 966
+index size 967
+index size 968
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 969
+index size 970
+index size 971
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 972
+index size 973
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 974
+index size 975
+index size 976
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 977
+index size 978
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 979
+index size 980
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 981
+index size 982
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 983
+index size 984
+index size 985
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 986
+index size 987
+index size 988
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 989
+index size 990
+index size 991
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 992
+index size 993
+index size 994
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 995
+index size 996
+index size 997
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 998
+index size 999
+index size 1000
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1001
+index size 1002
+index size 1003
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1004
+index size 1005
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1006
+index size 1007
+index size 1008
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1009
+index size 1010
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1011
+index size 1012
+index size 1013
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1014
+index size 1015
+index size 1016
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1017
+index size 1018
+index size 1019
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1020
+index size 1021
+index size 1022
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1023
+index size 1024
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1025
+index size 1026
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1027
+index size 1028
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1029
+index size 1030
+index size 1031
+index size 1032
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1033
+index size 1034
+index size 1035
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1036
+index size 1037
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1038
+index size 1039
+index size 1040
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1041
+index size 1042
+index size 1043
+index size 1044
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1045
+index size 1046
+index size 1047
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1048
+index size 1049
+index size 1050
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1051
+index size 1052
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1053
+index size 1054
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1055
+index size 1056
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1057
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1058
+index size 1059
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1060
+index size 1061
+index size 1062
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1063
+index size 1064
+index size 1065
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1066
+index size 1067
+index size 1068
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1069
+index size 1070
+index size 1071
+index size 1072
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1073
+index size 1074
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1075
+index size 1076
+index size 1077
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1078
+index size 1079
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1080
+index size 1081
+index size 1082
+index size 1083
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1084
+index size 1085
+index size 1086
+index size 1087
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1088
+index size 1089
+index size 1090
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1091
+index size 1092
+index size 1093
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1094
+index size 1095
+index size 1096
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1097
+index size 1098
+index size 1099
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1100
+index size 1101
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1102
+index size 1103
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1104
+index size 1105
+index size 1106
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1107
+index size 1108
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1109
+index size 1110
+index size 1111
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1112
+index size 1113
+index size 1114
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1115
+index size 1116
+index size 1117
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1118
+index size 1119
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1120
+index size 1121
+index size 1122
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1123
+index size 1124
+index size 1125
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1126
+index size 1127
+index size 1128
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1129
+index size 1130
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1131
+index size 1132
+index size 1133
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1134
+index size 1135
+index size 1136
+index size 1137
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1138
+index size 1139
+index size 1140
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1141
+index size 1142
+index size 1143
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1144
+index size 1145
+index size 1146
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1147
+index size 1148
+index size 1149
+index size 1150
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1151
+index size 1152
+index size 1153
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1154
+index size 1155
+index size 1156
+index size 1157
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1158
+index size 1159
+index size 1160
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1161
+index size 1162
+index size 1163
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1164
+index size 1165
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1166
+index size 1167
+index size 1168
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1169
+index size 1170
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1171
+index size 1172
+index size 1173
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1174
+index size 1175
+index size 1176
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1177
+index size 1178
+index size 1179
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1180
+index size 1181
+index size 1182
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1183
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1184
+index size 1185
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1186
+index size 1187
+index size 1188
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1189
+index size 1190
+index size 1191
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1192
+index size 1193
+index size 1194
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1195
+index size 1196
+index size 1197
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1198
+index size 1199
+index size 1200
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1201
+index size 1202
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1203
+index size 1204
+index size 1205
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1206
+index size 1207
+index size 1208
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1209
+index size 1210
+index size 1211
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1212
+index size 1213
+index size 1214
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1215
+index size 1216
+index size 1217
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1218
+index size 1219
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1220
+index size 1221
+index size 1222
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1223
+index size 1224
+index size 1225
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1226
+index size 1227
+index size 1228
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1229
+index size 1230
+index size 1231
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1232
+index size 1233
+index size 1234
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1235
+index size 1236
+index size 1237
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1238
+index size 1239
+index size 1240
+index size 1241
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1242
+index size 1243
+index size 1244
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1245
+index size 1246
+index size 1247
+index size 1248
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1249
+index size 1250
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1251
+index size 1252
+index size 1253
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1254
+index size 1255
+index size 1256
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1257
+index size 1258
+index size 1259
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1260
+index size 1261
+index size 1262
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1263
+index size 1264
+index size 1265
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1266
+index size 1267
+index size 1268
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1269
+index size 1270
+index size 1271
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1272
+index size 1273
+index size 1274
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1275
+index size 1276
+index size 1277
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1278
+index size 1279
+index size 1280
+index size 1281
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1282
+index size 1283
+index size 1284
+index size 1285
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1286
+index size 1287
+index size 1288
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1289
+index size 1290
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1291
+index size 1292
+index size 1293
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1294
+index size 1295
+index size 1296
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1297
+index size 1298
+index size 1299
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1300
+index size 1301
+index size 1302
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1303
+index size 1304
+index size 1305
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1306
+index size 1307
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1308
+index size 1309
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1310
+index size 1311
+index size 1312
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1313
+index size 1314
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1315
+index size 1316
+index size 1317
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1318
+index size 1319
+index size 1320
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1321
+index size 1322
+index size 1323
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1324
+index size 1325
+index size 1326
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1327
+index size 1328
+index size 1329
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1330
+index size 1331
+index size 1332
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1333
+index size 1334
+index size 1335
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1336
+index size 1337
+index size 1338
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1339
+index size 1340
+index size 1341
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1342
+index size 1343
+index size 1344
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1345
+index size 1346
+index size 1347
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1348
+index size 1349
+index size 1350
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1351
+index size 1352
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1353
+index size 1354
+index size 1355
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1356
+index size 1357
+index size 1358
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1359
+index size 1360
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1361
+index size 1362
+index size 1363
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1364
+index size 1365
+index size 1366
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1367
+index size 1368
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1369
+index size 1370
+index size 1371
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1372
+index size 1373
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1374
+index size 1375
+index size 1376
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1377
+index size 1378
+index size 1379
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1380
+index size 1381
+index size 1382
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1383
+index size 1384
+index size 1385
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1386
+index size 1387
+index size 1388
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1389
+index size 1390
+index size 1391
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1392
+index size 1393
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1394
+index size 1395
+index size 1396
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1397
+index size 1398
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1399
+index size 1400
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1401
+index size 1402
+index size 1403
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1404
+index size 1405
+index size 1406
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1407
+index size 1408
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1409
+index size 1410
+index size 1411
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1412
+index size 1413
+index size 1414
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1415
+index size 1416
+index size 1417
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1418
+index size 1419
+index size 1420
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1421
+index size 1422
+index size 1423
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1424
+index size 1425
+index size 1426
+index size 1427
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1428
+index size 1429
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1430
+index size 1431
+index size 1432
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1433
+index size 1434
+index size 1435
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1436
+index size 1437
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1438
+index size 1439
+index size 1440
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1441
+index size 1442
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1443
+index size 1444
+index size 1445
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1446
+index size 1447
+index size 1448
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1449
+index size 1450
+index size 1451
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1452
+index size 1453
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1454
+index size 1455
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1456
+index size 1457
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1458
+index size 1459
+index size 1460
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1461
+index size 1462
+index size 1463
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1464
+index size 1465
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1466
+index size 1467
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1468
+index size 1469
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1470
+index size 1471
+index size 1472
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1473
+index size 1474
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1475
+index size 1476
+index size 1477
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1478
+index size 1479
+index size 1480
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1481
+index size 1482
+index size 1483
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1484
+index size 1485
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1486
+index size 1487
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1488
+index size 1489
+index size 1490
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1491
+index size 1492
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1493
+index size 1494
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1495
+index size 1496
+index size 1497
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1498
+index size 1499
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1500
+index size 1501
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1502
+index size 1503
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1504
+index size 1505
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1506
+index size 1507
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1508
+index size 1509
+index size 1510
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1511
+index size 1512
+index size 1513
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1514
+index size 1515
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1516
+index size 1517
+index size 1518
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1519
+index size 1520
+index size 1521
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1522
+index size 1523
+index size 1524
+index size 1525
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1526
+index size 1527
+index size 1528
+index size 1529
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1530
+index size 1531
+index size 1532
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1533
+index size 1534
+index size 1535
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1536
+index size 1537
+index size 1538
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1539
+index size 1540
+index size 1541
+index size 1542
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1543
+index size 1544
+index size 1545
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1546
+index size 1547
+index size 1548
+index size 1549
+index size 1550
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1551
+index size 1552
+index size 1553
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1554
+index size 1555
+index size 1556
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1557
+index size 1558
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1559
+index size 1560
+index size 1561
+index size 1562
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1563
+index size 1564
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1565
+index size 1566
+index size 1567
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1568
+index size 1569
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1570
+index size 1571
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1572
+index size 1573
+index size 1574
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1575
+index size 1576
+index size 1577
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1578
+index size 1579
+index size 1580
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1581
+index size 1582
+index size 1583
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1584
+index size 1585
+index size 1586
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1587
+index size 1588
+index size 1589
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1590
+index size 1591
+index size 1592
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1593
+index size 1594
+index size 1595
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1596
+index size 1597
+index size 1598
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1599
+index size 1600
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1601
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1602
+index size 1603
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1604
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1605
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1606
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1607
+index size 1608
+index size 1609
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1610
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1611
+index size 1612
+index size 1613
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1614
+index size 1615
+index size 1616
+index size 1617
+index size 1618
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1619
+index size 1620
+index size 1621
+index size 1622
+index size 1623
+index size 1624
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1625
+index size 1626
+index size 1627
+index size 1628
+index size 1629
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1630
+index size 1631
+index size 1632
+index size 1633
+index size 1634
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1635
+index size 1636
+index size 1637
+index size 1638
+index size 1639
+index size 1640
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1641
+index size 1642
+index size 1643
+index size 1644
+index size 1645
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1646
+index size 1647
+index size 1648
+index size 1649
+index size 1650
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1651
+index size 1652
+index size 1653
+index size 1654
+index size 1655
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1656
+index size 1657
+index size 1658
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1659
+index size 1660
+index size 1661
+index size 1662
+index size 1663
+index size 1664
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1665
+index size 1666
+index size 1667
+index size 1668
+index size 1669
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1670
+index size 1671
+index size 1672
+index size 1673
+index size 1674
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1675
+index size 1676
+index size 1677
+index size 1678
+index size 1679
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1680
+index size 1681
+index size 1682
+index size 1683
+index size 1684
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1685
+index size 1686
+index size 1687
+index size 1688
+index size 1689
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1690
+index size 1691
+index size 1692
+index size 1693
+index size 1694
+index size 1695
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1696
+index size 1697
+index size 1698
+index size 1699
+index size 1700
+index size 1701
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1702
+index size 1703
+index size 1704
+index size 1705
+index size 1706
+index size 1707
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1708
+index size 1709
+index size 1710
+index size 1711
+index size 1712
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1713
+index size 1714
+index size 1715
+index size 1716
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1717
+index size 1718
+index size 1719
+index size 1720
+index size 1721
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1722
+index size 1723
+index size 1724
+index size 1725
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1726
+index size 1727
+index size 1728
+index size 1729
+index size 1730
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1731
+index size 1732
+index size 1733
+index size 1734
+index size 1735
+index size 1736
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1737
+index size 1738
+index size 1739
+index size 1740
+index size 1741
+index size 1742
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1743
+index size 1744
+index size 1745
+index size 1746
+index size 1747
+index size 1748
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1749
+index size 1750
+index size 1751
+index size 1752
+index size 1753
+index size 1754
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1755
+index size 1756
+index size 1757
+index size 1758
+index size 1759
+index size 1760
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1761
+index size 1762
+index size 1763
+index size 1764
+index size 1765
+index size 1766
+index size 1767
+index size 1768
+index size 1769
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1770
+index size 1771
+index size 1772
+index size 1773
+index size 1774
+index size 1775
+index size 1776
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1777
+index size 1778
+index size 1779
+index size 1780
+index size 1781
+index size 1782
+index size 1783
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1784
+index size 1785
+index size 1786
+index size 1787
+index size 1788
+index size 1789
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1790
+index size 1791
+index size 1792
+index size 1793
+index size 1794
+index size 1795
+index size 1796
+index size 1797
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1798
+index size 1799
+index size 1800
+index size 1801
+index size 1802
+index size 1803
+index size 1804
+index size 1805
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1806
+index size 1807
+index size 1808
+index size 1809
+index size 1810
+index size 1811
+index size 1812
+index size 1813
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1814
+index size 1815
+index size 1816
+index size 1817
+index size 1818
+index size 1819
+index size 1820
+index size 1821
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1822
+index size 1823
+index size 1824
+index size 1825
+index size 1826
+index size 1827
+index size 1828
+index size 1829
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1830
+index size 1831
+index size 1832
+index size 1833
+index size 1834
+index size 1835
+index size 1836
+index size 1837
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1838
+index size 1839
+index size 1840
+index size 1841
+index size 1842
+index size 1843
+index size 1844
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1845
+index size 1846
+index size 1847
+index size 1848
+index size 1849
+index size 1850
+index size 1851
+index size 1852
+index size 1853
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1854
+index size 1855
+index size 1856
+index size 1857
+index size 1858
+index size 1859
+index size 1860
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1861
+index size 1862
+index size 1863
+index size 1864
+index size 1865
+index size 1866
+index size 1867
+index size 1868
+index size 1869
+index size 1870
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1871
+index size 1872
+index size 1873
+index size 1874
+index size 1875
+index size 1876
+index size 1877
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1878
+index size 1879
+index size 1880
+index size 1881
+index size 1882
+index size 1883
+index size 1884
+index size 1885
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1886
+index size 1887
+index size 1888
+index size 1889
+index size 1890
+index size 1891
+index size 1892
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1893
+index size 1894
+index size 1895
+index size 1896
+index size 1897
+index size 1898
+index size 1899
+index size 1900
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1901
+index size 1902
+index size 1903
+index size 1904
+index size 1905
+index size 1906
+index size 1907
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1908
+index size 1909
+index size 1910
+index size 1911
+index size 1912
+index size 1913
+index size 1914
+index size 1915
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1916
+index size 1917
+index size 1918
+index size 1919
+index size 1920
+index size 1921
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1922
+index size 1923
+index size 1924
+index size 1925
+index size 1926
+index size 1927
+index size 1928
+index size 1929
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1930
+index size 1931
+index size 1932
+index size 1933
+index size 1934
+index size 1935
+index size 1936
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1937
+index size 1938
+index size 1939
+index size 1940
+index size 1941
+index size 1942
+index size 1943
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1944
+index size 1945
+index size 1946
+index size 1947
+index size 1948
+index size 1949
+index size 1950
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1951
+index size 1952
+index size 1953
+index size 1954
+index size 1955
+index size 1956
+index size 1957
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1958
+index size 1959
+index size 1960
+index size 1961
+index size 1962
+index size 1963
+index size 1964
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1965
+index size 1966
+index size 1967
+index size 1968
+index size 1969
+index size 1970
+index size 1971
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1972
+index size 1973
+index size 1974
+index size 1975
+index size 1976
+index size 1977
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1978
+index size 1979
+index size 1980
+index size 1981
+index size 1982
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1983
+index size 1984
+index size 1985
+index size 1986
+index size 1987
+index size 1988
+index size 1989
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1990
+index size 1991
+index size 1992
+index size 1993
+index size 1994
+index size 1995
+index size 1996
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 1997
+index size 1998
+index size 1999
+index size 2000
+index size 2001
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2002
+index size 2003
+index size 2004
+index size 2005
+index size 2006
+index size 2007
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2008
+index size 2009
+index size 2010
+index size 2011
+index size 2012
+index size 2013
+index size 2014
+index size 2015
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2016
+index size 2017
+index size 2018
+index size 2019
+index size 2020
+index size 2021
+index size 2022
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2023
+index size 2024
+index size 2025
+index size 2026
+index size 2027
+index size 2028
+index size 2029
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2030
+index size 2031
+index size 2032
+index size 2033
+index size 2034
+index size 2035
+index size 2036
+index size 2037
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2038
+index size 2039
+index size 2040
+index size 2041
+index size 2042
+index size 2043
+index size 2044
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2045
+index size 2046
+index size 2047
+index size 2048
+index size 2049
+index size 2050
+index size 2051
+index size 2052
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2053
+index size 2054
+index size 2055
+index size 2056
+index size 2057
+index size 2058
+index size 2059
+index size 2060
+index size 2061
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2062
+index size 2063
+index size 2064
+index size 2065
+index size 2066
+index size 2067
+index size 2068
+index size 2069
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2070
+index size 2071
+index size 2072
+index size 2073
+index size 2074
+index size 2075
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2076
+index size 2077
+index size 2078
+index size 2079
+index size 2080
+index size 2081
+index size 2082
+index size 2083
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2084
+index size 2085
+index size 2086
+index size 2087
+index size 2088
+index size 2089
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2090
+index size 2091
+index size 2092
+index size 2093
+index size 2094
+index size 2095
+index size 2096
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2097
+index size 2098
+index size 2099
+index size 2100
+index size 2101
+index size 2102
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2103
+index size 2104
+index size 2105
+index size 2106
+index size 2107
+index size 2108
+index size 2109
+index size 2110
+index size 2111
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2112
+index size 2113
+index size 2114
+index size 2115
+index size 2116
+index size 2117
+index size 2118
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2119
+index size 2120
+index size 2121
+index size 2122
+index size 2123
+index size 2124
+index size 2125
+index size 2126
+index size 2127
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2128
+index size 2129
+index size 2130
+index size 2131
+index size 2132
+index size 2133
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2134
+index size 2135
+index size 2136
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2137
+index size 2138
+index size 2139
+index size 2140
+index size 2141
+index size 2142
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2143
+index size 2144
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2145
+index size 2146
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2147
+index size 2148
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2149
+index size 2150
+index size 2151
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2152
+index size 2153
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2154
+index size 2155
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2156
+index size 2157
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2158
+index size 2159
+index size 2160
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2161
+index size 2162
+index size 2163
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2164
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2165
+index size 2166
+index size 2167
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2168
+index size 2169
+index size 2170
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2171
+index size 2172
+index size 2173
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2174
+index size 2175
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2176
+index size 2177
+index size 2178
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2179
+index size 2180
+index size 2181
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2182
+index size 2183
+starting this
+all good
+left side 579
+right side 145
+left-right ratio 3.0
+drivingRight
+pixels48.33333333333333
+inches5.017241379310345
+SHIP_LEFT
+index size 2184
+index size 2185
+index size 2186

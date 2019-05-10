@@ -1,0 +1,4 @@
+Draw 3 Shapes
+	2 must be done with for loops
+	1 must be done with while loops
+	Shapes can be any thing

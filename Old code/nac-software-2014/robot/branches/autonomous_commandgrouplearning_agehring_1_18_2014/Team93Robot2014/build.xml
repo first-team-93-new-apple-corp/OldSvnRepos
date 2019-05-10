@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><project basedir="." default="help" name="Team93Robot2014">
+
+<!-- You may freely edit this file. See commented blocks below for -->
+<!-- some examples of how to customize the build. -->
+
+<!-- #1 redefine crap4j_home to point to the absolute directory where you unzipped crap4j -->           
+        <property name="CRAP4J_HOME" value="${basedir}/hooks/crap4j"/>  
+
+	<taskdef name="crap4j" classname="org.crap4j.anttask.Crap4jAntTask" >
+		<classpath>
+			<fileset dir="${CRAP4J_HOME}/lib">
+				<include name="**/*.jar" />
+			</fileset>
+		</classpath>
+	</taskdef> 
+	
+
+	<!-- #3 Use crap4j on the project -->
+	<target name="run-crap4j">
+		<crap4j projectdir="${basedir}" 
+			    outputDir="reports/crap4j" 
+			    dontTest="true" debug="false">
+			
+			<classes>
+				<!-- put the project's class directories here. These are the classes you want crap numbers for -->
+				<pathElement location="${basedir}/build/classes" />
+			</classes>
+			
+			<srces>
+				<!-- The project's src folders -->
+				<pathElement location="${basedir}/src" />
+			</srces>
+			
+			<testClasses>
+				<!-- The project's test classes. 
+				         Note, separating it from the project classes makes life so much easier
+				         but if you didn't, then you probably just want to repeat the classDir entry here -->
+				<pathElement location="${basedir}/test_bin" />
+				<pathElement location="${basedir}/integration_tests_bin" />
+				<pathElement location="${basedir}/agitar/test_bin" />
+			</testClasses>
+			
+			<libClasspath>
+				<!-- Put the dependent paths and libraries here. 
+				         This is for stuff necessary to your project, but not stuff you want analyzed -->
+				<fileset dir="${basedir}/lib">
+					<include name="**/*.jar" />
+				</fileset>
+				<!-- if you get errors loading any agitar classes, like the mock classes, add this entry -->
+				<!--
+				<fileset dir="${CRAP4J_HOME}/lib/com.agitar.eclipse.api_4.2.0.401405/lib/ext">
+				                    <include name="**/*.jar" />
+				                </fileset>
+				 -->               
+			</libClasspath>
+		
+		</crap4j>
+	</target>
+         
+    
+    <!-- Linter lint4j target -->
+    <taskdef name="lint4j" classname="com.jutils.lint4j.ant.Lint4jAntTask">
+      <classpath>
+        <pathelement location="${basedir}/hooks/lint4j/jars/lint4j.jar" />
+      </classpath>
+    </taskdef>
+    <target name="run-lint4j" description="Perform checks on Tomcat 5">
+      <!-- Fancy version: <lint4j ignorePackages="org.apache.tomcat.util.net.puretls,org.apache.coyote.tomcat3,org.apache.ajp.tomcat33"  packages="org.apache.*" level="${lint4j.level}" exact="${lint4j.exact}"> -->
+      <lint4j   packages="nacteam93.*" level="3" exact="false">
+        <classpath>
+          <fileset dir="${basedir}/build/classes">
+            <include name="**/*.jar" />
+          </fileset>
+          <fileset dir="${basedir}/lib">
+            <include name="**/*.jar" />
+          </fileset>
+        </classpath>
+        <sourcepath>
+          <dirset dir="${basedir}">
+            <include name="src" />
+          </dirset>
+          <pathelement location="${basedir}/src" /> <!-- Not sure which is correct -->
+        </sourcepath>
+        <formatters>
+          <formatter type="text" />
+          <formatter type="text" toFile="reports/lint4j/lint.txt" />
+          <formatter type="xml" toFile="reports/lint4j/lint.xml" />
+        </formatters>
+      </lint4j>
+    </target>  
+           
+    <!--
+    
+    The master build file lives at: ${sunspot.home}/build.xml.
+
+    If you do not have a Sun SPOT properties file for some reason,
+    then you can set the sunspot.home property manually.
+
+        <property name="sunspot.home" value="/opt/sunspot"/>
+
+    The behavior of the build is also controled through properties.
+    For example, to use a different source directory, you can set
+    the property 'src.dir'.
+
+        <property name="src.dir" value="mysrc"/>
+
+    For a complete listing of properties that are used, and their
+    explanations, see the file ${sunspot.home}/default.properties.
+
+    -->
+
+    <property name="user.properties.file" value="build.properties"/>
+    <property file="${user.home}/.sunspotfrc.properties"/>
+    <import file="${sunspot.home}/build.xml"/>
+
+    <!--
+
+    This file imports the master build file for compiling and deploying sunspot
+    applications.  This file provides hooks for the user build file, so that
+    you can accomplish almost anything without having to rewrite any of the
+    build procedures.  However, if need be, you can just look at the imported
+    build file to determine how exactly any step is accomplished.
+
+    Of course, another useful way to find out exactly what is happening is to
+    run the targets listed below with ant's 'verbose' flag (ant -v).  This will
+    display exactly what is happening at each step.
+
+    Some important targets that are defined within the master build file are:
+    (Do "ant help" to see the full list.)
+
+      init:                  initialize and check all properties
+      help:                  display useful a help message
+      environment            displays information about setting up your environment
+      sdk-info               displays information about the current SDK installation
+      find-spots             locate USB ports where SPOTs are connected
+      info                   displays information about the configuration of a SPOT
+      slots                  displays a list of the applications deployed on the SPOT
+
+      clean:                 delete all compiled/generated files
+      compile:               compiles java source files to classes
+      jar-app                Create a jar for this application
+      deploy                 deploy the application to a SPOT as an IMlet
+      jar-deploy             deploy an IMlet jar
+      run                    connect to a device and watch the application
+      debug-run              configure the SPOT ro run the debug agent and then start the debug proxy
+      debug-proxy-run        start the proxy for the high-level debugger
+
+    Some useful command line properties:
+              	
+      -Dbasestation.addr=1234   set the address of the basestation
+      -DremoteId=1234           set the target for remote run/deploy/debug-proxy-run
+      -Dsquawk.startup.class=com.example.MyStartUp
+                                set an alternative startup class name
+      -Dspotport=COM2           set the port name for communicating with the SPOT
+      -Djar.file=example.jar    set the jar file for jar-app, jar-deploy and make-host-jar
+      -Dmidlet=2                select a midlet to run for selectapplication
+                                or deploy targets (defaults to 1)
+      -Dutility.jars=utils.jar  a classpath separator delimited list of jars to be 
+              	                included with the application
+
+    There exist several targets which are by default empty and which can be 
+    used for execution of your tasks. These targets are usually executed 
+    before and after some main targets. They are defined as follows:
+
+        For each target above (except help),
+
+        -pre-<target>:  called before the target
+        -post-<target>: called after the target
+
+    For example, inserting an echo statement after compilation could look like this:
+
+        <target name="-post-compile">
+            <echo>Compile finished!</echo>
+        </target>    
+
+    For more information on using ant, see http://ant.apache.org.
+
+    -->
+    
+    <target name="jar-app-team93override">
+        <antcall target="jar-app" />
+        <antcall target="run-lint4j" />
+    </target>
+    
+</project>

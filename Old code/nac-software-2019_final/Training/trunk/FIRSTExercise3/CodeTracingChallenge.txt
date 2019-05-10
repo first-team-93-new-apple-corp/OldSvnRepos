@@ -1,0 +1,57 @@
+public class ChallengeProblem {
+	public static class A{
+		public B var1;
+		public C var2;
+		public A(){
+			String testString = "Marie";
+			var1 = new B(3, testString);
+			var2 = new C(1.5, false);
+		}
+	}
+	public static class B{
+		public int varInt;
+		public String varString;
+		public B(int varInt, String varString){
+			this.varInt = varInt;
+			this.varString = varString;
+		}
+	}
+	public static class C{
+		public double varDouble;
+		public boolean varBoolean;
+		public C(double varDouble, boolean varBoolean){
+			this.varDouble = varDouble;
+			this.varBoolean = varBoolean;
+		}
+	}
+	public static void main(String[] args) {
+		A localVar1 = new A();
+		A localVar2 = new A();
+		A localVar3 = method1(localVar1, localVar2);
+		System.out.println(localVar1.var1.varInt + " " + localVar1.var1.varString + " " + localVar1.var2.varDouble + " " + localVar1.var2.varBoolean);
+		System.out.println(localVar2.var1.varInt + " " + localVar2.var1.varString + " " + localVar2.var2.varDouble + " " + localVar2.var2.varBoolean);
+		System.out.println(localVar3.var1.varInt + " " + localVar3.var1.varString + " " + localVar3.var2.varDouble + " " + localVar3.var2.varBoolean);
+	}
+	public static A method1(A param1, A param2)
+	{
+		A localVar1 = new A();
+		
+		param1.var1 = new B(5, param1.var1.varString.concat(" Harris"));
+		param1.var2 = new C(Math.pow(param1.var2.varDouble, 2), true);
+		localVar1.var1 = param1.var1;
+		param1.var1.varInt *= 5/2;
+		
+		localVar1.var2.varDouble -= 5;
+		
+		param1 = new A();
+		param2 = new A();
+		
+		param2.var1.varInt += 4;
+		param2.var2.varBoolean = true;
+		
+		return localVar1;
+	}
+
+}
+
+

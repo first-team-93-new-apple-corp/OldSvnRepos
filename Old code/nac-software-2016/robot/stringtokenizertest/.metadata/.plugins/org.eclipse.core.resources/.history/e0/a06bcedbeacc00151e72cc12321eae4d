@@ -1,0 +1,13 @@
+import java.io.IOException;
+import  
+public class stringTokizerTester {
+	private String stealFromFiles = new String();
+	public void ReadFile (String filepath){}
+	
+	
+	public static void main(String[] args) throws IOException
+	{
+		
+	}
+
+}

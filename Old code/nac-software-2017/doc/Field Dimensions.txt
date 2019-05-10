@@ -1,0 +1,15 @@
+Blue:
+Wall to Center Peg: 114
+Inside Peg Divider (Against Airship): 39.5
+Center to Loadin Zone: 76.75
+Center to Key: 56.5
+Base Line: 95
+Wall to Left Peg: 129
+
+red:
+Wall to Center Peg: 114 5/8
+Center to Loading Zone: 77.75
+Center to Key: 51.5
+Inside Peg Divider (Against Airship): 40
+Base Line: 94
+Wall to zRight Peg: 130.5

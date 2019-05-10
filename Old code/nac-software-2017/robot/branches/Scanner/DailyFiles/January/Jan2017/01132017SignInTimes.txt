@@ -1,0 +1,63 @@
+"John Benz"	Didn't sign out
+"Steven Marr"	Didn't sign out
+"Nolan Comparin"	Didn't sign out
+"Jonathan Joseph"	Didn't sign out
+"Fred Tutt"	Didn't sign out
+"Alex Stevenson"	Didn't sign out
+"Terran Davis"	Didn't sign out
+"Emma Schuff"	Didn't sign out
+"Caleb Slayton"	Didn't sign out
+"Sean Sanders"	Didn't sign out
+"Eric Kimball"	Didn't sign out
+"Ben Fager"	Didn't sign out
+"Hunter Bauss"	Didn't sign out
+"James Herrmann"	Didn't sign out
+"Nolan Comparin"	Didn't sign out
+"Isaac Moon"	Didn't sign out
+ "Noah Olson"	Didn't sign out
+"Amith Aradhya"	261.71
+"Zachary Russ"	134.06
+"Colby McKinley"	416.18
+"Eric Siekierke"	462.15
+"Andrew Ray"	324.22
+"Steven Marr"	Didn't sign out
+"Ben Hansen"	109.13
+"Elizabeth Olsen"	466.38
+"Aaron Gehring"	110.89
+"Ayden Schultz"	0.59
+"Sean Sanders"	Didn't sign out
+"Josh Hawbaker"	404.82 			It looks like I was accidentally writing the cumulative time instead of daily time. I fixed this on 9:10 on 1/13/17.
+"Ryan Mares"	274.45
+"Alaina Stewart"	170.62
+"Micah Gehring"	333.39
+"Chase Miller"	208.94
+"Garrett Miller"	457.38		Every line below here should have the proper time totals.
+"Jordan Wendt"	123.90
+"Levi Kilsdonk"	149.95
+"Matt Bankert"	150.95
+"Alex Hornung"	150.86
+"Nick Kinjerski"	151.34
+"Noah Olson"	71.93
+"Nathan Preston"	184.03
+"Heaven Lindenstruth"	189.98
+"Brooklynn Hill"	188.89
+"Katherine Veum"	0.06
+"Alex Bacon"	15.84
+"Claire Mihalko"	198.3
+"Maxwell Hinrichs"	201.74
+"Scentica Trevino"	72.74
+"Kyrie Le Mahieu"	209.48
+"Nathan Keep"	209.99
+"Katie Heidingsfelder"	179.31
+"Jonathan Joseph"	Didn't sign out
+"Colin Daniels"	210.47
+"Tyler Gronert"	35.79
+"Tyler Vander Velden"	0.12
+"Dylan Dibbs"	213.92
+"Evan Tennie"	214.89
+"John Todryk"	0.15
+"John Todryk"	Didn't sign out
+"Anthony Nooren"	217.8
+"Eric Kimball"	Didn't sign out
+"Garett Paap"	166.82
+"Michael Maas"	50.14

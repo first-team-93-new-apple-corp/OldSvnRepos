@@ -1,0 +1,66 @@
+package newTextBasedAdventure;
+
+import java.util.ArrayList;
+
+public class Scenario {
+	String output;
+	ArrayList <String> options;
+	ArrayList <Scenario> endings;
+	
+	public Scenario(String output, ArrayList <String> options, ArrayList<Scenario> children) {
+		this.output = output;
+		this.options = options;  
+		this.endings = children; //why is this.endings used if there is only one endings?
+	}
+	
+	public Scenario(String output){
+		this.output = output;
+		this.options = null;  
+		this.endings = null; 
+	}
+	
+	public void printDescription(){
+		System.out.println(this.output);
+	}
+	
+	public void printOptions(){
+		if(options == null){
+			return;
+		}
+		
+		System.out.println();
+		for (int i = 0; i < options.size(); ++i){ //shouldn't the ++i in the parenthesis mean that the first one is 1 - optionwhatever and not 0 - optionwhatever? Wouldn't it be 0 - optionwhatever if the ++i was after the print line?
+			System.out.println(i + " - " + options.get(i));
+		}
+		//System.out.println();
+	}
+	
+	public boolean hasOptions() //how does this get set to true or false?
+	{	
+		return (options != null);
+	}
+	
+	public boolean hasChildren(){	
+		return (endings != null);
+	}
+	
+	public boolean isUserChoiceValid(int userChoice){
+		if(!hasChildren() || !hasOptions()){
+			return false;
+		}
+		
+		if(userChoice >= endings.size() || userChoice < 0) {
+			return false;
+		}
+		
+		return true;
+	}
+	
+	public Scenario getNextScenario(int userChoice) {
+		if(!isUserChoiceValid(userChoice)) {
+			return null;
+		}
+
+		return endings.get(userChoice);
+	}
+}

@@ -1,0 +1,37 @@
+List of Issues; see below for adding
+-----------------------------------------------------------------------------------------------------------------------------
+Adding Issues:
+
+1. Make sure the problem hasn't been asked before.
+2.'Give valid issues, explain it.
+3. Leave Initials at the end of the issue description.
+
+-----------------------------------------------------------------------------------------------------------------------------
+Resolving Issues:
+
+1. Type "RESOLVED" in front of issue.
+2. Type a description of the fix.
+3. Place your initials after the description.
+-----------------------------------------------------------------------------------------------------------------------------
+
+Issues:
+
+
+
+5. ADD CODE TO DISENGAGE BRAKE ON SHOOTER - PB/CM/AG
+
+HIGH PRIORITY** CAUSED PIVOTER TO BREAK ON SHIP NIGHT!!!
+
+
+
+
+
+RESOLVED 1. Pivoter brake solenoid default - Should the brake on the pivoter default to on or off? PB
+	  Pivoter should stay on, it keeps the arm safely locked in place during transportation, etc. ZF
+
+2. Images Directory on cRIO - Root of cRIO there must be a folder for images. (Will be deleted if the cRIO is reimaged, and needs to be created again) - TH
+
+3. Position switch for autonomous need to be inverted in code. The switches conflict with the instructions given on the robot.- TH
+
+4. No code for Servo Motor on the Camera used to detect hot zones. - AG
+

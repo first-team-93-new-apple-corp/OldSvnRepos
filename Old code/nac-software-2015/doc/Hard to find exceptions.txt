@@ -1,0 +1,8 @@
+RobotMap.java
+ExceptionInInitializerError due to Autonomous Switches
+
+Robot.java
+NullPointer due to slowButton stuff
+
+Elevator, RobotMap, and Drive.java
+The PIDControllers and PIDOutputGroups should be moved back to RobotMap. ExceptionInInitializerError.

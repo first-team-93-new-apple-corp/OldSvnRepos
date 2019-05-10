@@ -1,0 +1,5 @@
+Home Work
+	-Calculator
+		- and and or statements (&& ||)
+		-multiply, subtract, divide, add
+		-Square Root, Squares

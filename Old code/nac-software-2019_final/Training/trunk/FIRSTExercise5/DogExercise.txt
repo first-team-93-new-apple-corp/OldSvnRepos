@@ -1,0 +1,32 @@
+Class Name: Dog
+
+Public Fields:
+Weight (int) in pounds
+Breed (String)
+Name (String)
+Color (String)
+Position (Point)
+ 
+Public Methods:
+Constructor 
+	-Parameter list: weight, breed, name, color, position
+	-Return: none
+Constructor
+	-Parameter list: weight, breed, name, color
+	-Return: none
+	-Behavior: initialize based on paamete list. Initialize position to (0,0)
+toString 
+	-Parameter List: none
+	-Return: String describing the attributes of the dog
+Move 
+	-Parameter List: x, y describing how the position should change
+	-Return: void
+	-Behavior: update the position of the dog based on the parameters provided. (X and Y should be added to the position, instead of replacing the position.)
+Speak 
+	-Parameter List: none
+	-Return: none
+	-Behavior: Print a dog vocalization. The vocalization should depend on the weight of the dog. Bigger dogs produce louder, lower pitched vocalizations.
+		-Weight <= 8 lbs: "Yip-Yip-Yip"
+		-8 lbs < Weight <= 20 lbs: "Bark-Bark"
+		-20 lbs < Weight <= 40 lbs: "Ruff-Ruff"
+		40 lbs < Weight: "Woof-Woof"

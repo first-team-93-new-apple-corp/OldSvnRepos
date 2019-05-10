@@ -1,0 +1,105 @@
+DO NOT EVER EDIT THE REPOSITORY ON THE USB DIRECTLY
+Only make edits within your sandbox.
+You could corrupt things (including our code).
+
+Instead, follow the directions below:
+
+Rules:
+When we are using The Apple (USB drive) repository, DO NOT SVN Commit ANYTHING to the Online SVN repository. You will lose your work.
+When we are using the Online SVN repository, DO NOT SVN Commit ANYTHING to The Apple (USB Drive) repository. You will lose your work.
+We can only use one repository at a time, either the Online SVN repository or The Apple (USB drive) repository, never both.
+If you find that The Apple (USB drive) repository is Read-Only, then we are not using that repository. We are using the Online SVN repository.
+If you find that the Online SVN repository is Read-Only, then we are not using that repository. We are using The Apple (USB drive) repository.
+When you add a file in a SVN Checkout, ALWAYS browse to that file, and follow the instructions to SVN Add it.
+When you delete a file in a SVN Checkout, ALWAYS browse to that file, and follow the instructions to SVN Delete it.
+When you rename a file in a SVN Checkout, ALWAYS, ALWAYS, ALWAYS browse to that file and follow the instructions to rename it.
+In general, whenever you do something involving the USB Repository or if we are at a Competition, follow the directions below to avoid breaking anything.
+
+How to make a SVN Checkout from The Apple (USB drive):
+
+1. Plug in The Apple (USB drive).
+2. See which "letter name" the computer has given The Apple USB drive (e.g. "E:", "F:", G:", etc.)
+3. Go to the place on the computer hard drive (C:\ Drive) where you want to make a checkout and make a folder.
+4. Go into that folder and right click. Select the option "SVN Checkout..."
+5. In the text bar that is labeled "URL of Repository" type:
+file:///E:/USB%20Repository%202013-2014/repos/nac-software-2014/
+You must replace the "E" with which "letter name" computer has given The Apple (USB drive).
+6. Make sure the "Checkout Directory" option is correct, and make sure the "Checkout Depth" is fully recursive.
+7. Also make sure the "Revision" option is the revision that you want.
+8. Click OK.
+9. Wait for SVN to create the checkout.
+10. Once SVN is done, the repository has been created.
+
+How to SVN Update a SVN Checkout from The Apple (USB drive) to The Apple (USB drive):
+
+1. Plug in The Apple (USB drive).
+2. See which "letter name" the computer has given The Apple USB drive (e.g. "E:", "F:", "G:", etc.)
+3. Make sure the URL of the SVN Checkout is
+file:///E:/USB%20Repository%202013-2014/repos/nac-software-2014/
+Make sure the "E" is replaced with the "letter name" given to The Apple (USB drive) by the computer.
+4. Right click the SVN Checkout and select the option "SVN Update"
+5. Wait for the SVN Update to complete, and then click "OK".
+
+How to SVN Commit a SVN Checkout from The Apple (USB drive) to The Apple (USB drive):
+
+1. Plug in The Apple (USB drive).
+2. See which "letter name" the computer has given The Apple USB drive (e.g. "E:", "F:", "G:", etc.)
+3. Make sure the URL of the SVN Checkout is
+file:///E:/USB%20Repository%202013-2014/repos/nac-software-2014/
+Make sure the "E" is replaced with the "letter name" given to The Apple (USB drive) by the computer.
+4. Right click the SVN Checkout and select the option "SVN Commit..."
+5. When the SVN Commit window opens, make sure to type a message into the log. Make sure to include information about what you changed, why, and how it helps.
+6. In the bottom half of the window, make sure that all the files selected are ones that you want to SVN Commit. Then Click OK.
+7. Wait for the SVN Commit to complete, and then click "OK".
+
+How to SVN Add a file on a SVN Checkout from the Apple (USB drive) to The Apple (USB drive):
+
+1. Plug in The Apple (USB drive).
+2. See which "letter name" the computer has given The Apple USB drive (e.g. "E:", "F:", "G:", etc.)
+3. Make sure the URL of the SVN Checkout is
+file:///E:/USB%20Repository%202013-2014/repos/nac-software-2014/
+Make sure the "E" is replaced with the "letter name" given to The Apple (USB drive) by the computer.
+4. Navigate to that file and right click. Hover over the option "Tortoise SVN". Another branch of options should appear.
+5. Move your mouse to the new branch of options and select "Add..."
+6. You should commit your new file immediately in almost all cases.
+
+How to SVN Delete a file on a SVN Checkout from the Apple (USB drive) to The Apple (USB drive):
+
+1. Plug in The Apple (USB drive).
+2. See which "letter name" the computer has given The Apple USB drive (e.g. "E:", "F:", "G:", etc.)
+3. Make sure the URL of the SVN Checkout is
+file:///E:/USB%20Repository%202013-2014/repos/nac-software-2014/
+Make sure the "E" is replaced with the "letter name" given to The Apple (USB drive) by the computer.
+4. Navigate to that file and right click. Hover over the option "Tortoise SVN". Another branch of options should appear.
+5. Move your mouse to the new branch of options and select "Delete"
+6. You should commit your delete immediately all cases. The file will be deleted upon commit.
+
+How to SVN Commit a SVN Checkout from The Apple (USB drive) repository to the SVN Repository at nacsvn@aasd.k12.wi.us/repos/nac-software-2014
+
+1. Plug in The Apple (USB drive).
+2. See which "letter name" the computer has given The Apple USB drive (e.g. "E:", "F:", "G:", etc.)
+3. Make sure the location of the SVN Repository is
+E:/USB Repository 2013-2014/repos/nac-software-2014/
+Make sure the "E" is the "letter name" given to The Apple (USB drive) by the computer instead.
+4. Make sure the program "FileZilla" is installed on your computer. If it is not, install it.
+5. Make sure that your computer can connect to this internet and access http://nacsvn.aasd.k12.wi.us/repos/nac-software-2014 .
+6. Go to the START Bar or press the WINDDOWS(C) Button on your keyboard.
+7. Go to "All Programs" and move your cursor to the "FileZilla FTP Client" folder. 
+8. Hover over that, and when another branch opens up, click "FileZilla", the red square with FZ on it.
+9. If this computer has not used FileZilla to do this before, use steps 6-10. If this computer has used FileZilla to do this before, skip to step 11.
+10. Go to the top bar and click on "File". Scroll down and select the "Site Manager..." option.
+11. Click on "New Site", and name it "NAC SVN". In the "Host" text bar, type nacsvn.aasd.k12.wi.us . Leave the "Port" text bar blank.
+12. Click on the drop down bar arrow for the "Protocol" bar. Scroll down and click on "SFTP - SSH File Transfer Protocol".
+13. Click on the drop down bar arrow for the "Logon Type" bar. Scroll down and click on "Ask for Password". Leave the "Comments" text box blank.
+14. Click on the "OK" button on the bottom.
+15. Open the Site Manager and go to the "site" named "NAC SVN".
+16. Click the "Connect" button at the bottom.
+17. A pop up should appear. Type the password Control$93Svn .
+18. If a pop up appears about the HostKey, connect anyway.
+19. Wait until the window at the top of FileZilla (the log) shows the message "Status: Directory Listing Successful".
+20. A folder should appear in the middle-right window, right under the "Remote Site:" text bar called "svn-upload" or something similar.
+21. In the middle-left window, under the "Local Site" textbar, navigate to your USB repository and your checkout and files.
+22. Drag and drop the repository and the files to upload into "svn-upload" from the middle-left window to the middle right window's "svn upload".\
+23. Wait for the files to upload. Wait for all the log to show "File transfer successful" for all the files.
+24. Close all opened windows and files.
+25. Wait for Code Architecture and others to put the uploaded code into the Online SVN Repository.

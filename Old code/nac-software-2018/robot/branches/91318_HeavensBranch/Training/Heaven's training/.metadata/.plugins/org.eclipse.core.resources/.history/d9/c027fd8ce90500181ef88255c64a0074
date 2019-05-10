@@ -1,0 +1,30 @@
+package newTextBasedAdventure;
+
+import java.util.ArrayList;
+
+public class ScenarioTreeBuilder {
+	public Scenario buildTree() {
+		Scenario end1 = new Scenario("dream 1");
+		Scenario end2 = new Scenario("dream 2");
+		Scenario end3 = new Scenario("dream 3");
+		Scenario end4 = new Scenario("dream 4");
+		Scenario end5 = new Scenario("You didn't have any dreams");
+	
+		ArrayList<Scenario> children = new ArrayList<Scenario>();
+		children.add(end1);
+		children.add(end2);
+		children.add(end3);
+		children.add(end4);
+		children.add(end5);
+		ArrayList<String> options = new ArrayList<String>();
+		options.add("Dream 1");
+		options.add("Dream 2");
+		options.add("Dream 3");
+		options.add("Dream 4");
+		options.add("Dream 5");
+		
+		Scenario beginning = new Scenario("Buzzzzzzz buzzzzzzz, the sound of your alarm wakes you up,/nit's time to get ready for school. Would you/nlike to eat breakfast?", options, children);
+		
+		return beginning;
+	}
+}

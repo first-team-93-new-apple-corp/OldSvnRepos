@@ -1,0 +1,24 @@
+import java.io.IOException;
+import java.io.FileReader;
+import java.io.BufferedReader;
+public class ReadFile {
+	private String Path = new String(); 
+	public ReadFile(String file_path) {
+		Path = file_path;
+	}
+	
+	public String[] OpenFile() throws IOException{
+		FileReader fr = new FileReader(Path);
+		BufferedReader textReader = new BufferedReader(fr);
+		int numberOfLiner = 3;
+		String[] textData = new String[numberOfLines];
+		int i;
+		
+		for (i = 0; i < numberOfLines; i++){
+			textData[i] = textReader.readLine();
+		}
+		
+	}
+	
+		
+}

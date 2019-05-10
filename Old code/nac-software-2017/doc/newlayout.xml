@@ -1,0 +1,119 @@
+<xml version="1.0">
+<dashboard>
+	<widget field="DRIVE DISTANCE" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="0" y="42"/>
+	</widget>
+	<widget field="LEFT BACK DRIVE DISTANCE" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="0" y="509"/>
+	</widget>
+	<widget field="CAMERA LEFT RIGHT" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="0" y="21"/>
+	</widget>
+	<widget field="RIGHT FRONT DRIVE DISTANCE" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="0" y="627"/>
+	</widget>
+	<widget field="CAMERA FORWARD" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="0" y="0"/>
+	</widget>
+	<widget field="LEFT FRONT DRIVE DISTANCE" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="0" y="606"/>
+	</widget>
+	<widget field="RIGHT BACK DRIVE DISTANCE" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="0" y="585"/>
+	</widget>
+	<widget field="CAMERA TAPE VISIBLE" type="Boolean" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="0" y="461"/>
+	</widget>
+	<widget field="WHEELS ALIGNED" type="Boolean" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="20" y="440"/>
+	</widget>
+	<widget field="TURN MODE" type="Boolean" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="23" y="416"/>
+	</widget>
+	<widget field="Auto Selector" type="String" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="1386" y="1"/>
+		<width>184</width>
+	</widget>
+	<static-widget class="edu.wpi.first.smartdashboard.gui.elements.CameraServerViewer">
+		<location x="217" y="8"/>
+		<width>585</width>
+		<height>431</height>
+		<property name="Degrees Rotation" value="180"/>
+		<property name="Camera Choice" value="USB Camera 1"/>
+	</static-widget>
+	<static-widget class="edu.wpi.first.smartdashboard.gui.elements.CameraServerViewer">
+		<location x="826" y="149"/>
+		<width>554</width>
+		<height>416</height>
+		<property name="Camera Choice" value="USB Camera 0"/>
+	</static-widget>
+	<widget field="BOTTOM INTAKE" type="Boolean" class="edu.wpi.first.smartdashboard.gui.elements.BooleanBox">
+		<location x="359" y="515"/>
+		<width>91</width>
+		<height>73</height>
+	</widget>
+	<widget field="TOP INTAKE" type="Boolean" class="edu.wpi.first.smartdashboard.gui.elements.BooleanBox">
+		<location x="226" y="514"/>
+		<height>70</height>
+	</widget>
+	<widget field="TOP CLAW" type="Boolean" class="edu.wpi.first.smartdashboard.gui.elements.BooleanBox">
+		<location x="490" y="518"/>
+		<width>130</width>
+		<height>82</height>
+	</widget>
+	<widget field="BOTTOM CLAW" type="Boolean" class="edu.wpi.first.smartdashboard.gui.elements.BooleanBox">
+		<location x="643" y="519"/>
+		<width>141</width>
+		<height>79</height>
+	</widget>
+	<widget field="DRIVE ORIENTATION" type="Boolean" class="edu.wpi.first.smartdashboard.gui.elements.BooleanBox">
+		<location x="1122" y="10"/>
+		<width>182</width>
+		<height>73</height>
+	</widget>
+	<widget field="COMPRESSOR" type="Boolean" class="edu.wpi.first.smartdashboard.gui.elements.BooleanBox">
+		<location x="945" y="9"/>
+		<width>136</width>
+		<height>75</height>
+	</widget>
+	<widget field="BELT ENCODER" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.ProgressBar">
+		<location x="209" y="459"/>
+		<width>605</width>
+		<height>49</height>
+		<property name="Maximum" value="0.0"/>
+		<property name="Minimum" value="-5784.0"/>
+	</widget>
+	<widget field="Autonomous Plan" type="String Chooser" class="edu.wpi.first.smartdashboard.gui.elements.Chooser">
+		<location x="1375" y="11"/>
+	</widget>
+	<widget field="LEFT BACK SPI" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="12" y="334"/>
+	</widget>
+	<widget field="RIGHT BACK SPI" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="1" y="297"/>
+	</widget>
+	<widget field="Chute Position" type="Boolean" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="0" y="252"/>
+	</widget>
+	<widget field="RIGHT FRONT SPI" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="2" y="276"/>
+	</widget>
+	<widget field="Bottom Back Position" type="Boolean" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="0" y="210"/>
+	</widget>
+	<widget field="Peg Position" type="Boolean" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="0" y="168"/>
+	</widget>
+	<widget field="LEFT FRONT SPI" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="8" y="367"/>
+	</widget>
+	<widget field="Bottom Front Position" type="Boolean" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="0" y="126"/>
+	</widget>
+	<widget field="YAWDIFF" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="0" y="105"/>
+	</widget>
+</dashboard>
+<live-window>
+</live-window>
+</xml>

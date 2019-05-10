@@ -1,0 +1,65 @@
+package org.usfirst.frc.team93.robot.commands;
+
+import org.usfirst.frc.team93.robot.Robot;
+import org.usfirst.frc.team93.robot.subsystems.Claw;
+
+import edu.wpi.first.wpilibj.command.Command;
+
+/**
+ * 
+ * @author ben.fager
+ * 
+ *         switches between the PID loop for the angle of the claw angling up or
+ *         down, would be set to a button for demos, etc
+ *
+ */
+public class SwitchClawAngleMode extends Command
+{
+	
+	public SwitchClawAngleMode()
+	{
+		// Use requires() here to declare subsystem dependencies
+		// eg. requires(chassis);
+		requires(Robot.claw);
+	}
+	
+	// Called just before this Command runs the first time
+	@Override
+	protected void initialize()
+	{
+		if (Claw.clawAngleChooser == Claw.ClawAngleChooser.BOTTOM)
+		{
+			Claw.clawAngleChooser = Claw.ClawAngleChooser.TOP;
+		}
+		else
+		{
+			Claw.clawAngleChooser = Claw.ClawAngleChooser.BOTTOM;
+		}
+	}
+	
+	// Called repeatedly when this Command is scheduled to run
+	@Override
+	protected void execute()
+	{
+	}
+	
+	// Make this return true when this Command no longer needs to run execute()
+	@Override
+	protected boolean isFinished()
+	{
+		return true;
+	}
+	
+	// Called once after isFinished returns true
+	@Override
+	protected void end()
+	{
+	}
+	
+	// Called when another command which requires one or more of the same
+	// subsystems is scheduled to run
+	@Override
+	protected void interrupted()
+	{
+	}
+}

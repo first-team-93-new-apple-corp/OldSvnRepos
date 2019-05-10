@@ -1,0 +1,17 @@
+Types of variables:
+
+boolean:
+This type of variable can only be set to true or false.
+This is the most basic of variables.
+
+int:
+This type of variable can only be set to whole numbers.
+This includes negative whole numbers (-200, -42, -1), positive whole numbers (69, 420, 1337) and 0.
+This type of variable has a limit: It can only go up to (2^31 - 1) or down to (-2^31 + 1), which is 2147483647 to -2147483647.
+
+double:
+This type of variable can be set to decimals, as it is a type of floating point number.
+"Floating point number" kind of means "floating decimal point number".
+This can be set to numbers such as 3.14, 1.0, and 0.333333333.
+WARNING! Due to the computer calculating in binary, there are inaccuracies that may occur. This is similar to how we can't divide 10 by 3 accurately.
+Doubles also have a limit to how large they can be.

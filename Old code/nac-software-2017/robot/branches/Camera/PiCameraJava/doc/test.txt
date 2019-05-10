@@ -1,0 +1,3621 @@
+found contours: 15
+filitered contours:  6
+size of found tape 2
+my width 7
+my hieght 15
+left-right ratio 0.40503432494279173
+driving left
+pixels437.00000000000006
+inches0.22311212814645306
+left right distance -7.866697415983842
+foward distance 201.58928571428572
+found contours: 10
+filitered contours:  4
+size of found tape 2
+my width 6
+my hieght 14
+left-right ratio 0.4236111111111111
+driving left
+pixels432.0
+inches0.2326388888888889
+left right distance -8.202600913197683
+foward distance 235.1875
+found contours: 10
+filitered contours:  4
+size of found tape 2
+my width 7
+my hieght 15
+left-right ratio 0.5048780487804878
+driving left
+pixels410.0
+inches0.2731707317073171
+left right distance -9.631710777433726
+foward distance 201.58928571428572
+found contours: 13
+filitered contours:  5
+left right distance -9.581234032288013
+foward distance 0.0
+found contours: 24
+filitered contours:  6
+left right distance -7.348870236028978
+foward distance 0.0
+found contours: 21
+filitered contours:  5
+left right distance -7.183815120244142
+foward distance 0.0
+found contours: 22
+filitered contours:  6
+left right distance -7.348870236028978
+foward distance 0.0
+found contours: 16
+filitered contours:  6
+left right distance -4.722179630199093
+foward distance 0.0
+found contours: 35
+filitered contours:  9
+left right distance 98.45204726713752
+foward distance 0.0
+found contours: 106
+filitered contours:  6
+left right distance 304.0957560505335
+foward distance 0.0
+found contours: 45
+filitered contours:  6
+size of found tape 2
+my width 10
+my hieght 17
+left-right ratio 0.34080717488789236
+driving left
+pixels446.00000000000006
+inches0.2073991031390134
+left right distance -7.31267279056242
+foward distance 141.1125
+found contours: 31
+filitered contours:  10
+size of found tape 2
+my width 9
+my hieght 17
+left-right ratio 0.34080717488789236
+driving left
+pixels446.00000000000006
+inches0.2073991031390134
+left right distance -7.31267279056242
+foward distance 156.79166666666666
+found contours: 134
+filitered contours:  7
+left right distance -14.929002576552351
+foward distance 0.0
+found contours: 128
+filitered contours:  5
+left right distance -10.533608695097442
+foward distance 0.0
+found contours: 88
+filitered contours:  5
+left right distance 607.6572162303173
+foward distance 0.0
+found contours: 21
+filitered contours:  4
+left right distance -4.811230029599924
+foward distance 0.0
+found contours: 40
+filitered contours:  8
+left right distance -4.546182384139178
+foward distance 0.0
+found contours: 136
+filitered contours:  7
+left right distance 35.114842753443725
+foward distance 0.0
+found contours: 58
+filitered contours:  9
+left right distance 98.45204726713752
+foward distance 0.0
+found contours: 55
+filitered contours:  4
+left right distance 592.620361105731
+foward distance 0.0
+found contours: 70
+filitered contours:  9
+left right distance -10.254766325646873
+foward distance 0.0
+found contours: 56
+filitered contours:  8
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.7982954545454546
+driving left
+pixels352.0
+inches0.40767045454545453
+left right distance -14.374028601621175
+foward distance 1411.125
+found contours: 46
+filitered contours:  7
+left right distance -6.701483432000326
+foward distance 0.0
+found contours: 99
+filitered contours:  4
+left right distance 168.300013649893
+foward distance 0.0
+found contours: 40
+filitered contours:  4
+left right distance -4.7666163106158095
+foward distance 0.0
+found contours: 40
+filitered contours:  1
+left right distance -3.4913265344321656
+foward distance 0.0
+found contours: 17
+filitered contours:  6
+left right distance -17.247407788648736
+foward distance 0.0
+found contours: 11
+filitered contours:  4
+left right distance -6.487034643505823
+foward distance 0.0
+found contours: 15
+filitered contours:  5
+left right distance -6.237545748816654
+foward distance 0.0
+found contours: 5
+filitered contours:  2
+left right distance -6.587253600773045
+foward distance 0.0
+found contours: 5
+filitered contours:  1
+left right distance -2.65841223626023
+foward distance 0.0
+found contours: 45
+filitered contours:  9
+left right distance -2.815596033589973
+foward distance 0.0
+found contours: 170
+filitered contours:  13
+size of found tape 2
+my width 3
+my hieght 7
+left-right ratio 0.08838821490467938
+driving left
+pixels577.0
+inches0.05199306759098787
+left right distance -1.8332205150166319
+foward distance 470.375
+found contours: 157
+filitered contours:  12
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.6071428571428571
+driving left
+pixels392.00000000000006
+inches0.31505102040816324
+left right distance -11.108365415801673
+foward distance 1411.125
+found contours: 52
+filitered contours:  6
+left right distance -1.367547467947483
+foward distance 0.0
+found contours: 61
+filitered contours:  9
+left right distance -9.002282869485928
+foward distance 0.0
+found contours: 78
+filitered contours:  8
+left right distance -8.629810792718155
+foward distance 0.0
+found contours: 78
+filitered contours:  10
+size of found tape 2
+my width 54
+my hieght 113
+left-right ratio 102.0
+drivingRight
+pixels0.00980392156862745
+inches29529.0
+left right distance 1041161.2758411125
+foward distance 26.131944444444443
+found contours: 94
+filitered contours:  7
+left right distance -6.913517889964685
+foward distance 0.0
+found contours: 118
+filitered contours:  7
+left right distance 180.9714299400466
+foward distance 0.0
+found contours: 84
+filitered contours:  8
+left right distance 212.0950581399949
+foward distance 0.0
+found contours: 108
+filitered contours:  12
+left right distance -0.4527632903861302
+foward distance 0.0
+found contours: 98
+filitered contours:  7
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 2.0095238095238095
+drivingRight
+pixels104.50236966824646
+inches2.0525850340136054
+left right distance 72.37197510196684
+foward distance 1411.125
+found contours: 65
+filitered contours:  7
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 2.324607329842932
+drivingRight
+pixels82.16441441441441
+inches2.7262410569885698
+left right distance 96.12437323121821
+foward distance 1411.125
+found contours: 36
+filitered contours:  4
+left right distance 38.949308402349416
+foward distance 0.0
+found contours: 14
+filitered contours:  2
+left right distance 129.40593975894353
+foward distance 0.0
+found contours: 18
+filitered contours:  3
+left right distance 120.10931491236032
+foward distance 0.0
+found contours: 19
+filitered contours:  2
+left right distance -4.4508328191015245
+foward distance 0.0
+found contours: 13
+filitered contours:  7
+left right distance -6.943773985763216
+foward distance 0.0
+found contours: 36
+filitered contours:  15
+size of found tape 2
+my width 15
+my hieght 46
+left-right ratio 0.315668202764977
+driving left
+pixels434.0
+inches0.22004608294930875
+left right distance -7.758591908542163
+foward distance 94.075
+found contours: 16
+filitered contours:  3
+left right distance 61.35023160555426
+foward distance 0.0
+found contours: 47
+filitered contours:  11
+left right distance 65.7492004472443
+foward distance 0.0
+found contours: 40
+filitered contours:  10
+size of found tape 2
+my width 6
+my hieght 16
+left-right ratio 0.2873051224944321
+driving left
+pixels449.0
+inches0.20489977728285078
+left right distance -7.224549207063317
+foward distance 235.1875
+found contours: 37
+filitered contours:  3
+left right distance -5.657490571446256
+foward distance 0.0
+found contours: 73
+filitered contours:  15
+left right distance 44.403530188349414
+foward distance 0.0
+found contours: 95
+filitered contours:  19
+left right distance 19.60948467363447
+foward distance 0.0
+found contours: 93
+filitered contours:  19
+left right distance 44.403530188349414
+foward distance 0.0
+found contours: 91
+filitered contours:  13
+left right distance -13.576157429905717
+foward distance 0.0
+found contours: 71
+filitered contours:  12
+left right distance 19.856727672378273
+foward distance 0.0
+found contours: 81
+filitered contours:  21
+left right distance -5.0826901180960125
+foward distance 0.0
+found contours: 96
+filitered contours:  22
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.29243353783231085
+driving left
+pixels489.0
+inches0.15337423312883436
+left right distance -5.407813073438634
+foward distance 1411.125
+found contours: 47
+filitered contours:  7
+size of found tape 2
+my width 13
+my hieght 29
+left-right ratio 0.2017353579175705
+driving left
+pixels461.0
+inches0.18004338394793926
+left right distance -6.348139095058678
+foward distance 108.54807692307692
+found contours: 141
+filitered contours:  29
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.3432203389830508
+driving left
+pixels472.0
+inches0.17690677966101695
+left right distance -6.237545748816654
+foward distance 1411.125
+found contours: 139
+filitered contours:  28
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.33263157894736844
+driving left
+pixels474.99999999999994
+inches0.17263157894736844
+left right distance -6.08680669806996
+foward distance 1411.125
+found contours: 111
+filitered contours:  21
+size of found tape 2
+my width 14
+my hieght 33
+left-right ratio 0.21806167400881057
+driving left
+pixels454.0
+inches0.1894273127753304
+left right distance -6.679006490172931
+foward distance 100.79464285714286
+found contours: 83
+filitered contours:  12
+left right distance -2.2386629357980876
+foward distance 0.0
+found contours: 117
+filitered contours:  29
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.21497120921305182
+driving left
+pixels521.0
+inches0.11324376199616124
+left right distance -3.992855149885554
+foward distance 1411.125
+found contours: 171
+filitered contours:  38
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 0.3389830508474576
+driving left
+pixels472.0
+inches0.17690677966101695
+left right distance -6.237545748816654
+foward distance 1411.125
+found contours: 168
+filitered contours:  38
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.34968017057569295
+driving left
+pixels469.0
+inches0.1812366737739872
+left right distance -6.390213230916183
+foward distance 1411.125
+found contours: 167
+filitered contours:  38
+size of found tape 2
+my width 2
+my hieght 5
+left-right ratio 0.3361522198731501
+driving left
+pixels473.0
+inches0.1744186046511628
+left right distance -6.149815332352307
+foward distance 705.5625
+found contours: 165
+filitered contours:  41
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 0.3347457627118644
+driving left
+pixels472.0
+inches0.17690677966101695
+left right distance -6.237545748816654
+foward distance 1411.125
+found contours: 136
+filitered contours:  24
+size of found tape 2
+my width 17
+my hieght 37
+left-right ratio 0.23214285714285715
+driving left
+pixels448.0
+inches0.19754464285714285
+left right distance -6.9652149545436615
+foward distance 83.00735294117646
+found contours: 85
+filitered contours:  22
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 0.1824953445065177
+driving left
+pixels537.0
+inches0.09497206703910614
+left right distance -3.3486145310611066
+foward distance 1411.125
+found contours: 148
+filitered contours:  35
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.32224532224532226
+driving left
+pixels481.0
+inches0.16424116424116425
+left right distance -5.790969558974576
+foward distance 1411.125
+found contours: 113
+filitered contours:  22
+size of found tape 2
+my width 1
+my hieght 4
+left-right ratio 0.09466437177280551
+driving left
+pixels581.0
+inches0.04991394148020654
+left right distance -1.7599127296484967
+foward distance 1411.125
+found contours: 153
+filitered contours:  38
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.3404255319148936
+driving left
+pixels470.0
+inches0.1797872340425532
+left right distance -6.339107520596342
+foward distance 1411.125
+found contours: 138
+filitered contours:  40
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 0.3305439330543933
+driving left
+pixels478.0
+inches0.1684100418410042
+left right distance -5.937959769299165
+foward distance 1411.125
+found contours: 99
+filitered contours:  22
+size of found tape 2
+my width 16
+my hieght 36
+left-right ratio 0.22939866369710468
+driving left
+pixels449.00000000000006
+inches0.1971046770601336
+left right distance -6.949702226359821
+foward distance 88.1953125
+found contours: 53
+filitered contours:  5
+size of found tape 2
+my width 13
+my hieght 31
+left-right ratio 0.2234513274336283
+driving left
+pixels452.00000000000006
+inches0.19358407079646014
+left right distance -6.825569376983937
+foward distance 108.54807692307692
+found contours: 62
+filitered contours:  4
+size of found tape 2
+my width 13
+my hieght 27
+left-right ratio 0.2096069868995633
+driving left
+pixels458.00000000000006
+inches0.18449781659388645
+left right distance -6.50519767397441
+foward distance 108.54807692307692
+found contours: 140
+filitered contours:  34
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.30390143737166325
+driving left
+pixels487.0
+inches0.15605749486652978
+left right distance -5.50242204137641
+foward distance 1411.125
+found contours: 156
+filitered contours:  33
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.316008316008316
+driving left
+pixels480.99999999999994
+inches0.16424116424116425
+left right distance -5.790969558974576
+foward distance 1411.125
+found contours: 110
+filitered contours:  39
+size of found tape 2
+my width 3
+my hieght 12
+left-right ratio 0.07388316151202749
+driving left
+pixels582.0
+inches0.04725085910652921
+left right distance -1.666015264720871
+foward distance 470.375
+found contours: 24
+filitered contours:  7
+left right distance 52.03069928371547
+foward distance 0.0
+found contours: 26
+filitered contours:  7
+left right distance 54.256543152397406
+foward distance 0.0
+found contours: 27
+filitered contours:  0
+left right distance 54.256543152397406
+foward distance 0.0
+found contours: 16
+filitered contours:  3
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 1.5158730158730158
+drivingRight
+pixels166.2408376963351
+inches1.1639739229024941
+left right distance 41.040488151137716
+foward distance 1411.125
+found contours: 8
+filitered contours:  0
+left right distance 41.040488151137716
+foward distance 1411.125
+found contours: 11
+filitered contours:  0
+left right distance 41.040488151137716
+foward distance 1411.125
+found contours: 12
+filitered contours:  1
+left right distance 24.58420837369429
+foward distance 0.0
+found contours: 14
+filitered contours:  0
+left right distance 24.58420837369429
+foward distance 0.0
+found contours: 29
+filitered contours:  1
+left right distance -0.027632399089984237
+foward distance 0.0
+found contours: 18
+filitered contours:  0
+left right distance -0.027632399089984237
+foward distance 0.0
+found contours: 20
+filitered contours:  0
+left right distance -0.027632399089984237
+foward distance 0.0
+found contours: 25
+filitered contours:  1
+left right distance -15.303000889575788
+foward distance 0.0
+found contours: 36
+filitered contours:  2
+left right distance -14.465206662079952
+foward distance 0.0
+found contours: 65
+filitered contours:  9
+left right distance 1203.0697341412078
+foward distance 0.0
+found contours: 38
+filitered contours:  8
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.34460887949260044
+driving left
+pixels472.99999999999994
+inches0.1754756871035941
+left right distance -6.187086940427169
+foward distance 1411.125
+found contours: 16
+filitered contours:  4
+left right distance 48129.556632902866
+foward distance 0.0
+found contours: 16
+filitered contours:  2
+left right distance 6930656.155138012
+foward distance 0.0
+found contours: 11
+filitered contours:  1
+left right distance -1.8593582293908926
+foward distance 0.0
+found contours: 20
+filitered contours:  2
+left right distance 3386.8415551889248
+foward distance 0.0
+found contours: 34
+filitered contours:  9
+left right distance -3.787319733827612
+foward distance 0.0
+found contours: 35
+filitered contours:  6
+left right distance -3.787319733827612
+foward distance 0.0
+found contours: 30
+filitered contours:  2
+left right distance -8.655295652940282
+foward distance 0.0
+found contours: 34
+filitered contours:  5
+left right distance 1641.7003777560024
+foward distance 0.0
+found contours: 23
+filitered contours:  5
+left right distance -1.1146753469843227
+foward distance 0.0
+found contours: 23
+filitered contours:  4
+left right distance 1027.7150764209532
+foward distance 0.0
+found contours: 24
+filitered contours:  3
+left right distance -0.39490014187478273
+foward distance 0.0
+found contours: 20
+filitered contours:  3
+left right distance 788.2592085271807
+foward distance 0.0
+found contours: 25
+filitered contours:  4
+left right distance 1582.8336636428248
+foward distance 0.0
+found contours: 47
+filitered contours:  16
+left right distance 1788373.1659418384
+foward distance 0.0
+found contours: 54
+filitered contours:  9
+left right distance 95.5546575247852
+foward distance 0.0
+found contours: 79
+filitered contours:  11
+size of found tape 2
+my width 1
+my hieght 5
+left-right ratio 15.736842105263158
+drivingRight
+pixels2.4147157190635453
+inches124.44529085872576
+left right distance 4387.8091978356615
+foward distance 1411.125
+found contours: 100
+filitered contours:  15
+left right distance -0.8988710348712307
+foward distance 0.0
+found contours: 68
+filitered contours:  7
+left right distance 32.50845480267116
+foward distance 0.0
+found contours: 63
+filitered contours:  7
+left right distance 35.114842753443725
+foward distance 0.0
+found contours: 77
+filitered contours:  7
+size of found tape 2
+my width 1
+my hieght 4
+left-right ratio 0.004754358161648178
+driving left
+pixels631.0
+inches0.006339144215530904
+left right distance -0.22351151339980913
+foward distance 1411.125
+found contours: 70
+filitered contours:  4
+size of found tape 2
+my width 50
+my hieght 109
+left-right ratio 0.0024154589371980675
+driving left
+pixels414.0
+inches0.20893719806763286
+left right distance -7.366904389270339
+foward distance 28.2225
+found contours: 81
+filitered contours:  9
+size of found tape 2
+my width 57
+my hieght 108
+left-right ratio 0.012376237623762377
+driving left
+pixels404.0
+inches0.22772277227722773
+left right distance -8.029263846463936
+foward distance 24.75657894736842
+found contours: 43
+filitered contours:  6
+size of found tape 2
+my width 62
+my hieght 108
+left-right ratio 0.04113110539845758
+driving left
+pixels389.0
+inches0.2480719794344473
+left right distance -8.746755345876913
+foward distance 22.760080645161292
+found contours: 42
+filitered contours:  1
+left right distance -9.857338410852872
+foward distance 0.0
+found contours: 30
+filitered contours:  1
+left right distance -11.236914700757048
+foward distance 0.0
+found contours: 24
+filitered contours:  3
+size of found tape 2
+my width 57
+my hieght 105
+left-right ratio 0.22058823529411764
+driving left
+pixels340.0
+inches0.36176470588235293
+left right distance -12.75544050698484
+foward distance 24.75657894736842
+found contours: 38
+filitered contours:  3
+size of found tape 2
+my width 53
+my hieght 106
+left-right ratio 0.27492447129909364
+driving left
+pixels331.0
+inches0.3942598187311178
+left right distance -13.901183781468264
+foward distance 26.625
+found contours: 76
+filitered contours:  6
+size of found tape 2
+my width 55
+my hieght 105
+left-right ratio 0.3166144200626959
+driving left
+pixels319.0
+inches0.4231974921630094
+left right distance -14.921495508591487
+foward distance 25.65681818181818
+found contours: 62
+filitered contours:  5
+size of found tape 2
+my width 56
+my hieght 106
+left-right ratio 0.37254901960784315
+driving left
+pixels306.0
+inches0.46078431372549017
+left right distance -16.246767041417005
+foward distance 25.198660714285715
+found contours: 44
+filitered contours:  4
+size of found tape 2
+my width 56
+my hieght 105
+left-right ratio 0.43686006825938567
+driving left
+pixels293.0
+inches0.5051194539249146
+left right distance -17.809977144523355
+foward distance 25.198660714285715
+found contours: 50
+filitered contours:  3
+size of found tape 2
+my width 57
+my hieght 105
+left-right ratio 0.5035714285714286
+driving left
+pixels280.0
+inches0.5482142857142858
+left right distance -19.329455286281622
+foward distance 24.75657894736842
+found contours: 24
+filitered contours:  3
+size of found tape 2
+my width 61
+my hieght 104
+left-right ratio 0.6076923076923076
+driving left
+pixels260.0
+inches0.6211538461538462
+left right distance -21.90122696180543
+foward distance 23.133196721311474
+found contours: 25
+filitered contours:  2
+left right distance 36.52248796797141
+foward distance 0.0
+found contours: 13
+filitered contours:  3
+left right distance -2.099481614920974
+foward distance 0.0
+found contours: 13
+filitered contours:  2
+left right distance -11.030730219966
+foward distance 0.0
+found contours: 76
+filitered contours:  10
+left right distance -3.8281136202147303
+foward distance 0.0
+found contours: 38
+filitered contours:  10
+left right distance -4.160145871504861
+foward distance 0.0
+found contours: 87
+filitered contours:  33
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.24752475247524752
+driving left
+pixels505.0
+inches0.13267326732673268
+left right distance -4.67791893663551
+foward distance 1411.125
+found contours: 85
+filitered contours:  27
+size of found tape 2
+my width 45
+my hieght 103
+left-right ratio 1.5
+drivingRight
+pixels116.0
+inches1.8189655172413792
+left right distance 64.13479828785341
+foward distance 31.358333333333334
+found contours: 75
+filitered contours:  19
+size of found tape 2
+my width 43
+my hieght 101
+left-right ratio 1.5647058823529412
+drivingRight
+pixels108.64661654135338
+inches1.960484429065744
+left right distance 69.12460528405042
+foward distance 32.81686046511628
+found contours: 63
+filitered contours:  13
+size of found tape 2
+my width 42
+my hieght 100
+left-right ratio 1.6585365853658536
+drivingRight
+pixels98.88235294117648
+inches2.184414039262344
+left right distance 77.02012625160418
+foward distance 33.598214285714285
+found contours: 50
+filitered contours:  14
+size of found tape 2
+my width 43
+my hieght 101
+left-right ratio 1.725
+drivingRight
+pixels92.7536231884058
+inches2.355703125
+left right distance 83.05959806047937
+foward distance 32.81686046511628
+found contours: 40
+filitered contours:  21
+size of found tape 2
+my width 42
+my hieght 101
+left-right ratio 1.8076923076923077
+drivingRight
+pixels86.29787234042554
+inches2.5551035502958577
+left right distance 90.09024593898172
+foward distance 33.598214285714285
+found contours: 75
+filitered contours:  29
+size of found tape 2
+my width 41
+my hieght 100
+left-right ratio 1.8506493506493507
+drivingRight
+pixels83.2140350877193
+inches2.66781919379322
+left right distance 94.064480189751
+foward distance 34.417682926829265
+found contours: 38
+filitered contours:  14
+size of found tape 2
+my width 44
+my hieght 101
+left-right ratio 1.8246753246753247
+drivingRight
+pixels84.39857651245552
+inches2.6066790352504636
+left right distance 91.90874293235981
+foward distance 32.07102272727273
+found contours: 17
+filitered contours:  9
+size of found tape 2
+my width 47
+my hieght 101
+left-right ratio 1.68944099378882
+drivingRight
+pixels95.29779411764706
+inches2.256085799158983
+left right distance 79.5471966222826
+foward distance 30.023936170212767
+found contours: 20
+filitered contours:  9
+size of found tape 2
+my width 45
+my hieght 100
+left-right ratio 1.543859649122807
+drivingRight
+pixels110.76136363636365
+inches1.9049964091515335
+left right distance 67.16815645043681
+foward distance 31.358333333333334
+found contours: 36
+filitered contours:  9
+size of found tape 2
+my width 43
+my hieght 99
+left-right ratio 1.4606741573033708
+drivingRight
+pixels121.86153846153846
+inches1.710958212346926
+left right distance 60.32657507121658
+foward distance 32.81686046511628
+found contours: 26
+filitered contours:  8
+size of found tape 2
+my width 43
+my hieght 99
+left-right ratio 1.3858695652173914
+drivingRight
+pixels132.7686274509804
+inches1.547805411153119
+left right distance 54.57398004097527
+foward distance 32.81686046511628
+found contours: 64
+filitered contours:  23
+size of found tape 2
+my width 42
+my hieght 101
+left-right ratio 1.3351063829787233
+drivingRight
+pixels140.81274900398407
+inches1.4487324581258487
+left right distance 51.0807726118304
+foward distance 33.598214285714285
+found contours: 38
+filitered contours:  18
+size of found tape 2
+my width 44
+my hieght 100
+left-right ratio 1.287958115183246
+drivingRight
+pixels148.2967479674797
+inches1.352018859132151
+left right distance 47.670753507916814
+foward distance 32.07102272727273
+found contours: 29
+filitered contours:  10
+size of found tape 2
+my width 48
+my hieght 99
+left-right ratio 1.1919191919191918
+drivingRight
+pixels166.11864406779662
+inches1.1768697071727374
+left right distance 41.49517985095071
+foward distance 29.3984375
+found contours: 16
+filitered contours:  4
+size of found tape 2
+my width 52
+my hieght 99
+left-right ratio 1.062200956937799
+drivingRight
+pixels196.76126126126127
+inches0.9605549323504499
+left right distance 33.86814991640313
+foward distance 27.13701923076923
+found contours: 17
+filitered contours:  3
+size of found tape 2
+my width 52
+my hieght 99
+left-right ratio 0.9414414414414415
+driving left
+pixels222.0
+inches0.8220720720720721
+left right distance -28.985390883264095
+foward distance 27.13701923076923
+found contours: 21
+filitered contours:  7
+size of found tape 2
+my width 49
+my hieght 100
+left-right ratio 0.8389830508474576
+driving left
+pixels236.00000000000003
+inches0.7499999999999999
+left right distance -26.44420592911491
+foward distance 28.7984693877551
+found contours: 38
+filitered contours:  2
+size of found tape 2
+my width 45
+my hieght 100
+left-right ratio 0.7732793522267206
+driving left
+pixels247.00000000000003
+inches0.7024291497975708
+left right distance -24.766908117146762
+foward distance 31.358333333333334
+found contours: 58
+filitered contours:  10
+size of found tape 2
+my width 44
+my hieght 100
+left-right ratio 0.7351778656126482
+driving left
+pixels253.00000000000003
+inches0.675889328063241
+left right distance -23.831142102127274
+foward distance 32.07102272727273
+found contours: 90
+filitered contours:  21
+size of found tape 2
+my width 45
+my hieght 100
+left-right ratio 0.7109375
+driving left
+pixels256.0
+inches0.662109375
+left right distance -23.345275546796763
+foward distance 31.358333333333334
+found contours: 40
+filitered contours:  7
+left right distance -0.9600206772946009
+foward distance 0.0
+found contours: 38
+filitered contours:  10
+left right distance -0.8684468285423619
+foward distance 0.0
+found contours: 63
+filitered contours:  11
+left right distance -0.807897180594891
+foward distance 0.0
+found contours: 106
+filitered contours:  24
+size of found tape 2
+my width 1
+my hieght 4
+left-right ratio 0.04132231404958678
+driving left
+pixels605.0
+inches0.02809917355371901
+left right distance -0.9907471091899803
+foward distance 1411.125
+found contours: 119
+filitered contours:  36
+size of found tape 2
+my width 43
+my hieght 100
+left-right ratio 0.6021897810218978
+driving left
+pixels274.0
+inches0.5912408759124088
+left right distance -20.846527301784025
+foward distance 32.81686046511628
+found contours: 134
+filitered contours:  36
+size of found tape 2
+my width 42
+my hieght 101
+left-right ratio 0.6117216117216118
+driving left
+pixels273.0
+inches0.5934065934065934
+left right distance -20.92288820765136
+foward distance 33.598214285714285
+found contours: 98
+filitered contours:  25
+size of found tape 2
+my width 43
+my hieght 101
+left-right ratio 0.6139705882352942
+driving left
+pixels272.0
+inches0.5992647058823529
+left right distance -21.129439051204564
+foward distance 32.81686046511628
+found contours: 117
+filitered contours:  33
+size of found tape 2
+my width 44
+my hieght 101
+left-right ratio 0.6102941176470589
+driving left
+pixels272.0
+inches0.5955882352941176
+left right distance -20.999810590767726
+foward distance 32.07102272727273
+found contours: 156
+filitered contours:  47
+size of found tape 2
+my width 43
+my hieght 100
+left-right ratio 0.608058608058608
+driving left
+pixels273.00000000000006
+inches0.5934065934065933
+left right distance -20.922888207651358
+foward distance 32.81686046511628
+found contours: 111
+filitered contours:  28
+left right distance 7175970.238807101
+foward distance 0.0
+found contours: 99
+filitered contours:  29
+size of found tape 2
+my width 3
+my hieght 5
+left-right ratio 0.1386861313868613
+driving left
+pixels548.0
+inches0.0812043795620438
+left right distance -2.8631804473129288
+foward distance 470.375
+found contours: 112
+filitered contours:  31
+size of found tape 2
+my width 4
+my hieght 7
+left-right ratio 0.0016339869281045752
+driving left
+pixels612.0
+inches0.018790849673202614
+left right distance -0.6625454644549489
+foward distance 352.78125
+found contours: 122
+filitered contours:  29
+size of found tape 2
+my width 3
+my hieght 8
+left-right ratio 0.008169934640522876
+driving left
+pixels612.0
+inches0.02042483660130719
+left right distance -0.720158113537988
+foward distance 470.375
+found contours: 131
+filitered contours:  36
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 0.15636363636363637
+driving left
+pixels550.0
+inches0.0809090909090909
+left right distance -2.8527688820499724
+foward distance 1411.125
+found contours: 129
+filitered contours:  35
+size of found tape 2
+my width 2
+my hieght 6
+left-right ratio 0.04318936877076412
+driving left
+pixels602.0
+inches0.029900332225913623
+left right distance -1.054254056974681
+foward distance 705.5625
+found contours: 126
+filitered contours:  28
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.14545454545454545
+driving left
+pixels550.0
+inches0.0809090909090909
+left right distance -2.8527688820499724
+foward distance 1411.125
+found contours: 134
+filitered contours:  31
+left right distance 48129.556632902866
+foward distance 0.0
+found contours: 145
+filitered contours:  39
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.0429042904290429
+driving left
+pixels606.0
+inches0.027227722772277228
+left right distance -0.9600206772946009
+foward distance 1411.125
+found contours: 137
+filitered contours:  36
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.14259927797833935
+driving left
+pixels554.0
+inches0.07671480144404332
+left right distance -2.7048826762632583
+foward distance 1411.125
+found contours: 131
+filitered contours:  32
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 0.006389776357827476
+driving left
+pixels626.0
+inches0.010383386581469648
+left right distance -0.3661072173359892
+foward distance 1411.125
+found contours: 144
+filitered contours:  41
+size of found tape 2
+my width 1
+my hieght 4
+left-right ratio 0.001579778830963665
+driving left
+pixels633.0
+inches0.004739336492890996
+left right distance -0.16710398691383835
+foward distance 1411.125
+found contours: 112
+filitered contours:  26
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 0.006389776357827476
+driving left
+pixels626.0
+inches0.010383386581469648
+left right distance -0.3661072173359892
+foward distance 1411.125
+found contours: 135
+filitered contours:  33
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 104.16666666666667
+drivingRight
+pixels0.0576
+inches5494.791666666667
+left right distance 193740.5364945572
+foward distance 1411.125
+found contours: 109
+filitered contours:  30
+size of found tape 2
+my width 4
+my hieght 19
+left-right ratio 0.001652892561983471
+driving left
+pixels605.0
+inches0.0256198347107438
+left right distance -0.9033282466143938
+foward distance 352.78125
+found contours: 139
+filitered contours:  36
+size of found tape 2
+my width 1
+my hieght 5
+left-right ratio 0.05518394648829431
+driving left
+pixels598.0
+inches0.034280936454849496
+left right distance -1.208709524073257
+foward distance 1411.125
+found contours: 102
+filitered contours:  25
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.1371841155234657
+driving left
+pixels554.0
+inches0.07671480144404332
+left right distance -2.7048826762632583
+foward distance 1411.125
+found contours: 131
+filitered contours:  37
+left right distance 283450.85969182174
+foward distance 0.0
+found contours: 111
+filitered contours:  26
+left right distance 7175970.238807101
+foward distance 0.0
+found contours: 112
+filitered contours:  29
+left right distance -0.8684468285423619
+foward distance 0.0
+found contours: 93
+filitered contours:  18
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.14388489208633093
+driving left
+pixels556.0
+inches0.07464028776978417
+left right distance -2.631737520523427
+foward distance 1411.125
+found contours: 109
+filitered contours:  31
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 0.011128775834658187
+driving left
+pixels629.0
+inches0.00794912559618442
+left right distance -0.28027775229586555
+foward distance 1411.125
+found contours: 115
+filitered contours:  30
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 89.0
+drivingRight
+pixels0.07865168539325842
+inches4017.714285714286
+left right distance 141660.35191436723
+foward distance 1411.125
+found contours: 127
+filitered contours:  36
+left right distance 142798.71201722053
+foward distance 0.0
+found contours: 109
+filitered contours:  26
+left right distance -0.3661072173359892
+foward distance 0.0
+found contours: 122
+filitered contours:  33
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 0.14285714285714285
+driving left
+pixels553.0
+inches0.07775768535262206
+left right distance -2.741653658714747
+foward distance 1411.125
+found contours: 115
+filitered contours:  35
+size of found tape 2
+my width 3
+my hieght 5
+left-right ratio 0.03966942148760331
+driving left
+pixels605.0
+inches0.026446280991735537
+left right distance -0.9324678674729227
+foward distance 470.375
+found contours: 122
+filitered contours:  25
+left right distance 26728.55000797251
+foward distance 0.0
+found contours: 137
+filitered contours:  34
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 104.16666666666667
+drivingRight
+pixels0.0576
+inches5494.791666666667
+left right distance 193740.5364945572
+foward distance 1411.125
+found contours: 134
+filitered contours:  38
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 209.0
+drivingRight
+pixels0.014354066985645932
+inches22154.000000000004
+left right distance 781126.5842048159
+foward distance 1411.125
+found contours: 122
+filitered contours:  38
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 104.16666666666667
+drivingRight
+pixels0.0576
+inches5494.791666666667
+left right distance 193740.5364945572
+foward distance 1411.125
+found contours: 123
+filitered contours:  30
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 0.004777070063694267
+driving left
+pixels628.0
+inches0.00875796178343949
+left right distance -0.30879645989412324
+foward distance 1411.125
+found contours: 133
+filitered contours:  41
+size of found tape 2
+my width 1
+my hieght 5
+left-right ratio 0.05518394648829431
+driving left
+pixels598.0
+inches0.034280936454849496
+left right distance -1.208709524073257
+foward distance 1411.125
+found contours: 132
+filitered contours:  42
+size of found tape 2
+my width 1
+my hieght 4
+left-right ratio 0.004777070063694267
+driving left
+pixels628.0
+inches0.00875796178343949
+left right distance -0.30879645989412324
+foward distance 1411.125
+found contours: 137
+filitered contours:  41
+size of found tape 2
+my width 1
+my hieght 5
+left-right ratio 0.05695142378559464
+driving left
+pixels597.0
+inches0.035175879396984924
+left right distance -1.2402642646821067
+foward distance 1411.125
+found contours: 115
+filitered contours:  39
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 104.16666666666667
+drivingRight
+pixels0.0576
+inches5494.791666666667
+left right distance 193740.5364945572
+foward distance 1411.125
+found contours: 136
+filitered contours:  30
+left right distance 26728.55000797251
+foward distance 0.0
+found contours: 126
+filitered contours:  28
+size of found tape 2
+my width 1
+my hieght 5
+left-right ratio 0.0031746031746031746
+driving left
+pixels630.0
+inches0.007142857142857143
+left right distance -0.2518495802772849
+foward distance 1411.125
+found contours: 137
+filitered contours:  32
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 0.0015873015873015873
+driving left
+pixels630.0
+inches0.007142857142857143
+left right distance -0.2518495802772849
+foward distance 1411.125
+found contours: 127
+filitered contours:  20
+left right distance 86110.38747325889
+foward distance 0.0
+found contours: 125
+filitered contours:  23
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 51.583333333333336
+drivingRight
+pixels0.23263327948303714
+inches1347.6145833333335
+left right distance 47515.46340632675
+foward distance 1411.125
+found contours: 152
+filitered contours:  27
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 51.583333333333336
+drivingRight
+pixels0.23263327948303714
+inches1347.6145833333335
+left right distance 47515.46340632675
+foward distance 1411.125
+found contours: 133
+filitered contours:  30
+size of found tape 2
+my width 1
+my hieght 4
+left-right ratio 0.13285457809694792
+driving left
+pixels557.0000000000001
+inches0.07360861759425492
+left right distance -2.5953619224265982
+foward distance 1411.125
+found contours: 121
+filitered contours:  30
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 104.5
+drivingRight
+pixels0.057416267942583726
+inches5512.375000000001
+left right distance 194360.50621133982
+foward distance 1411.125
+found contours: 146
+filitered contours:  26
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 51.583333333333336
+drivingRight
+pixels0.23263327948303714
+inches1347.6145833333335
+left right distance 47515.46340632675
+foward distance 1411.125
+found contours: 119
+filitered contours:  31
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 0.1310592459605027
+driving left
+pixels557.0
+inches0.07360861759425494
+left right distance -2.5953619224265987
+foward distance 1411.125
+found contours: 105
+filitered contours:  37
+left right distance 444290.2056569734
+foward distance 0.0
+found contours: 152
+filitered contours:  40
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.148014440433213
+driving left
+pixels554.0
+inches0.07671480144404332
+left right distance -2.7048826762632583
+foward distance 1411.125
+found contours: 138
+filitered contours:  38
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.1542649727767695
+driving left
+pixels551.0
+inches0.07985480943738657
+left right distance -2.815596033589973
+foward distance 1411.125
+found contours: 107
+filitered contours:  34
+left right distance 444290.2056569734
+foward distance 0.0
+found contours: 111
+filitered contours:  37
+size of found tape 2
+my width 2
+my hieght 5
+left-right ratio 0.1478102189781022
+driving left
+pixels547.9999999999999
+inches0.0821167883211679
+left right distance -2.8953510141366703
+foward distance 705.5625
+found contours: 122
+filitered contours:  33
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.15173674588665448
+driving left
+pixels547.0
+inches0.08409506398537477
+left right distance -2.9651029195351275
+foward distance 1411.125
+found contours: 114
+filitered contours:  35
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.1669724770642202
+driving left
+pixels545.0
+inches0.08623853211009175
+left right distance -3.0406793361918067
+foward distance 1411.125
+found contours: 41
+filitered contours:  10
+left right distance -0.2518495802772849
+foward distance 0.0
+found contours: 53
+filitered contours:  14
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 0.07849829351535836
+driving left
+pixels586.0
+inches0.04522184300341297
+left right distance -1.5944743051684762
+foward distance 1411.125
+found contours: 30
+filitered contours:  10
+left right distance -1.3355659560159048
+foward distance 0.0
+found contours: 25
+filitered contours:  6
+left right distance -1.7599127296484967
+foward distance 0.0
+found contours: 16
+filitered contours:  5
+left right distance 32.50845480267116
+foward distance 0.0
+found contours: 13
+filitered contours:  6
+size of found tape 2
+my width 53
+my hieght 103
+left-right ratio 1.2
+drivingRight
+pixels162.5
+inches1.2061538461538461
+left right distance 42.527707586515064
+foward distance 26.625
+found contours: 5
+filitered contours:  2
+size of found tape 2
+my width 55
+my hieght 102
+left-right ratio 1.5058823529411764
+drivingRight
+pixels112.890625
+inches1.8336332179930797
+left right distance 64.6519658867662
+foward distance 25.65681818181818
+found contours: 11
+filitered contours:  2
+size of found tape 2
+my width 53
+my hieght 104
+left-right ratio 1.917808219178082
+drivingRight
+pixels76.12857142857143
+inches2.8767123287671232
+left right distance 101.42983096098871
+foward distance 26.625
+found contours: 7
+filitered contours:  3
+size of found tape 2
+my width 52
+my hieght 101
+left-right ratio 2.388888888888889
+drivingRight
+pixels52.74418604651163
+inches4.360670194003527
+left right distance 153.75261413224368
+foward distance 27.13701923076923
+found contours: 39
+filitered contours:  8
+size of found tape 2
+my width 46
+my hieght 98
+left-right ratio 2.8482142857142856
+drivingRight
+pixels39.322884012539184
+inches6.077885841836735
+left right distance 214.2998197535768
+foward distance 30.67663043478261
+found contours: 64
+filitered contours:  13
+size of found tape 2
+my width 44
+my hieght 98
+left-right ratio 3.203883495145631
+drivingRight
+pixels32.14848484848485
+inches7.636440757847111
+left right distance 269.2528159546605
+foward distance 32.07102272727273
+found contours: 41
+filitered contours:  9
+size of found tape 2
+my width 43
+my hieght 98
+left-right ratio 3.606382978723404
+drivingRight
+pixels26.064896755162245
+inches9.572261204164779
+left right distance 337.5077953202812
+foward distance 32.81686046511628
+found contours: 46
+filitered contours:  12
+size of found tape 2
+my width 46
+my hieght 98
+left-right ratio 4.168674698795181
+drivingRight
+pixels19.910404624277454
+inches12.732036580055162
+left right distance 448.9181296266703
+foward distance 30.67663043478261
+found contours: 59
+filitered contours:  14
+size of found tape 2
+my width 46
+my hieght 98
+left-right ratio 4.944444444444445
+drivingRight
+pixels14.561797752808989
+inches17.786265432098766
+left right distance 627.1248877284238
+foward distance 30.67663043478261
+found contours: 53
+filitered contours:  7
+size of found tape 2
+my width 44
+my hieght 99
+left-right ratio 5.6
+drivingRight
+pixels11.607142857142858
+inches22.701538461538462
+left right distance 800.4322106461942
+foward distance 32.07102272727273
+found contours: 68
+filitered contours:  11
+size of found tape 2
+my width 45
+my hieght 99
+left-right ratio 6.491228070175438
+drivingRight
+pixels8.781081081081082
+inches30.349338257925513
+left right distance 1070.0855342732639
+foward distance 31.358333333333334
+found contours: 47
+filitered contours:  7
+size of found tape 2
+my width 47
+my hieght 99
+left-right ratio 8.02127659574468
+drivingRight
+pixels5.859416445623342
+inches46.1650067904029
+left right distance 1627.729261712537
+foward distance 30.023936170212767
+found contours: 73
+filitered contours:  13
+size of found tape 2
+my width 45
+my hieght 100
+left-right ratio 9.897435897435898
+drivingRight
+pixels3.9404145077720205
+inches69.91650230111769
+left right distance 2465.181846258924
+foward distance 31.358333333333334
+found contours: 107
+filitered contours:  15
+size of found tape 2
+my width 42
+my hieght 100
+left-right ratio 10.88888888888889
+drivingRight
+pixels3.3061224489795915
+inches84.3888888888889
+left right distance 2975.4628745426344
+foward distance 33.598214285714285
+found contours: 144
+filitered contours:  31
+size of found tape 2
+my width 40
+my hieght 99
+left-right ratio 11.617647058823529
+drivingRight
+pixels2.9265822784810127
+inches95.84558823529412
+left right distance 3379.413963588362
+foward distance 35.278125
+found contours: 160
+filitered contours:  31
+size of found tape 2
+my width 41
+my hieght 99
+left-right ratio 12.375
+drivingRight
+pixels2.585858585858586
+inches108.86132812499999
+left right distance 3838.335171539265
+foward distance 34.417682926829265
+found contours: 200
+filitered contours:  53
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 0.5994962216624685
+driving left
+pixels397.0
+inches0.3047858942065491
+left right distance -10.74642793424989
+foward distance 1411.125
+found contours: 159
+filitered contours:  36
+size of found tape 2
+my width 40
+my hieght 99
+left-right ratio 12.4375
+drivingRight
+pixels2.5728643216080402
+inches109.60546875
+left right distance 3864.5727821095597
+foward distance 35.278125
+found contours: 182
+filitered contours:  40
+size of found tape 2
+my width 40
+my hieght 100
+left-right ratio 12.838709677419354
+drivingRight
+pixels2.4145728643216082
+inches116.79084287200831
+left right distance 4117.9214660563875
+foward distance 35.278125
+found contours: 188
+filitered contours:  38
+size of found tape 2
+my width 41
+my hieght 100
+left-right ratio 13.758620689655173
+drivingRight
+pixels2.107769423558897
+inches134.2651605231867
+left right distance 4734.04740530776
+foward distance 34.417682926829265
+found contours: 150
+filitered contours:  37
+size of found tape 2
+my width 40
+my hieght 99
+left-right ratio 14.321428571428571
+drivingRight
+pixels1.9551122194513715
+inches145.0044642857143
+left right distance 5112.703885616558
+foward distance 35.278125
+found contours: 149
+filitered contours:  33
+size of found tape 2
+my width 41
+my hieght 99
+left-right ratio 15.461538461538462
+drivingRight
+pixels1.681592039800995
+inches169.18491124260356
+left right distance 5965.280843997917
+foward distance 34.417682926829265
+found contours: 189
+filitered contours:  32
+size of found tape 2
+my width 40
+my hieght 99
+left-right ratio 17.608695652173914
+drivingRight
+pixels1.3061728395061727
+inches218.96030245746695
+left right distance 7720.3084379820575
+foward distance 35.278125
+found contours: 168
+filitered contours:  34
+size of found tape 2
+my width 41
+my hieght 101
+left-right ratio 18.454545454545453
+drivingRight
+pixels1.1921182266009853
+inches240.3285123966942
+left right distance 8473.728896608038
+foward distance 34.417682926829265
+found contours: 190
+filitered contours:  53
+size of found tape 2
+my width 41
+my hieght 100
+left-right ratio 21.473684210526315
+drivingRight
+pixels0.8848039215686274
+inches324.93074792243766
+left right distance 11456.714147683027
+foward distance 34.417682926829265
+found contours: 185
+filitered contours:  38
+size of found tape 2
+my width 42
+my hieght 100
+left-right ratio 24.11764705882353
+drivingRight
+pixels0.7048780487804879
+inches409.99999999999994
+left right distance 14456.16590791615
+foward distance 33.598214285714285
+found contours: 173
+filitered contours:  36
+size of found tape 2
+my width 41
+my hieght 100
+left-right ratio 29.428571428571427
+drivingRight
+pixels0.47572815533980584
+inches609.5918367346939
+left right distance 21493.562751092857
+foward distance 34.417682926829265
+found contours: 178
+filitered contours:  33
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 1.0
+driving foward
+left right distance 0.0
+foward distance 1411.125
+found contours: 135
+filitered contours:  11
+size of found tape 2
+my width 42
+my hieght 100
+left-right ratio 52.125
+drivingRight
+pixels0.15347721822541965
+inches1905.8203125000002
+left right distance 67197.20641018687
+foward distance 33.598214285714285
+found contours: 196
+filitered contours:  48
+size of found tape 2
+my width 42
+my hieght 101
+left-right ratio 59.857142857142854
+drivingRight
+pixels0.11694510739856802
+inches2514.0
+left right distance 88640.9782743932
+foward distance 33.598214285714285
+found contours: 170
+filitered contours:  34
+size of found tape 2
+my width 42
+my hieght 101
+left-right ratio 140.66666666666666
+drivingRight
+pixels0.02132701421800948
+inches13855.666666666666
+left right distance 488536.1368246754
+foward distance 33.598214285714285
+found contours: 188
+filitered contours:  31
+size of found tape 2
+my width 42
+my hieght 100
+left-right ratio 425.0
+drivingRight
+pixels0.002352941176470588
+inches126225.00000000001
+left right distance 4450559.857870041
+foward distance 33.598214285714285
+found contours: 127
+filitered contours:  16
+size of found tape 2
+my width 43
+my hieght 101
+left-right ratio 428.0
+drivingRight
+pixels0.002336448598130841
+inches127758.00000000001
+left right distance 4504611.814789152
+foward distance 32.81686046511628
+found contours: 110
+filitered contours:  18
+size of found tape 2
+my width 42
+my hieght 102
+left-right ratio 434.0
+drivingRight
+pixels0.002304147465437788
+inches130851.0
+left right distance 4613667.7200408215
+foward distance 33.598214285714285
+found contours: 114
+filitered contours:  20
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.23735408560311283
+driving left
+pixels514.0
+inches0.12159533073929961
+left right distance -4.2873226214518345
+foward distance 1411.125
+found contours: 173
+filitered contours:  39
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 0.8761061946902655
+driving left
+pixels339.0
+inches0.4424778761061947
+left right distance -15.601301433106146
+foward distance 1411.125
+found contours: 177
+filitered contours:  50
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.18164794007490637
+driving left
+pixels534.0
+inches0.09831460674157304
+left right distance -3.466468942018809
+foward distance 1411.125
+found contours: 209
+filitered contours:  54
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.9415384615384615
+driving left
+pixels325.0
+inches0.48307692307692307
+left right distance -17.032780844599145
+foward distance 1411.125
+found contours: 205
+filitered contours:  55
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.9476923076923077
+driving left
+pixels325.0
+inches0.48307692307692307
+left right distance -17.032780844599145
+foward distance 1411.125
+found contours: 222
+filitered contours:  56
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 0.8275862068965517
+driving left
+pixels348.0
+inches0.41810344827586204
+left right distance -14.741884914506592
+foward distance 1411.125
+found contours: 232
+filitered contours:  52
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 0.9476923076923077
+driving left
+pixels325.0
+inches0.48307692307692307
+left right distance -17.032780844599145
+foward distance 1411.125
+found contours: 206
+filitered contours:  46
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.9476923076923077
+driving left
+pixels325.0
+inches0.48307692307692307
+left right distance -17.032780844599145
+foward distance 1411.125
+found contours: 176
+filitered contours:  43
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.9476923076923077
+driving left
+pixels325.0
+inches0.48307692307692307
+left right distance -17.032780844599145
+foward distance 1411.125
+found contours: 160
+filitered contours:  26
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.09482758620689655
+driving left
+pixels580.0000000000001
+inches0.05086206896551723
+left right distance -1.7933427009399767
+foward distance 1411.125
+found contours: 89
+filitered contours:  17
+left right distance -13.837657106296628
+foward distance 0.0
+found contours: 70
+filitered contours:  9
+size of found tape 2
+my width 46
+my hieght 101
+left-right ratio 430.0
+drivingRight
+pixels0.002325581395348837
+inches128785.0
+left right distance 4540822.747441419
+foward distance 30.67663043478261
+found contours: 62
+filitered contours:  11
+size of found tape 2
+my width 48
+my hieght 101
+left-right ratio 420.0
+drivingRight
+pixels0.002380952380952381
+inches123269.99999999999
+left right distance 4346369.686509327
+foward distance 29.3984375
+found contours: 51
+filitered contours:  5
+size of found tape 2
+my width 50
+my hieght 101
+left-right ratio 37.09090909090909
+drivingRight
+pixels0.2965686274509804
+inches967.7355371900826
+left right distance 34121.33044050292
+foward distance 28.2225
+found contours: 48
+filitered contours:  4
+size of found tape 2
+my width 50
+my hieght 100
+left-right ratio 16.5
+drivingRight
+pixels1.4545454545454546
+inches192.84375
+left right distance 6799.466449523673
+foward distance 28.2225
+found contours: 30
+filitered contours:  5
+size of found tape 2
+my width 50
+my hieght 100
+left-right ratio 10.378378378378379
+drivingRight
+pixels3.5651041666666665
+inches76.85609934258584
+left right distance 2709.8646905651376
+foward distance 28.2225
+found contours: 30
+filitered contours:  7
+size of found tape 2
+my width 49
+my hieght 100
+left-right ratio 7.134615384615385
+drivingRight
+pixels7.288409703504043
+inches36.633505917159766
+left right distance 1291.6586325050969
+foward distance 28.7984693877551
+found contours: 34
+filitered contours:  8
+size of found tape 2
+my width 48
+my hieght 99
+left-right ratio 5.538461538461538
+drivingRight
+pixels11.73611111111111
+inches22.23905325443787
+left right distance 784.125471905211
+foward distance 29.3984375
+found contours: 27
+filitered contours:  7
+size of found tape 2
+my width 50
+my hieght 99
+left-right ratio 4.51948051948052
+drivingRight
+pixels17.037356321839077
+inches14.908416259065612
+left right distance 525.6549728422615
+foward distance 28.2225
+found contours: 23
+filitered contours:  7
+size of found tape 2
+my width 51
+my hieght 99
+left-right ratio 3.619565217391304
+drivingRight
+pixels25.41741741741742
+inches9.678402646502835
+left right distance 341.2502301986824
+foward distance 27.669117647058822
+found contours: 26
+filitered contours:  6
+size of found tape 2
+my width 49
+my hieght 98
+left-right ratio 3.0377358490566038
+drivingRight
+pixels34.8944099378882
+inches6.877892488430046
+left right distance 242.5072070964757
+foward distance 28.7984693877551
+found contours: 24
+filitered contours:  9
+size of found tape 2
+my width 49
+my hieght 99
+left-right ratio 2.6134453781512605
+drivingRight
+pixels45.533762057877816
+inches5.139043852835251
+left right distance 181.1972452308367
+foward distance 28.7984693877551
+found contours: 15
+filitered contours:  6
+size of found tape 2
+my width 51
+my hieght 99
+left-right ratio 2.267175572519084
+drivingRight
+pixels57.78114478114478
+inches3.919963871569256
+left right distance 138.2137758059573
+foward distance 27.669117647058822
+found contours: 5
+filitered contours:  2
+size of found tape 2
+my width 52
+my hieght 97
+left-right ratio 1.9315068493150684
+drivingRight
+pixels75.5886524822695
+inches2.897260273972603
+left right distance 102.15432975356721
+foward distance 27.13701923076923
+found contours: 6
+filitered contours:  2
+size of found tape 2
+my width 49
+my hieght 97
+left-right ratio 1.6503067484662577
+drivingRight
+pixels98.76951672862452
+inches2.1464112311340284
+left right distance 75.68018747289777
+foward distance 28.7984693877551
+found contours: 6
+filitered contours:  2
+size of found tape 2
+my width 46
+my hieght 97
+left-right ratio 1.4772727272727273
+drivingRight
+pixels119.13846153846154
+inches1.737474173553719
+left right distance 61.26149978929772
+foward distance 30.67663043478261
+found contours: 9
+filitered contours:  2
+size of found tape 2
+my width 46
+my hieght 97
+left-right ratio 1.3567567567567567
+drivingRight
+pixels136.35458167330677
+inches1.488765522279036
+left right distance 52.49229606841753
+foward distance 30.67663043478261
+found contours: 9
+filitered contours:  3
+size of found tape 2
+my width 45
+my hieght 98
+left-right ratio 1.2694300518134716
+drivingRight
+pixels152.03673469387755
+inches1.3121828773926818
+left right distance 46.26617896857417
+foward distance 31.358333333333334
+found contours: 9
+filitered contours:  2
+size of found tape 2
+my width 47
+my hieght 99
+left-right ratio 1.185
+drivingRight
+pixels168.77637130801685
+inches1.1583375000000002
+left right distance 40.84175384722154
+foward distance 30.023936170212767
+found contours: 10
+filitered contours:  3
+left right distance 43.15184418783251
+foward distance 0.0
+found contours: 8
+filitered contours:  2
+left right distance -10.276001590992962
+foward distance 0.0
+found contours: 10
+filitered contours:  4
+left right distance -2.3798219663857116
+foward distance 0.0
+found contours: 34
+filitered contours:  7
+left right distance 33.78450052247444
+foward distance 0.0
+found contours: 118
+filitered contours:  46
+size of found tape 2
+my width 1
+my hieght 5
+left-right ratio 0.23046875
+driving left
+pixels512.0
+inches0.1240234375
+left right distance -4.372935095048951
+foward distance 1411.125
+found contours: 128
+filitered contours:  28
+left right distance -4.2447657413724915
+foward distance 0.0
+found contours: 131
+filitered contours:  31
+size of found tape 2
+my width 1
+my hieght 5
+left-right ratio 12.48936170212766
+drivingRight
+pixels3.76320272572402
+inches78.65640561339974
+left right distance 2773.3415835796445
+foward distance 1411.125
+found contours: 134
+filitered contours:  33
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 0.2248062015503876
+driving left
+pixels516.0
+inches0.11918604651162791
+left right distance -4.202373810440743
+foward distance 1411.125
+found contours: 112
+filitered contours:  36
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.22568093385214008
+driving left
+pixels514.0
+inches0.12159533073929961
+left right distance -4.2873226214518345
+foward distance 1411.125
+found contours: 115
+filitered contours:  33
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 12.46808510638298
+drivingRight
+pixels3.7696245733788394
+inches78.52240832956089
+left right distance 2768.6169812226085
+foward distance 1411.125
+found contours: 95
+filitered contours:  31
+size of found tape 2
+my width 1
+my hieght 5
+left-right ratio 0.218568665377176
+driving left
+pixels517.0
+inches0.11798839458413926
+left right distance -4.160145871504861
+foward distance 1411.125
+found contours: 97
+filitered contours:  27
+left right distance -4.202373810440743
+foward distance 0.0
+found contours: 118
+filitered contours:  36
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.06386554621848739
+driving left
+pixels595.0
+inches0.03697478991596639
+left right distance -1.303691944964769
+foward distance 1411.125
+found contours: 119
+filitered contours:  36
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.1168141592920354
+driving left
+pixels565.0
+inches0.06548672566371681
+left right distance -2.3089926120997095
+foward distance 1411.125
+found contours: 116
+filitered contours:  34
+size of found tape 2
+my width 1
+my hieght 5
+left-right ratio 0.2328767123287671
+driving left
+pixels511.0
+inches0.12524461839530332
+left right distance -4.41599264047842
+foward distance 1411.125
+found contours: 116
+filitered contours:  28
+left right distance -1.2402642646821067
+foward distance 0.0
+found contours: 110
+filitered contours:  29
+size of found tape 2
+my width 12
+my hieght 59
+left-right ratio 0.003527336860670194
+driving left
+pixels567.0
+inches0.05114638447971781
+left right distance -1.8033673649484598
+foward distance 117.59375
+found contours: 96
+filitered contours:  29
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 13.409090909090908
+drivingRight
+pixels3.28135593220339
+inches90.66373966942147
+left right distance 3196.7074694957955
+foward distance 1411.125
+found contours: 110
+filitered contours:  36
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.23196881091617932
+driving left
+pixels513.0000000000001
+inches0.12280701754385963
+left right distance -4.33004541529367
+foward distance 1411.125
+found contours: 122
+filitered contours:  26
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.08047945205479452
+driving left
+pixels584.0
+inches0.04708904109589041
+left right distance -1.660309732992375
+foward distance 1411.125
+found contours: 118
+filitered contours:  37
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.2328767123287671
+driving left
+pixels511.0
+inches0.12524461839530332
+left right distance -4.41599264047842
+foward distance 1411.125
+found contours: 112
+filitered contours:  33
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.11900532859680284
+driving left
+pixels563.0
+inches0.0674955595026643
+left right distance -2.3798219663857116
+foward distance 1411.125
+found contours: 115
+filitered contours:  34
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.23483365949119372
+driving left
+pixels511.00000000000006
+inches0.12524461839530332
+left right distance -4.41599264047842
+foward distance 1411.125
+found contours: 130
+filitered contours:  33
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 0.2328767123287671
+driving left
+pixels511.0
+inches0.12524461839530332
+left right distance -4.41599264047842
+foward distance 1411.125
+found contours: 107
+filitered contours:  29
+left right distance -11.860664788451192
+foward distance 0.0
+found contours: 119
+filitered contours:  33
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 13.11111111111111
+drivingRight
+pixels3.4322033898305087
+inches86.53333333333333
+left right distance 3051.0737151992143
+foward distance 1411.125
+found contours: 120
+filitered contours:  33
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 13.11111111111111
+drivingRight
+pixels3.4322033898305087
+inches86.53333333333333
+left right distance 3051.0737151992143
+foward distance 1411.125
+found contours: 119
+filitered contours:  30
+size of found tape 2
+my width 1
+my hieght 4
+left-right ratio 12.51063829787234
+drivingRight
+pixels3.7568027210884356
+inches78.79040289723856
+left right distance 2778.0661859366787
+foward distance 1411.125
+found contours: 118
+filitered contours:  37
+size of found tape 2
+my width 7
+my hieght 19
+left-right ratio 0.06434782608695652
+driving left
+pixels575.0
+inches0.051304347826086956
+left right distance -1.8089369852959767
+foward distance 201.58928571428572
+found contours: 92
+filitered contours:  34
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.11504424778761062
+driving left
+pixels565.0
+inches0.06548672566371681
+left right distance -2.3089926120997095
+foward distance 1411.125
+found contours: 124
+filitered contours:  34
+size of found tape 2
+my width 1
+my hieght 4
+left-right ratio 12.48936170212766
+drivingRight
+pixels3.76320272572402
+inches78.65640561339974
+left right distance 2773.3415835796445
+foward distance 1411.125
+found contours: 79
+filitered contours:  31
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.07849829351535836
+driving left
+pixels586.0
+inches0.04522184300341297
+left right distance -1.5944743051684762
+foward distance 1411.125
+found contours: 91
+filitered contours:  37
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 12.48936170212766
+drivingRight
+pixels3.76320272572402
+inches78.65640561339974
+left right distance 2773.3415835796445
+foward distance 1411.125
+found contours: 118
+filitered contours:  35
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.07508532423208192
+driving left
+pixels585.9999999999999
+inches0.045221843003412976
+left right distance -1.5944743051684762
+foward distance 1411.125
+found contours: 125
+filitered contours:  41
+size of found tape 2
+my width 1
+my hieght 4
+left-right ratio 11.979591836734693
+drivingRight
+pixels4.090289608177173
+inches72.12203248646397
+left right distance 2542.946505464492
+foward distance 1411.125
+found contours: 126
+filitered contours:  39
+size of found tape 2
+my width 3
+my hieght 7
+left-right ratio 0.0721830985915493
+driving left
+pixels568.0
+inches0.06073943661971831
+left right distance -2.141608226653673
+foward distance 470.375
+found contours: 131
+filitered contours:  35
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.07666098807495741
+driving left
+pixels587.0
+inches0.044293015332197615
+left right distance -1.5617248248881042
+foward distance 1411.125
+found contours: 136
+filitered contours:  40
+size of found tape 2
+my width 7
+my hieght 17
+left-right ratio 0.060658578856152515
+driving left
+pixels576.9999999999999
+inches0.04939341421143848
+left right distance -1.7415594892658004
+foward distance 201.58928571428572
+found contours: 133
+filitered contours:  40
+size of found tape 2
+my width 1
+my hieght 4
+left-right ratio 12.48936170212766
+drivingRight
+pixels3.76320272572402
+inches78.65640561339974
+left right distance 2773.3415835796445
+foward distance 1411.125
+found contours: 117
+filitered contours:  34
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 0.21772639691714837
+driving left
+pixels519.0
+inches0.11560693641618497
+left right distance -4.076178177898253
+foward distance 1411.125
+found contours: 107
+filitered contours:  34
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.21772639691714837
+driving left
+pixels519.0
+inches0.11560693641618497
+left right distance -4.076178177898253
+foward distance 1411.125
+found contours: 119
+filitered contours:  34
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.21814671814671815
+driving left
+pixels518.0
+inches0.1167953667953668
+left right distance -4.118080974804253
+foward distance 1411.125
+found contours: 130
+filitered contours:  43
+size of found tape 2
+my width 1
+my hieght 5
+left-right ratio 0.21621621621621623
+driving left
+pixels518.0
+inches0.1167953667953668
+left right distance -4.118080974804253
+foward distance 1411.125
+found contours: 106
+filitered contours:  31
+left right distance -3.585655041235922
+foward distance 0.0
+found contours: 101
+filitered contours:  31
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 0.09358752166377816
+driving left
+pixels577.0
+inches0.053726169844020795
+left right distance -1.8943278655171865
+foward distance 1411.125
+found contours: 106
+filitered contours:  39
+size of found tape 2
+my width 1
+my hieght 4
+left-right ratio 0.20912547528517111
+driving left
+pixels526.0
+inches0.10741444866920152
+left right distance -3.787319733827612
+foward distance 1411.125
+found contours: 114
+filitered contours:  33
+size of found tape 2
+my width 1
+my hieght 4
+left-right ratio 0.06040268456375839
+driving left
+pixels595.9999999999999
+inches0.03607382550335571
+left right distance -1.2719248936822611
+foward distance 1411.125
+found contours: 122
+filitered contours:  40
+size of found tape 2
+my width 8
+my hieght 17
+left-right ratio 0.039182282793867124
+driving left
+pixels587.0
+inches0.03833049403747871
+left right distance -1.3514926369223978
+foward distance 176.390625
+found contours: 134
+filitered contours:  42
+size of found tape 2
+my width 1
+my hieght 5
+left-right ratio 0.05518394648829431
+driving left
+pixels598.0
+inches0.034280936454849496
+left right distance -1.208709524073257
+foward distance 1411.125
+found contours: 117
+filitered contours:  42
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.056856187290969896
+driving left
+pixels598.0
+inches0.034280936454849496
+left right distance -1.208709524073257
+foward distance 1411.125
+found contours: 113
+filitered contours:  34
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 0.0711864406779661
+driving left
+pixels590.0
+inches0.04152542372881356
+left right distance -1.4641424751713343
+foward distance 1411.125
+found contours: 130
+filitered contours:  43
+size of found tape 2
+my width 1
+my hieght 5
+left-right ratio 0.12078152753108348
+driving left
+pixels563.0
+inches0.0674955595026643
+left right distance -2.3798219663857116
+foward distance 1411.125
+found contours: 125
+filitered contours:  30
+left right distance -1.9282233489979625
+foward distance 0.0
+found contours: 109
+filitered contours:  34
+size of found tape 2
+my width 8
+my hieght 18
+left-right ratio 0.03924914675767918
+driving left
+pixels586.0
+inches0.04010238907849829
+left right distance -1.4139677800550636
+foward distance 176.390625
+found contours: 131
+filitered contours:  39
+size of found tape 2
+my width 2
+my hieght 10
+left-right ratio 0.20038167938931298
+driving left
+pixels524.0
+inches0.10877862595419847
+left right distance -3.8354191805586524
+foward distance 705.5625
+found contours: 110
+filitered contours:  38
+size of found tape 2
+my width 2
+my hieght 6
+left-right ratio 0.05263157894736842
+driving left
+pixels589.0
+inches0.04159592529711375
+left right distance -1.4666282858252753
+foward distance 705.5625
+found contours: 128
+filitered contours:  30
+size of found tape 2
+my width 1
+my hieght 5
+left-right ratio 0.2045889101338432
+driving left
+pixels523.0
+inches0.11089866156787763
+left right distance -3.910169391685571
+foward distance 1411.125
+found contours: 137
+filitered contours:  36
+size of found tape 2
+my width 2
+my hieght 10
+left-right ratio 0.20038167938931298
+driving left
+pixels524.0
+inches0.10877862595419847
+left right distance -3.8354191805586524
+foward distance 705.5625
+found contours: 126
+filitered contours:  38
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.1012216404886562
+driving left
+pixels573.0
+inches0.05759162303664921
+left right distance -2.03061965249748
+foward distance 1411.125
+found contours: 128
+filitered contours:  41
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.05852842809364549
+driving left
+pixels598.0
+inches0.034280936454849496
+left right distance -1.208709524073257
+foward distance 1411.125
+found contours: 120
+filitered contours:  38
+size of found tape 2
+my width 2
+my hieght 7
+left-right ratio 0.05704697986577181
+driving left
+pixels595.9999999999999
+inches0.035234899328859065
+left right distance -1.242345244991976
+foward distance 705.5625
+found contours: 137
+filitered contours:  35
+size of found tape 2
+my width 6
+my hieght 24
+left-right ratio 0.049403747870528106
+driving left
+pixels587.0
+inches0.04003407155025554
+left right distance -1.4115589763411711
+foward distance 235.1875
+found contours: 133
+filitered contours:  42
+size of found tape 2
+my width 1
+my hieght 5
+left-right ratio 0.12678571428571428
+driving left
+pixels560.0
+inches0.07053571428571428
+left right distance -2.4870146052381883
+foward distance 1411.125
+found contours: 132
+filitered contours:  40
+size of found tape 2
+my width 2
+my hieght 10
+left-right ratio 0.20038167938931298
+driving left
+pixels524.0
+inches0.10877862595419847
+left right distance -3.8354191805586524
+foward distance 705.5625
+found contours: 120
+filitered contours:  38
+size of found tape 2
+my width 3
+my hieght 5
+left-right ratio 0.0535405872193437
+driving left
+pixels579.0
+inches0.05008635578583765
+left right distance -1.7659918755194763
+foward distance 470.375
+found contours: 132
+filitered contours:  42
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 0.12078152753108348
+driving left
+pixels563.0
+inches0.0674955595026643
+left right distance -2.3798219663857116
+foward distance 1411.125
+found contours: 128
+filitered contours:  40
+left right distance -11.035241151081035
+foward distance 0.0
+found contours: 113
+filitered contours:  31
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 0.05518394648829431
+driving left
+pixels598.0
+inches0.034280936454849496
+left right distance -1.208709524073257
+foward distance 1411.125
+found contours: 121
+filitered contours:  39
+size of found tape 2
+my width 3
+my hieght 8
+left-right ratio 0.06196213425129088
+driving left
+pixels581.0
+inches0.04819277108433735
+left right distance -1.6992260837985491
+foward distance 470.375
+found contours: 135
+filitered contours:  47
+left right distance -15.998086771046635
+foward distance 0.0
+found contours: 122
+filitered contours:  41
+size of found tape 2
+my width 3
+my hieght 5
+left-right ratio 0.08787346221441125
+driving left
+pixels569.0
+inches0.05975395430579965
+left right distance -2.1068611636553185
+foward distance 470.375
+found contours: 139
+filitered contours:  34
+size of found tape 2
+my width 1
+my hieght 4
+left-right ratio 0.12078152753108348
+driving left
+pixels563.0
+inches0.0674955595026643
+left right distance -2.3798219663857116
+foward distance 1411.125
+found contours: 132
+filitered contours:  47
+size of found tape 2
+my width 6
+my hieght 24
+left-right ratio 0.04957264957264957
+driving left
+pixels585.0
+inches0.042735042735042736
+left right distance -1.5067923606333287
+foward distance 235.1875
+found contours: 122
+filitered contours:  36
+left right distance -10.675131706728132
+foward distance 0.0
+found contours: 137
+filitered contours:  38
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.12078152753108348
+driving left
+pixels563.0
+inches0.0674955595026643
+left right distance -2.3798219663857116
+foward distance 1411.125
+found contours: 137
+filitered contours:  32
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 0.05518394648829431
+driving left
+pixels598.0
+inches0.034280936454849496
+left right distance -1.208709524073257
+foward distance 1411.125
+found contours: 132
+filitered contours:  40
+size of found tape 2
+my width 2
+my hieght 10
+left-right ratio 0.20038167938931298
+driving left
+pixels524.0
+inches0.10877862595419847
+left right distance -3.8354191805586524
+foward distance 705.5625
+found contours: 133
+filitered contours:  42
+size of found tape 2
+my width 3
+my hieght 5
+left-right ratio 0.044850498338870434
+driving left
+pixels601.9999999999999
+inches0.02906976744186047
+left right distance -1.0249692220587179
+foward distance 470.375
+found contours: 123
+filitered contours:  39
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.20419847328244276
+driving left
+pixels524.0
+inches0.10973282442748092
+left right distance -3.8690632084582894
+foward distance 1411.125
+found contours: 140
+filitered contours:  46
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.20419847328244276
+driving left
+pixels524.0
+inches0.10973282442748092
+left right distance -3.8690632084582894
+foward distance 1411.125
+found contours: 127
+filitered contours:  41
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 0.0711864406779661
+driving left
+pixels590.0
+inches0.04152542372881356
+left right distance -1.4641424751713343
+foward distance 1411.125
+found contours: 139
+filitered contours:  39
+left right distance 1788373.1659418384
+foward distance 0.0
+found contours: 142
+filitered contours:  53
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.06960950764006792
+driving left
+pixels589.0
+inches0.042444821731748725
+left right distance -1.4965594753319138
+foward distance 1411.125
+found contours: 134
+filitered contours:  36
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.0711864406779661
+driving left
+pixels590.0
+inches0.04152542372881356
+left right distance -1.4641424751713343
+foward distance 1411.125
+found contours: 135
+filitered contours:  38
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.12255772646536411
+driving left
+pixels563.0
+inches0.0674955595026643
+left right distance -2.3798219663857116
+foward distance 1411.125
+found contours: 143
+filitered contours:  46
+size of found tape 2
+my width 2
+my hieght 10
+left-right ratio 0.20038167938931298
+driving left
+pixels524.0
+inches0.10877862595419847
+left right distance -3.8354191805586524
+foward distance 705.5625
+found contours: 134
+filitered contours:  36
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.07482993197278912
+driving left
+pixels588.0
+inches0.04336734693877551
+left right distance -1.5290867373978012
+foward distance 1411.125
+found contours: 129
+filitered contours:  42
+size of found tape 2
+my width 1
+my hieght 4
+left-right ratio 0.12633451957295375
+driving left
+pixels562.0
+inches0.06850533807829182
+left right distance -2.415425689847982
+foward distance 1411.125
+found contours: 143
+filitered contours:  43
+size of found tape 2
+my width 1
+my hieght 5
+left-right ratio 0.2045889101338432
+driving left
+pixels523.0
+inches0.11089866156787763
+left right distance -3.910169391685571
+foward distance 1411.125
+found contours: 131
+filitered contours:  40
+size of found tape 2
+my width 3
+my hieght 9
+left-right ratio 0.20348837209302326
+driving left
+pixels516.0
+inches0.11724806201550388
+left right distance -4.134042528970162
+foward distance 470.375
+found contours: 127
+filitered contours:  43
+size of found tape 2
+my width 1
+my hieght 5
+left-right ratio 0.20419847328244276
+driving left
+pixels524.0
+inches0.10973282442748092
+left right distance -3.8690632084582894
+foward distance 1411.125
+found contours: 127
+filitered contours:  40
+size of found tape 2
+my width 1
+my hieght 5
+left-right ratio 0.2045889101338432
+driving left
+pixels523.0
+inches0.11089866156787763
+left right distance -3.910169391685571
+foward distance 1411.125
+found contours: 134
+filitered contours:  40
+size of found tape 2
+my width 2
+my hieght 9
+left-right ratio 0.2072936660268714
+driving left
+pixels520.9999999999999
+inches0.1122840690978887
+left right distance -3.9590173943780496
+foward distance 705.5625
+found contours: 144
+filitered contours:  48
+size of found tape 2
+my width 2
+my hieght 10
+left-right ratio 0.2072936660268714
+driving left
+pixels520.9999999999999
+inches0.1122840690978887
+left right distance -3.9590173943780496
+foward distance 705.5625
+found contours: 146
+filitered contours:  36
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.17757009345794392
+driving left
+pixels535.0
+inches0.09719626168224299
+left right distance -3.4270372792871666
+foward distance 1411.125
+found contours: 138
+filitered contours:  37
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 0.17757009345794392
+driving left
+pixels535.0
+inches0.09719626168224299
+left right distance -3.4270372792871666
+foward distance 1411.125
+found contours: 130
+filitered contours:  41
+size of found tape 2
+my width 2
+my hieght 8
+left-right ratio 0.2072936660268714
+driving left
+pixels520.9999999999999
+inches0.1122840690978887
+left right distance -3.9590173943780496
+foward distance 705.5625
+found contours: 127
+filitered contours:  44
+size of found tape 2
+my width 4
+my hieght 18
+left-right ratio 0.0548885077186964
+driving left
+pixels583.0
+inches0.045454545454545456
+left right distance -1.6026791472190858
+foward distance 352.78125
+found contours: 129
+filitered contours:  34
+size of found tape 2
+my width 3
+my hieght 7
+left-right ratio 0.21052631578947367
+driving left
+pixels513.0
+inches0.12085769980506822
+left right distance -4.261314535685835
+foward distance 470.375
+found contours: 134
+filitered contours:  42
+left right distance -3.4270372792871666
+foward distance 0.0
+found contours: 131
+filitered contours:  35
+left right distance -3.0786759353748985
+foward distance 0.0
+found contours: 149
+filitered contours:  42
+size of found tape 2
+my width 1
+my hieght 5
+left-right ratio 0.06040268456375839
+driving left
+pixels595.9999999999999
+inches0.03607382550335571
+left right distance -1.2719248936822611
+foward distance 1411.125
+found contours: 122
+filitered contours:  45
+size of found tape 2
+my width 2
+my hieght 9
+left-right ratio 0.20076481835564053
+driving left
+pixels523.0
+inches0.10994263862332695
+left right distance -3.8764610348606947
+foward distance 705.5625
+found contours: 142
+filitered contours:  45
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 11.0
+drivingRight
+pixels4.818181818181818
+inches60.81132075471698
+left right distance 2144.142785145594
+foward distance 1411.125
+found contours: 127
+filitered contours:  37
+size of found tape 2
+my width 9
+my hieght 17
+left-right ratio 0.04088586030664395
+driving left
+pixels587.0
+inches0.03833049403747871
+left right distance -1.3514926369223978
+foward distance 156.79166666666666
+found contours: 129
+filitered contours:  46
+size of found tape 2
+my width 1
+my hieght 4
+left-right ratio 0.2045889101338432
+driving left
+pixels523.0
+inches0.11089866156787763
+left right distance -3.910169391685571
+foward distance 1411.125
+found contours: 119
+filitered contours:  36
+size of found tape 2
+my width 1
+my hieght 3
+left-right ratio 0.1265597147950089
+driving left
+pixels561.0
+inches0.06951871657754011
+left right distance -2.451156342805661
+foward distance 1411.125
+found contours: 128
+filitered contours:  38
+size of found tape 2
+my width 2
+my hieght 10
+left-right ratio 0.20038167938931298
+driving left
+pixels524.0
+inches0.10877862595419847
+left right distance -3.8354191805586524
+foward distance 705.5625
+found contours: 125
+filitered contours:  45
+size of found tape 2
+my width 1
+my hieght 4
+left-right ratio 0.20419847328244276
+driving left
+pixels524.0
+inches0.10973282442748092
+left right distance -3.8690632084582894
+foward distance 1411.125
+found contours: 125
+filitered contours:  42
+size of found tape 2
+my width 2
+my hieght 10
+left-right ratio 0.20038167938931298
+driving left
+pixels524.0
+inches0.10877862595419847
+left right distance -3.8354191805586524
+foward distance 705.5625
+found contours: 124
+filitered contours:  33
+size of found tape 2
+my width 1
+my hieght 5
+left-right ratio 0.20419847328244276
+driving left
+pixels524.0
+inches0.10973282442748092
+left right distance -3.8690632084582894
+foward distance 1411.125
+found contours: 137
+filitered contours:  51
+size of found tape 2
+my width 1
+my hieght 5
+left-right ratio 0.2045889101338432
+driving left
+pixels523.0
+inches0.11089866156787763
+left right distance -3.910169391685571
+foward distance 1411.125
+found contours: 133
+filitered contours:  41
+size of found tape 2
+my width 2
+my hieght 10
+left-right ratio 0.2072936660268714
+driving left
+pixels520.9999999999999
+inches0.1122840690978887
+left right distance -3.9590173943780496
+foward distance 705.5625
+found contours: 136
+filitered contours:  40
+size of found tape 2
+my width 2
+my hieght 10
+left-right ratio 0.20076481835564053
+driving left
+pixels523.0
+inches0.10994263862332695
+left right distance -3.8764610348606947
+foward distance 705.5625
+found contours: 140
+filitered contours:  41
+size of found tape 2
+my width 2
+my hieght 10
+left-right ratio 0.2072936660268714
+driving left
+pixels520.9999999999999
+inches0.1122840690978887
+left right distance -3.9590173943780496
+foward distance 705.5625
+found contours: 134
+filitered contours:  40
+size of found tape 2
+my width 1
+my hieght 5
+left-right ratio 0.20152091254752852
+driving left
+pixels526.0
+inches0.10741444866920152
+left right distance -3.787319733827612
+foward distance 1411.125
+found contours: 140
+filitered contours:  48
+size of found tape 2
+my width 1
+my hieght 5
+left-right ratio 0.2045889101338432
+driving left
+pixels523.0
+inches0.11089866156787763
+left right distance -3.910169391685571
+foward distance 1411.125
+found contours: 147
+filitered contours:  47
+size of found tape 2
+my width 1
+my hieght 5
+left-right ratio 0.2045889101338432
+driving left
+pixels523.0
+inches0.11089866156787763
+left right distance -3.910169391685571
+foward distance 1411.125
+found contours: 134
+filitered contours:  36
+size of found tape 2
+my width 1
+my hieght 2
+left-right ratio 11.0
+drivingRight
+pixels4.818181818181818
+inches60.81132075471698
+left right distance 2144.142785145594
+foward distance 1411.125
+found contours: 133
+filitered contours:  46
+size of found tape 2
+my width 1
+my hieght 4
+left-right ratio 0.08020477815699659
+driving left
+pixels586.0
+inches0.04522184300341297
+left right distance -1.5944743051684762
+foward distance 1411.125
+found contours: 130
+filitered contours:  46
+size of found tape 2
+my width 5
+my hieght 25
+left-right ratio 0.058319039451114926
+driving left
+pixels582.9999999999999
+inches0.04459691252144083
+left right distance -1.572439918026273
+foward distance 282.225

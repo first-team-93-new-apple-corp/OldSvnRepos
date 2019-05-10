@@ -1,0 +1,9 @@
+Please Complete the following vocab for your notes:
+Conditional Statements
+If
+Else
+Else if
+true
+false
+&&
+||

@@ -1,0 +1,113 @@
+package org.usfirst.frc.team93.robot.subsystems;
+
+import org.usfirst.frc.team93.robot.Robot;
+import org.usfirst.frc.team93.robot.Robot.DriveMode;
+import org.usfirst.frc.team93.robot.RobotMap;
+import org.usfirst.frc.team93.robot.utilities.AnglePIDOutput;
+import org.usfirst.frc.team93.robot.utilities.CANVictorSPX;
+import org.usfirst.frc.team93.robot.utilities.NavxGyroPIDSource;
+import org.usfirst.frc.team93.robot.utilities.PIDOutputGroup;
+import org.usfirst.frc.team93.robot.utilities.RawPIDEncoder;
+import org.usfirst.frc.team93.robot.utilities.ScaledDrive;
+
+import com.kauailabs.navx.frc.AHRS;
+
+import edu.wpi.first.wpilibj.Encoder;
+import edu.wpi.first.wpilibj.PIDController;
+import edu.wpi.first.wpilibj.SPI;
+import edu.wpi.first.wpilibj.command.Subsystem;
+
+/**
+ * The subsystem containing all of the components for Drive
+ */
+public class Drive extends Subsystem
+{
+	// Constants
+	public static final int TICKSPERFOOT = 185;
+	public static final int ABSOLUTEDRIVEPIDTOLERANCES = 10;
+	
+	public static final double ROBOTLENGTHININCHES = 39;
+	public static final double LENGTHTOSWITCHININCHES = 140;
+	public static final double WIDTHOFSWITCHININCHES = 156;
+	public static final double DISTANCEBETWEENSWITCHESININCHES = 120;
+	public static final double LENGTHTOSCALEININCHES = 288;
+	
+	public static final double ROBOTLENGTHINFEET = ROBOTLENGTHININCHES / 12;
+	public static final double LENGTHTOSWITCHINFEET = LENGTHTOSWITCHININCHES / 12;
+	public static final double WIDTHOFSWITCHINFEET = WIDTHOFSWITCHININCHES / 12;
+	public static final double DISTANCEBETWEENSWITCHESINFEET = DISTANCEBETWEENSWITCHESININCHES / 12;
+	public static final double LENGTHTOSCALEINFEET = LENGTHTOSCALEININCHES / 12;
+	
+	public static CANVictorSPX DriveFL;
+	public static CANVictorSPX DriveFR;
+	public static CANVictorSPX DriveBL;
+	public static CANVictorSPX DriveBR;
+	public static PIDOutputGroup left;
+	public static PIDOutputGroup right;
+	public static NavxGyroPIDSource gyro;
+	public static AnglePIDOutput turn;
+	public static PIDController TurnPID;
+	public static Robot.DriveMode driveControlMode;
+	public static PIDController LeftWheelDrive;
+	public static PIDController RightWheelDrive;
+	public static Encoder LeftDriveEncoder;
+	public static Encoder RightDriveEncoder;
+	public static PIDOutputGroup LeftInverted;
+	public static PIDOutputGroup RightInverted;
+	public static RawPIDEncoder relativeLeft;
+	public static RawPIDEncoder relativeRight;
+	public static ScaledDrive scaledLeft;
+	public static ScaledDrive scaledRight;
+	
+	public Drive()
+	{
+		driveControlMode = DriveMode.JOYSTICK_TANK;
+		gyro = new NavxGyroPIDSource(new AHRS(SPI.Port.kMXP));
+		
+		DriveFL = new CANVictorSPX(RobotMap.DriveMotorFL);
+		DriveFR = new CANVictorSPX(RobotMap.DriveMotorFR);
+		DriveBL = new CANVictorSPX(RobotMap.DriveMotorBL);
+		// DriveBL.setInverted(true);
+		DriveBR = new CANVictorSPX(RobotMap.DriveMotorBR);
+		// DriveBR.setInverted(
+		
+		left = new PIDOutputGroup(DriveFL, DriveBL);
+		left.setGain(-1.0);
+		right = new PIDOutputGroup(DriveFR, DriveBR);
+		scaledLeft = new ScaledDrive(left);
+		scaledRight = new ScaledDrive(right);
+		
+		turn = new AnglePIDOutput(left, right);
+		
+		TurnPID = new PIDController(0.02, 0.0007, 0.05, gyro, turn);
+		
+		LeftDriveEncoder = new Encoder(RobotMap.LeftDriveEncoderA, RobotMap.LeftDriveEncoderB);
+		RightDriveEncoder = new Encoder(RobotMap.RightDriveEncoderA, RobotMap.RightDriveEncoderB);
+		
+		relativeLeft = new RawPIDEncoder(LeftDriveEncoder);
+		relativeRight = new RawPIDEncoder(RightDriveEncoder);
+		
+		LeftInverted = new PIDOutputGroup(left);
+		LeftInverted.setGain(-1);
+		RightInverted = new PIDOutputGroup(right);
+		RightInverted.setGain(-1);
+		
+		LeftWheelDrive = new PIDController(0.0002, 0.000005, 0, relativeLeft, LeftInverted);
+		
+		RightWheelDrive = new PIDController(0.0002, 0.000005, 0, relativeRight, right);
+	}
+	
+	// Put methods for controlling this subsystem
+	// here. Call these from Commands.
+	
+	@Override
+	public void initDefaultCommand()
+	{
+		// Set the default command for a subsystem here.
+		// setDefaultCommand(new MySpecialCommand());
+		// setDefaultCommand(new DriveContinuous());
+		// setDefaultCommand(new DriveContinuous());
+		
+	}
+	
+}

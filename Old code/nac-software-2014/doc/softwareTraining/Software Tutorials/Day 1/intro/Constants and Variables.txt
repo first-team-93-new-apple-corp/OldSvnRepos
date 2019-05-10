@@ -1,0 +1,16 @@
+A constant is a number that cannot change.
+1 will always be equal to 1, 2 will always be equal to 2, and 0 will always be equal to 0.
+Constants don't necessarily have to be numbers.
+They can be booleans, as true will always equal true, and false will always equal false.
+Any number that you can type is a constant.
+You can't set 1 to the value of 2. That just doesn't work.
+
+Variables are things that can change.
+For example, I can make a integer variable called "ConorToolFactor" and set it to 1.
+That number is a variable, so I can change the value that variable is set to.
+Therefore, I can set it to 2 afterwards without causing problems.
+However, I can only set variables to things that they allow.
+For example, an integer and a boolean are two different types.
+I can't set ConorToolFactor to true, as it is an integer.
+If I were to make a boolean "ColbyAwesomeFactor" and set it to true, I could not later set it to 1, as that is a different type.
+

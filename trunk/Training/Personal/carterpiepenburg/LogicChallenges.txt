@@ -1,0 +1,43 @@
+The following expression:
+(a && (a || (a && false)))
+
+
+
+is equivalent to which expression: a
+
+
+
+a
+true
+false
+
+The following expression:
+(b || ((b || (b && b)) || ((!b || b) && !b)))
+
+
+
+is equivalent to which expression: true
+
+
+
+b
+!b
+true
+false
+
+The following expression:
+
+!((x && y) || z || !a || (!b && c))
+!((true) || true || false || (false && true))
+
+
+
+is equivalent to which expression: a && !z && (b || !c) && (!y || !x)
+
+
+
+a && !z && (b || !c) && (!y || !x)
+true
+!(y && x) || !z || a || !(!b && c)
+false
+(c || !b) && z && (x || y) && !a

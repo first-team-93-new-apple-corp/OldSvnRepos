@@ -1,0 +1,9 @@
+If you forget how to do this.
+	1) Right Click, New Folder, 
+	2)rename to your name, then go into the folder
+	3)Right Click, New Text Document,
+	4)Rename the doc to HW_Week1
+	5)In the doc add your name and save
+	6)Select the document, right click, Tortous SVN, Add
+	7)Select your folder, right click, SVN commit
+	8)Enter the your account name and password

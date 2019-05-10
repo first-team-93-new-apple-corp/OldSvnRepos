@@ -1,0 +1,142 @@
+-----------------------------------------------------------------------------------
+Dog Exercise
+-----------------------------------------------------------------------------------                        
+
+-----------------------------------------------------------------------------------
+Problem 1
+-----------------------------------------------------------------------------------
+
+Create a class to represent a dog. It should meet the following requirements:
+
+Class Name: Dog
+
+Public Fields:
+Weight (int) in pounds
+Breed (String)
+Name (String)
+Color (String)
+Position (Point)
+ 
+Public Methods:
+Constructor 
+	-Parameter list: weight, breed, name, color, position
+	-Return: none
+Constructor
+	-Parameter list: weight, breed, name, color  
+	-Return: none
+	-Behavior: initialize based on parameter list. Initialize position to (0,0)
+toString 
+	-Parameter List: none
+	-Return: String describing the attributes of the dog
+Move 
+	-Parameter List: x, y describing how the position should change
+	-Return: void
+	-Behavior: update the position of the dog based on the parameters provided. 
+		(X and Y should be added to the position, instead of replacing the position.)
+Speak 
+	-Parameter List: none
+	-Return: none
+	-Behavior: Print a dog vocalization. The vocalization should depend on the weight
+				of the dog. Bigger dogs produce louder, lower pitched vocalizations.
+		-Weight <= 8 lbs: "Yip-Yip-Yip"
+		-8 lbs < Weight <= 20 lbs: "Bark-Bark"
+		-20 lbs < Weight <= 40 lbs: "Ruff-Ruff"
+		40 lbs < Weight: "Woof-Woof"
+
+	
+-----------------------------------------------------------------------------------
+Problem 2
+-----------------------------------------------------------------------------------
+
+Write code in main that creates objects of the Dog class and demonstrates that all
+the functionality provided by the Dog class works. It is up to you to determine how
+to show that it works. For later problems, you should update this code to show that
+the new additions work as well. It doesn't have to be complicated, it just has to 
+put the dog through its paces.
+	
+-----------------------------------------------------------------------------------
+Problem 3
+-----------------------------------------------------------------------------------
+
+For this problem, we will be adding a "training" mechanic to the dog. We want to be
+able to train the dog to obey commands or do tricks. The dog will decide whether
+to respond to commands based on how much it has been trained.
+
+Add functionality to train your dog. The dog should have a private variable to track
+its "experience". Add a "train" method that increases the experience of the dog by a
+10 each time you call the method. Also add a "shake" method. When the "shake" method
+is called, if the dog has at least 100 experience, use print statements to say the
+dog shook your hand. If the dog has less than 100 experience, print that the dog 
+did not listen to you. Additionally, modify the "speak" method so that if the dog
+has less than 50 experience, the dog does not listen to you.
+
+
+-----------------------------------------------------------------------------------
+Problem 4
+-----------------------------------------------------------------------------------
+
+For this problem, we will be adding a "feeding" mechanic. As you ask the dog to do
+things, it will get hungry. If the dog is too hungry, it will not respond to
+commands until you feed it.
+
+Add the ability to feed your dog. Add a private int to the class to represent its
+hunger level. Add a private "updateHunger" method to the class that increases the
+dog's hunger by 5 every time it is called. At the end of every public method of
+the Dog class (like speak, train, shake, etc.), call the updateHunger method, so if
+any method of Dog is called, the hunger is increased.
+
+Next, add a public "feed" method that reduces the dog's hunger to 0. And lastly,
+modify the Speak and Shake methods so that if the dog does not meet the experience
+requirement OR if its hunger is more than 40, the dog does not listen to you.
+
+-----------------------------------------------------------------------------------
+Problem 5
+-----------------------------------------------------------------------------------
+
+For this problem, we will be teaching the dog new tricks. Magic tricks.
+
+Add a "LightningBolt" method to the dog. If the dog has at least 200 experience,
+it casts a lightning bolt by printing this:
+
+             zeeeeee-
+            z$$$$$$"
+           d$$$$$$"
+          d$$$$$P
+         d$$$$$P
+        $$$$$$"
+      .$$$$$$"
+     .$$$$$$"
+    4$$$$$$$$$$$$$"
+   z$$$$$$$$$$$$$"
+   """""""3$$$$$"
+         z$$$$P
+        d$$$$"
+      .$$$$$"
+     z$$$$$"
+    z$$$$P
+   d$$$$$$$$$$"
+  *******$$$"
+       .$$$"
+      .$$"
+     4$P"
+    z$"
+   zP
+  z"
+
+Also add a "Fireball" method to the dog. If the dog has at least 300 experience,
+it throws a fireball by printing this:
+ 
+       .
+      .M
+     ,MM
+     MM:
+ .   YMM,
+ M   'MMM,     ,
+ M.   `MMM    .M
+ MM,  ,MMM   ,MM
+ "MM, MMM'  ,MM'
+ ,MMM.MMMMM.MMM,
+ MMMMMMMMMMMMMMM
+ MMMMMMMMMMMMMMM
+ 'MMMMMMMMMMMMM'
+   """""""""""

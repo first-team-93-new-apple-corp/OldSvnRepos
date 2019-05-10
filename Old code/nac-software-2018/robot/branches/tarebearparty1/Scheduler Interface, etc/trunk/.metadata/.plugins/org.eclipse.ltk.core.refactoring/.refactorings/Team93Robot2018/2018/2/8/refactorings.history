@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;DriveForward.java&apos; to &apos;Team93Robot2018/src/realisticAutoCases&apos;&#x0D;&#x0A;- Original project: &apos;Team93Robot2018&apos;&#x0D;&#x0A;- Destination element: &apos;Team93Robot2018/src/realisticAutoCases&apos;&#x0D;&#x0A;- Original element: &apos;org.usfirst.frc.team93.robot.commands.DriveForward.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;realisticAutoCases" element1="/src&lt;org.usfirst.frc.team93.robot.commands{DriveForward.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1519496247892" units="1" version="1.0"/>
+</session>

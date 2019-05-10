@@ -1,0 +1,185 @@
+package org.usfirst.frc.team93.robot;
+
+import org.usfirst.frc.team93.robot.Utilities.CANTalonVelocitySource;
+import org.usfirst.frc.team93.robot.Utilities.PIDOutput2Group;
+import org.usfirst.frc.team93.robot.Utilities.PIDOutput3Group;
+import org.usfirst.frc.team93.robot.Utilities.SteeringAndSpeedCoordinator;
+import org.usfirst.frc.team93.robot.Utilities.Team93PIDController;
+
+import edu.wpi.first.wpilibj.CANTalon;
+import edu.wpi.first.wpilibj.CounterBase.EncodingType;
+import edu.wpi.first.wpilibj.DigitalInput;
+import edu.wpi.first.wpilibj.DoubleSolenoid;
+import edu.wpi.first.wpilibj.Encoder;
+import edu.wpi.first.wpilibj.Victor;
+import edu.wpi.first.wpilibj.networktables.NetworkTable;
+import edu.wpi.first.wpilibj.smartdashboard.SendableChooser;
+
+/**
+ * The RobotMap is a mapping from the ports sensors and actuators are wired into
+ * to a variable name. This provides flexibility changing wiring, makes checking
+ * the wiring easier and significantly reduces the number of magic numbers
+ * floating around.
+ */
+public class RobotMap
+{
+	// For example to map the left and right motors, you could define the
+	// following variables to use with your drivetrain subsystem.
+	// public static int leftMotor = 1;
+	// public static int rightMotor = 2;
+
+	// If you are using multiple modules, make sure to define both the port
+	// number and the module. For example you with a rangefinder:
+	// public static int rangefinderPort = 1;
+	// public static int rangefinderModule = 1;
+
+	// Switches
+	public static SendableChooser autonomousModeControl;
+	public static SendableChooser autonomousBallControl;
+	public static SendableChooser autonomousDefenseControl;
+
+	public static DigitalInput DetectBall;
+	public static DigitalInput UpperFiringAngle;
+	public static DigitalInput LowerFiringAngle;
+
+	// Solenoids
+	public static DoubleSolenoid GearShift;
+	public static DoubleSolenoid releaseScaler;
+	public static DoubleSolenoid releaseArm;
+
+	// Encoders
+	public static Encoder LEFT_DRIVE_ENCODER;
+	public static Encoder RIGHT_DRIVE_ENCODER;
+	public static Encoder SCALER_ENCODER;
+	public static Encoder SHOOTING_ANGLE;
+	// Motors
+	/**
+	 * @Review NLuther TODO: Instantiate as SpeedController, not as Talon. Only
+	 *         initialize as Talon.
+	 * @Review NLuther TODO: Add Current Limiter for speed controller instances
+	 *         for shooter. This is to safely handle ball jams.
+	 */
+	public static CANTalon LEFT_SHOOTER;
+	public static CANTalonVelocitySource EncoderVelocityShooterLeft;
+	public static CANTalon RIGHT_SHOOTER;
+	public static CANTalonVelocitySource EncoderVelocityShooterRight;
+	public static CANTalon DefenseArm;
+	public static CANTalonVelocitySource DEFENSE_ENCODER;
+
+	public static Victor frontRight;
+	public static Victor frontLeft;
+	public static Victor middleRight;
+	public static Victor middleLeft;
+	public static Victor backRight;
+	public static Victor backLeft;
+
+	public static Victor LEFT_BACQUASITION;
+	public static Victor RIGHT_BACQUASITION;
+	public static Victor SHOOTING_ANGLE_TALON;
+	public static Victor BallGuideMotor;
+	public static Victor ScalerMotor;
+	// Potentiometer
+
+	// PID Output Groups
+	public static PIDOutput3Group leftDriveGroup;
+	public static PIDOutput3Group rightDriveGroup;
+
+	public static PIDOutput2Group driveAllMotorsGroup;
+	public static PIDOutput2Group shooterMotorGroup;
+
+	// PID Controllers
+	public static Team93PIDController driveCoordinator;
+	public static Team93PIDController driveSpeedControl;
+	public static Team93PIDController leftSpeedControl;
+	public static Team93PIDController rightSpeedControl;
+	public static Team93PIDController driveEncoderSteering;
+	public static Team93PIDController shooterSpeedControl;
+	public static Team93PIDController firingAngleControl;
+	public static Team93PIDController scalerControl;
+	public static Team93PIDController ManipulatorControl;
+	public static Team93PIDController leftFiringSpeedControl;
+	public static Team93PIDController rightFiringSpeedControl;
+
+	// Steer and Speed
+	public static SteeringAndSpeedCoordinator steerAndSpeed;
+
+	public RobotMap()
+	{
+		NetworkTable.initialize();
+		autonomousModeControl = new SendableChooser();
+		autonomousBallControl = new SendableChooser();
+		autonomousDefenseControl = new SendableChooser();
+
+		UpperFiringAngle = new DigitalInput(1);
+		LowerFiringAngle = new DigitalInput(2);
+		DetectBall = new DigitalInput(3);
+
+		LEFT_DRIVE_ENCODER = new Encoder(4, 5, true, EncodingType.k1X);
+		RIGHT_DRIVE_ENCODER = new Encoder(6, 7, true, EncodingType.k1X);
+		// SCALER_ENCODER = new Encoder(17, 18, true, EncodingType.k1X);
+		// SHOOTING_ANGLE = new Encoder(15, 14, true, EncodingType.k1X);
+
+		DefenseArm = new CANTalon(1);
+		// LEFT_SHOOTER = new CANTalon(0);
+		// RIGHT_SHOOTER = new CANTalon(3);
+		LEFT_SHOOTER.setFeedbackDevice(CANTalon.FeedbackDevice.QuadEncoder);
+		// RIGHT_SHOOTER.setFeedbackDevice(CANTalon.FeedbackDevice.QuadEncoder);
+		DefenseArm.setFeedbackDevice(CANTalon.FeedbackDevice.QuadEncoder);
+		EncoderVelocityShooterLeft = new CANTalonVelocitySource(LEFT_SHOOTER);
+		EncoderVelocityShooterRight = new CANTalonVelocitySource(RIGHT_SHOOTER);
+		DEFENSE_ENCODER = new CANTalonVelocitySource(RIGHT_SHOOTER);
+
+		// drive
+		frontLeft = new Victor(2);
+		middleLeft = new Victor(3);
+		backLeft = new Victor(4);
+		frontRight = new Victor(7);
+		middleRight = new Victor(6);
+		backRight = new Victor(5);
+
+		// other
+		LEFT_BACQUASITION = new Victor(0);
+		RIGHT_BACQUASITION = new Victor(8);
+		SHOOTING_ANGLE_TALON = new Victor(9);
+		BallGuideMotor = new Victor(1);
+		// ScalerMotor = new Victor(12);
+
+		GearShift = new DoubleSolenoid(0, 1);
+
+		// releaseArm = new DoubleSolenoid(2, 3);
+		// releaseScaler = new DoubleSolenoid(4, 5);
+
+		// change PID later
+		leftDriveGroup = new PIDOutput3Group(frontLeft, middleLeft, backLeft, -1.0, -1.0, -1.0);
+		rightDriveGroup = new PIDOutput3Group(frontRight, middleRight, backRight, -1.0, -1.0, -1.0);
+
+		driveAllMotorsGroup = new PIDOutput2Group(leftDriveGroup, rightDriveGroup);
+		shooterMotorGroup = new PIDOutput2Group(leftFiringSpeedControl, rightFiringSpeedControl);
+
+		// firingAngleControl = new Team93PIDController(0.0, 0.0, 0.0, 0.0,
+		// SHOOTING_ANGLE, SHOOTING_ANGLE_TALON);
+		// driveSpeedControl = new Team93PIDController(-0.000021, -0.0000025,
+		// -0.0000005, -0.000029, 0.07,
+		// LEFT_DRIVE_ENCODER, steerAndSpeed.SpeedReceiver);
+		// leftSpeedControl = new Team93PIDController(-0.000021, -0.0000025,
+		// -0.0000005, -0.000029, 0.07,
+		// LEFT_DRIVE_ENCODER, leftDriveGroup);
+		// rightSpeedControl = new Team93PIDController(-0.000021, -0.0000025,
+		// -0.0000005, -0.000029, 0.07,
+		// RIGHT_DRIVE_ENCODER, rightDriveGroup);
+		// scalerControl = new Team93PIDController(-0.000021, -0.0000025,
+		// -0.0000005, -0.000029, 0.07, SCALER_ENCODER,
+		// ScalerMotor);
+		leftFiringSpeedControl = new Team93PIDController(-0.000021, -0.0000025, -0.0000005, -0.000029, 0.07,
+				EncoderVelocityShooterLeft, LEFT_SHOOTER);
+		// rightFiringSpeedControl = new Team93PIDController(-0.000021,
+		// -0.0000025, -0.0000005, -0.000029, 0.07,
+		// EncoderVelocityShooterRight, RIGHT_SHOOTER);
+		// ManipulatorControl = new Team93PIDController(-0.000021, -0.0000025,
+		// -0.0000005, -0.000029, 0.07,
+		// DEFENSE_ENCODER, DefenseArm);
+
+		steerAndSpeed = new SteeringAndSpeedCoordinator(leftDriveGroup, rightDriveGroup);
+		steerAndSpeed.setSteeringGain(0.5);
+	}
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<lint4j version="0.8.1" >
+<file name="C:\Users\Controls\Desktop\Summer Camp Work Sandbox\nac-software-2014\robot\trunk\Team93Robot2014\src\nacteam93\robot2014\autonomousCommands.java">
+<warning line="17" rule="CheckDeclaration.makefinalFieldStatic" ruleset="default" priority="2">The field "milisecondsToSleep" of type int can be declared final and static, since it is immutable.</warning>
+<warning line="18" rule="CheckDeclaration.makefinalFieldStatic" ruleset="default" priority="2">The field "milisecondsMoveRequires" of type int can be declared final and static, since it is immutable.</warning>
+<warning line="186" rule="DebugOutput.emptyIfThenBlock" ruleset="default" priority="3">This then branch is empty and should be removed</warning>
+</file>
+<file name="C:\Users\Controls\Desktop\Summer Camp Work Sandbox\nac-software-2014\robot\trunk\Team93Robot2014\src\nacteam93\robot2014\commands\FireShooter.java">
+<warning line="33" rule="LockConsistency.differentLocks" ruleset="default" priority="3">Access to field "millisPassed" with different locks [this] being held as previous access at line 24 with locks []</warning>
+</file>
+<file name="C:\Users\Controls\Desktop\Summer Camp Work Sandbox\nac-software-2014\robot\trunk\Team93Robot2014\src\nacteam93\robot2014\commands\RetractToSwitch.java">
+<warning line="35" rule="DebugOutput.noDefaultBranch" ruleset="default" priority="3">This switch statement should have a default branch.</warning>
+</file>
+<file name="C:\Users\Controls\Desktop\Summer Camp Work Sandbox\nac-software-2014\robot\trunk\Team93Robot2014\src\nacteam93\robot2014\commands\FireLow.java">
+<warning line="30" rule="LockConsistency.differentLocks" ruleset="default" priority="3">Access to field "millisPassed" with different locks [this] being held as previous access at line 23 with locks []</warning>
+</file>
+<file name="C:\Users\Controls\Desktop\Summer Camp Work Sandbox\nac-software-2014\robot\trunk\Team93Robot2014\src\nacteam93\robot2014\commands\AutomaticBallRecovery.java">
+<warning line="34" rule="DebugOutput.pathologicalSwitch" ruleset="default" priority="3">This switch statement should be refactored to an if statement or inlined</warning>
+</file>
+<statistics>
+  <package name="nacteam93.robot2014" topLevelClasses="5" nestedClasses="0" anonymousClasses="0" topLevelInterfaces="0" nestedInterfaces="0" files="5" fields="66" methods="29" nloc="189" />
+  <package name="nacteam93.robot2014.commands" topLevelClasses="20" nestedClasses="0" anonymousClasses="0" topLevelInterfaces="0" nestedInterfaces="0" files="20" fields="36" methods="82" nloc="203" />
+  <package name="nacteam93.robot2014.subsystems" topLevelClasses="6" nestedClasses="0" anonymousClasses="0" topLevelInterfaces="0" nestedInterfaces="0" files="6" fields="9" methods="31" nloc="61" />
+  <package name="nacteam93.robot2014.wpilibextensions" topLevelClasses="3" nestedClasses="0" anonymousClasses="0" topLevelInterfaces="0" nestedInterfaces="0" files="3" fields="11" methods="12" nloc="34" />
+</statistics>
+</lint4j>

@@ -1,0 +1,12 @@
+Instructions to switch from HTTP to HTTPS access, without losing changes in your sandbox:
+
+	1. Browse to http://nacsvn.aasd.k12.wi.us/.
+	2. Download and install the server.crt file.  Follow the instructions on the web site.
+	3. Make future checkouts from https://nacsvn.aasd.k12.wi.us/repos/nac-software-206
+	4. For existing sandboxes (local working copies), follow this process to switch to SSL to make your commits:
+		a. Right click on sandbox.  Select TortoiseSVN->Relocate.
+		b. In to "To URL" field, change "http" to "https"
+		c. Expect Tortoise SVN to report successful relocate.
+	5. Attempt commits normally.
+
+	

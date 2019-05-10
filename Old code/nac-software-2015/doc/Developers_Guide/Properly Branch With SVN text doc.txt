@@ -1,0 +1,3 @@
+How to create a branch properly with SVN
+
+After a trunk has been created, you can right click and go to SVN ? Branch/tag.  You can then configure which update you want your branch to start with, you should make  a PHYSICAL note of this.  You should also regular have files from the trunk merged into your branch folder, continue to make a PHYSICAL note of this update number.  This will help when you merge your branches folder into the trunk.

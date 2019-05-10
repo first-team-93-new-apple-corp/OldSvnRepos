@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<project name="Team93Robot2015" default="agitar-all">
+
+	<!-- Use of ${project.dir.Team93Robot2015} allows for the resolution of relative paths even when this file is imported in another build file -->
+	<dirname file="${ant.file.Team93Robot2015}" property="import.dir.Team93Robot2015"/>
+	<condition property="project.dir.Team93Robot2015" value="${import.dir.Team93Robot2015}" else="${basedir}">
+<isset property="import.dir.Team93Robot2015"/>
+	</condition>
+
+<taskdef name="super-runner" classname="com.agitar.junit.runner.SuperRunnerTask">
+<classpath>
+		<pathelement location="hooks/crap4j/lib/com.agitar.eclipse.coverage_4.2.0.401405/com.agitar.common.jar" />
+		<pathelement location="hooks/crap4j/lib/com.agitar.eclipse.coverage_4.2.0.401405/com.agitar.coverage.jar" />
+		<pathelement location="hooks/crap4j/lib/com.agitar.eclipse.api_4.2.0.401405/com.agitar.mockingbird.jar" />
+	  <pathelement location="hooks/crap4j/lib/com.agitar.eclipse.api_4.2.0.401405/com.agitar.testrunner.jar" />
+		<fileset dir="hooks/crap4j/lib/com.agitar.eclipse.api_4.2.0.401405/lib">
+		  <include name="**/*.jar" />
+    </fileset>
+    <fileset dir="hooks/crap4j/lib/com.agitar.eclipse.coverage_4.2.0.401405/lib">
+	    <include name="**/*.jar" />
+    </fileset>
+  </classpath>
+</taskdef>
+	
+	
+	<!-- Default target -->
+	<target name="agitar-all" depends="run-tests"/>
+	
+	
+	<!-- Cleans old agitation results and coverage -->
+	<target name="clean-results">
+		<delete dir="${basedir}/agitar/.results" quiet="true"/>
+	</target>
+	
+	<!-- Run the tests for this project -->
+
+	<target name="run-tests">
+		<property name="test.results.dir" value="${project.dir.Team93Robot2015}/agitar/.junitresults"/>
+		<mkdir dir="${test.results.dir}"/>
+		<super-runner dir="${basedir}" batchSize="5" printsummary="yes" mergeCoverage="true" haltonfailure="no" resultsDir="${project.dir.Team93Robot2015}/agitar/.results">
+			<jvmarg value="-Xmx512M"/>
+			<jvmarg value="-ea"/>
+			<jvmarg value="-Djava.awt.headless"/>
+			<formatter type="xml"/>
+			<classpath>
+         				<pathElement location="C:/Users/Admin93/eclipse_workspaces/colby/Robot2015Work/robot/trunk/Team93Robot2015/bin"/>
+				<pathElement location="C:/Users/Admin93/eclipse_workspaces/colby/Robot2015Work/robot/trunk/Team93Robot2015/bin"/>
+				<pathElement location="C:/Users/Admin93/eclipse_workspaces/colby/Robot2015Work/robot/trunk/Team93Robot2015/lib/NetworkTables-sources.jar"/>
+				<pathElement location="C:/Users/Admin93/eclipse_workspaces/colby/Robot2015Work/robot/trunk/Team93Robot2015/lib/NetworkTables.jar"/>
+				<pathElement location="C:/Users/Admin93/eclipse_workspaces/colby/Robot2015Work/robot/trunk/Team93Robot2015/lib/WPILib-sources.jar"/>
+				<pathElement location="C:/Users/Admin93/eclipse_workspaces/colby/Robot2015Work/robot/trunk/Team93Robot2015/lib/WPILib.jar"/>
+				<pathElement location="C:/Users/Admin93/eclipse_workspaces/colby/Robot2015Work/robot/trunk/Team93Robot2015/hooks/crap4j/lib/com.agitar.eclipse.api_4.2.0.401405/lib/ext/cglib-nodep-2.1_3.jar"/>
+				<pathElement location="C:/Users/Admin93/eclipse_workspaces/colby/Robot2015Work/robot/trunk/Team93Robot2015/hooks/crap4j/lib/com.agitar.eclipse.api_4.2.0.401405/lib/ext/commons-beanutils-1.6.jar"/>
+				<pathElement location="C:/Users/Admin93/eclipse_workspaces/colby/Robot2015Work/robot/trunk/Team93Robot2015/hooks/crap4j/lib/com.agitar.eclipse.api_4.2.0.401405/lib/ext/commons-logging-1.0.4.jar"/>
+				<pathElement location="C:/Users/Admin93/eclipse_workspaces/colby/Robot2015Work/robot/trunk/Team93Robot2015/hooks/crap4j/lib/com.agitar.eclipse.api_4.2.0.401405/lib/ext/jakarta-oro-2.0.8.jar"/>
+				<pathElement location="C:/Users/Admin93/eclipse_workspaces/colby/Robot2015Work/robot/trunk/Team93Robot2015/hooks/crap4j/lib/com.agitar.eclipse.api_4.2.0.401405/lib/ext/jdom.jar"/>
+				<pathElement location="C:/Users/Admin93/eclipse_workspaces/colby/Robot2015Work/robot/trunk/Team93Robot2015/hooks/crap4j/lib/com.agitar.eclipse.api_4.2.0.401405/lib/ext/mockejb.jar"/>
+				<pathElement location="C:/Users/Admin93/eclipse_workspaces/colby/Robot2015Work/robot/trunk/Team93Robot2015/hooks/crap4j/lib/com.agitar.eclipse.api_4.2.0.401405/lib/ext/mockrunner-0.3.8.jar"/>
+				<pathElement location="C:/Users/Admin93/eclipse_workspaces/colby/Robot2015Work/robot/trunk/Team93Robot2015/hooks/crap4j/lib/com.agitar.eclipse.api_4.2.0.401405/lib/ext/nekohtml.jar"/>
+				<pathElement location="C:/Users/Admin93/eclipse_workspaces/colby/Robot2015Work/robot/trunk/Team93Robot2015/hooks/crap4j/lib/com.agitar.eclipse.api_4.2.0.401405/lib/ext/org.agitar.mock.jar"/>
+				<pathElement location="C:/Users/Admin93/eclipse_workspaces/colby/Robot2015Work/robot/trunk/Team93Robot2015/hooks/crap4j/lib/com.agitar.eclipse.api_4.2.0.401405/lib/ext/org.agitar.mock5.jar"/>
+			</classpath>
+			<batchtest todir="${test.results.dir}">
+        				<fileset dir="C:/Users/Admin93/eclipse_workspaces/colby/Robot2015Work/robot/trunk/Team93Robot2015/bin">
+					<include name="**/*Test.class"/>
+					<include name="**/Test*.class"/>
+				</fileset>
+			</batchtest>
+		</super-runner>
+	</target>
+	
+</project>

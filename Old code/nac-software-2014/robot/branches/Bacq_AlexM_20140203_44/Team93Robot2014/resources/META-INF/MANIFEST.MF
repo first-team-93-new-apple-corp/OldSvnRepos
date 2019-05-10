@@ -1,0 +1,6 @@
+MIDlet-Name: Team93Robot2014
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: FIRST
+MIDlet-1: RobotMain, , nacteam93.robot2014.RobotMain
+MicroEdition-Profile: IMP-1.0
+MicroEdition-Configuration: CLDC-1.1

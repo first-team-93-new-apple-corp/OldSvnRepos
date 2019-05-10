@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="3.0.0" sequence="0" timestamp="1423533534196" analysisTimestamp="1423533534233" release="">
+  <Project projectName="">
+    <Jar>C:\FIRST\Sandbox\GrantKeane\robot\branches\Team93Robot2015\bin</Jar>
+    <AuxClasspathEntry>C:\FIRST\Sandbox\GrantKeane\robot\branches\Team93Robot2015\lib</AuxClasspathEntry>
+    <SrcDir>C:\FIRST\Sandbox\GrantKeane\robot\branches\Team93Robot2015\src</SrcDir>
+  </Project>
+  <BugInstance type="MS_PKGPROTECT" priority="2" rank="18" abbrev="MS" category="MALICIOUS_CODE">
+    <Class classname="org.usfirst.frc93.Team93Robot2015.OI">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.OI" start="62" end="116" sourcefile="OI.java" sourcepath="org/usfirst/frc93/Team93Robot2015/OI.java"/>
+    </Class>
+    <Field classname="org.usfirst.frc93.Team93Robot2015.OI" name="driver" signature="Ledu/wpi/first/wpilibj/Joystick;" isStatic="true">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.OI" sourcefile="OI.java" sourcepath="org/usfirst/frc93/Team93Robot2015/OI.java"/>
+    </Field>
+  </BugInstance>
+  <BugInstance type="MS_PKGPROTECT" priority="2" rank="18" abbrev="MS" category="MALICIOUS_CODE">
+    <Class classname="org.usfirst.frc93.Team93Robot2015.OI">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.OI" start="62" end="116" sourcefile="OI.java" sourcepath="org/usfirst/frc93/Team93Robot2015/OI.java"/>
+    </Class>
+    <Field classname="org.usfirst.frc93.Team93Robot2015.OI" name="operator" signature="Ledu/wpi/first/wpilibj/Joystick;" isStatic="true">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.OI" sourcefile="OI.java" sourcepath="org/usfirst/frc93/Team93Robot2015/OI.java"/>
+    </Field>
+  </BugInstance>
+  <BugInstance type="ST_WRITE_TO_STATIC_FROM_INSTANCE_METHOD" priority="1" rank="15" abbrev="ST" category="STYLE">
+    <Class classname="org.usfirst.frc93.Team93Robot2015.OI">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.OI" start="62" end="116" sourcefile="OI.java" sourcepath="org/usfirst/frc93/Team93Robot2015/OI.java"/>
+    </Class>
+    <Method classname="org.usfirst.frc93.Team93Robot2015.OI" name="&lt;init&gt;" signature="()V" isStatic="false">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.OI" start="62" end="90" startBytecode="0" endBytecode="241" sourcefile="OI.java" sourcepath="org/usfirst/frc93/Team93Robot2015/OI.java"/>
+    </Method>
+    <Field classname="org.usfirst.frc93.Team93Robot2015.OI" name="driver" signature="Ledu/wpi/first/wpilibj/Joystick;" isStatic="true">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.OI" sourcefile="OI.java" sourcepath="org/usfirst/frc93/Team93Robot2015/OI.java"/>
+    </Field>
+    <SourceLine classname="org.usfirst.frc93.Team93Robot2015.OI" start="65" end="65" startBytecode="12" endBytecode="12" sourcefile="OI.java" sourcepath="org/usfirst/frc93/Team93Robot2015/OI.java"/>
+  </BugInstance>
+  <BugInstance type="ST_WRITE_TO_STATIC_FROM_INSTANCE_METHOD" priority="1" rank="15" abbrev="ST" category="STYLE">
+    <Class classname="org.usfirst.frc93.Team93Robot2015.OI">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.OI" start="62" end="116" sourcefile="OI.java" sourcepath="org/usfirst/frc93/Team93Robot2015/OI.java"/>
+    </Class>
+    <Method classname="org.usfirst.frc93.Team93Robot2015.OI" name="&lt;init&gt;" signature="()V" isStatic="false">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.OI" start="62" end="90" startBytecode="0" endBytecode="241" sourcefile="OI.java" sourcepath="org/usfirst/frc93/Team93Robot2015/OI.java"/>
+    </Method>
+    <Field classname="org.usfirst.frc93.Team93Robot2015.OI" name="operator" signature="Ledu/wpi/first/wpilibj/Joystick;" isStatic="true">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.OI" sourcefile="OI.java" sourcepath="org/usfirst/frc93/Team93Robot2015/OI.java"/>
+    </Field>
+    <SourceLine classname="org.usfirst.frc93.Team93Robot2015.OI" start="67" end="67" startBytecode="23" endBytecode="23" sourcefile="OI.java" sourcepath="org/usfirst/frc93/Team93Robot2015/OI.java"/>
+  </BugInstance>
+  <BugInstance type="MS_CANNOT_BE_FINAL" priority="2" rank="18" abbrev="MS" category="MALICIOUS_CODE">
+    <Class classname="org.usfirst.frc93.Team93Robot2015.Robot">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.Robot" start="29" end="132" sourcefile="Robot.java" sourcepath="org/usfirst/frc93/Team93Robot2015/Robot.java"/>
+    </Class>
+    <Field classname="org.usfirst.frc93.Team93Robot2015.Robot" name="drive" signature="Lorg/usfirst/frc93/Team93Robot2015/subsystems/Drive;" isStatic="true">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.Robot" sourcefile="Robot.java" sourcepath="org/usfirst/frc93/Team93Robot2015/Robot.java"/>
+    </Field>
+  </BugInstance>
+  <BugInstance type="MS_PKGPROTECT" priority="2" rank="18" abbrev="MS" category="MALICIOUS_CODE">
+    <Class classname="org.usfirst.frc93.Team93Robot2015.Robot">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.Robot" start="29" end="132" sourcefile="Robot.java" sourcepath="org/usfirst/frc93/Team93Robot2015/Robot.java"/>
+    </Class>
+    <Field classname="org.usfirst.frc93.Team93Robot2015.Robot" name="VisionProc" signature="Lorg/usfirst/frc93/Team93Robot2015/commands/VisionProcessor;" isStatic="true">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.Robot" sourcefile="Robot.java" sourcepath="org/usfirst/frc93/Team93Robot2015/Robot.java"/>
+    </Field>
+  </BugInstance>
+  <BugInstance type="MS_PKGPROTECT" priority="2" rank="18" abbrev="MS" category="MALICIOUS_CODE">
+    <Class classname="org.usfirst.frc93.Team93Robot2015.Robot">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.Robot" start="29" end="132" sourcefile="Robot.java" sourcepath="org/usfirst/frc93/Team93Robot2015/Robot.java"/>
+    </Class>
+    <Field classname="org.usfirst.frc93.Team93Robot2015.Robot" name="autonomousCommand" signature="Lorg/usfirst/frc93/Team93Robot2015/commands/AutonomousCommandGroup;" isStatic="true">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.Robot" sourcefile="Robot.java" sourcepath="org/usfirst/frc93/Team93Robot2015/Robot.java"/>
+    </Field>
+  </BugInstance>
+  <BugInstance type="NM_FIELD_NAMING_CONVENTION" priority="2" rank="16" abbrev="Nm" category="BAD_PRACTICE">
+    <Class classname="org.usfirst.frc93.Team93Robot2015.Robot">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.Robot" start="29" end="132" sourcefile="Robot.java" sourcepath="org/usfirst/frc93/Team93Robot2015/Robot.java"/>
+    </Class>
+    <Field classname="org.usfirst.frc93.Team93Robot2015.Robot" name="VisionProc" signature="Lorg/usfirst/frc93/Team93Robot2015/commands/VisionProcessor;" isStatic="true">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.Robot" sourcefile="Robot.java" sourcepath="org/usfirst/frc93/Team93Robot2015/Robot.java"/>
+    </Field>
+  </BugInstance>
+  <BugInstance type="ST_WRITE_TO_STATIC_FROM_INSTANCE_METHOD" priority="2" rank="17" abbrev="ST" category="STYLE">
+    <Class classname="org.usfirst.frc93.Team93Robot2015.Robot">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.Robot" start="29" end="132" sourcefile="Robot.java" sourcepath="org/usfirst/frc93/Team93Robot2015/Robot.java"/>
+    </Class>
+    <Method classname="org.usfirst.frc93.Team93Robot2015.Robot" name="robotInit" signature="()V" isStatic="false">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.Robot" start="51" end="75" startBytecode="0" endBytecode="140" sourcefile="Robot.java" sourcepath="org/usfirst/frc93/Team93Robot2015/Robot.java"/>
+    </Method>
+    <Field classname="org.usfirst.frc93.Team93Robot2015.Robot" name="VisionProc" signature="Lorg/usfirst/frc93/Team93Robot2015/commands/VisionProcessor;" isStatic="true">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.Robot" sourcefile="Robot.java" sourcepath="org/usfirst/frc93/Team93Robot2015/Robot.java"/>
+    </Field>
+    <SourceLine classname="org.usfirst.frc93.Team93Robot2015.Robot" start="55" end="55" startBytecode="30" endBytecode="30" sourcefile="Robot.java" sourcepath="org/usfirst/frc93/Team93Robot2015/Robot.java"/>
+  </BugInstance>
+  <BugInstance type="ST_WRITE_TO_STATIC_FROM_INSTANCE_METHOD" priority="2" rank="17" abbrev="ST" category="STYLE">
+    <Class classname="org.usfirst.frc93.Team93Robot2015.Robot">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.Robot" start="29" end="132" sourcefile="Robot.java" sourcepath="org/usfirst/frc93/Team93Robot2015/Robot.java"/>
+    </Class>
+    <Method classname="org.usfirst.frc93.Team93Robot2015.Robot" name="robotInit" signature="()V" isStatic="false">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.Robot" start="51" end="75" startBytecode="0" endBytecode="140" sourcefile="Robot.java" sourcepath="org/usfirst/frc93/Team93Robot2015/Robot.java"/>
+    </Method>
+    <Field classname="org.usfirst.frc93.Team93Robot2015.Robot" name="autonomousCommand" signature="Lorg/usfirst/frc93/Team93Robot2015/commands/AutonomousCommandGroup;" isStatic="true">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.Robot" sourcefile="Robot.java" sourcepath="org/usfirst/frc93/Team93Robot2015/Robot.java"/>
+    </Field>
+    <SourceLine classname="org.usfirst.frc93.Team93Robot2015.Robot" start="67" end="67" startBytecode="50" endBytecode="50" sourcefile="Robot.java" sourcepath="org/usfirst/frc93/Team93Robot2015/Robot.java"/>
+  </BugInstance>
+  <BugInstance type="ST_WRITE_TO_STATIC_FROM_INSTANCE_METHOD" priority="2" rank="17" abbrev="ST" category="STYLE">
+    <Class classname="org.usfirst.frc93.Team93Robot2015.Robot">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.Robot" start="29" end="132" sourcefile="Robot.java" sourcepath="org/usfirst/frc93/Team93Robot2015/Robot.java"/>
+    </Class>
+    <Method classname="org.usfirst.frc93.Team93Robot2015.Robot" name="robotInit" signature="()V" isStatic="false">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.Robot" start="51" end="75" startBytecode="0" endBytecode="140" sourcefile="Robot.java" sourcepath="org/usfirst/frc93/Team93Robot2015/Robot.java"/>
+    </Method>
+    <Field classname="org.usfirst.frc93.Team93Robot2015.Robot" name="drive" signature="Lorg/usfirst/frc93/Team93Robot2015/subsystems/Drive;" isStatic="true">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.Robot" sourcefile="Robot.java" sourcepath="org/usfirst/frc93/Team93Robot2015/Robot.java"/>
+    </Field>
+    <SourceLine classname="org.usfirst.frc93.Team93Robot2015.Robot" start="53" end="53" startBytecode="10" endBytecode="10" sourcefile="Robot.java" sourcepath="org/usfirst/frc93/Team93Robot2015/Robot.java"/>
+  </BugInstance>
+  <BugInstance type="ST_WRITE_TO_STATIC_FROM_INSTANCE_METHOD" priority="2" rank="17" abbrev="ST" category="STYLE">
+    <Class classname="org.usfirst.frc93.Team93Robot2015.Robot">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.Robot" start="29" end="132" sourcefile="Robot.java" sourcepath="org/usfirst/frc93/Team93Robot2015/Robot.java"/>
+    </Class>
+    <Method classname="org.usfirst.frc93.Team93Robot2015.Robot" name="robotInit" signature="()V" isStatic="false">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.Robot" start="51" end="75" startBytecode="0" endBytecode="140" sourcefile="Robot.java" sourcepath="org/usfirst/frc93/Team93Robot2015/Robot.java"/>
+    </Method>
+    <Field classname="org.usfirst.frc93.Team93Robot2015.Robot" name="oi" signature="Lorg/usfirst/frc93/Team93Robot2015/OI;" isStatic="true">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.Robot" sourcefile="Robot.java" sourcepath="org/usfirst/frc93/Team93Robot2015/Robot.java"/>
+    </Field>
+    <SourceLine classname="org.usfirst.frc93.Team93Robot2015.Robot" start="62" end="62" startBytecode="40" endBytecode="40" sourcefile="Robot.java" sourcepath="org/usfirst/frc93/Team93Robot2015/Robot.java"/>
+  </BugInstance>
+  <BugInstance type="ST_WRITE_TO_STATIC_FROM_INSTANCE_METHOD" priority="2" rank="17" abbrev="ST" category="STYLE">
+    <Class classname="org.usfirst.frc93.Team93Robot2015.Robot">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.Robot" start="29" end="132" sourcefile="Robot.java" sourcepath="org/usfirst/frc93/Team93Robot2015/Robot.java"/>
+    </Class>
+    <Method classname="org.usfirst.frc93.Team93Robot2015.Robot" name="robotInit" signature="()V" isStatic="false">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.Robot" start="51" end="75" startBytecode="0" endBytecode="140" sourcefile="Robot.java" sourcepath="org/usfirst/frc93/Team93Robot2015/Robot.java"/>
+    </Method>
+    <Field classname="org.usfirst.frc93.Team93Robot2015.Robot" name="switches" signature="Lorg/usfirst/frc93/Team93Robot2015/subsystems/Switches;" isStatic="true">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.Robot" sourcefile="Robot.java" sourcepath="org/usfirst/frc93/Team93Robot2015/Robot.java"/>
+    </Field>
+    <SourceLine classname="org.usfirst.frc93.Team93Robot2015.Robot" start="54" end="54" startBytecode="20" endBytecode="20" sourcefile="Robot.java" sourcepath="org/usfirst/frc93/Team93Robot2015/Robot.java"/>
+  </BugInstance>
+  <BugInstance type="UUF_UNUSED_PUBLIC_OR_PROTECTED_FIELD" priority="2" rank="17" abbrev="UuF" category="STYLE">
+    <Class classname="org.usfirst.frc93.Team93Robot2015.Robot">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.Robot" start="29" end="132" sourcefile="Robot.java" sourcepath="org/usfirst/frc93/Team93Robot2015/Robot.java"/>
+    </Class>
+    <Field classname="org.usfirst.frc93.Team93Robot2015.Robot" name="robotMap" signature="Lorg/usfirst/frc93/Team93Robot2015/RobotMap;" isStatic="true">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.Robot" sourcefile="Robot.java" sourcepath="org/usfirst/frc93/Team93Robot2015/Robot.java"/>
+    </Field>
+  </BugInstance>
+  <BugInstance type="MS_CANNOT_BE_FINAL" priority="2" rank="18" abbrev="MS" category="MALICIOUS_CODE">
+    <Class classname="org.usfirst.frc93.Team93Robot2015.RobotMap">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.RobotMap" start="24" end="80" sourcefile="RobotMap.java" sourcepath="org/usfirst/frc93/Team93Robot2015/RobotMap.java"/>
+    </Class>
+    <Field classname="org.usfirst.frc93.Team93Robot2015.RobotMap" name="leftMotorEncoder" signature="Ledu/wpi/first/wpilibj/Encoder;" isStatic="true">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.RobotMap" sourcefile="RobotMap.java" sourcepath="org/usfirst/frc93/Team93Robot2015/RobotMap.java"/>
+    </Field>
+  </BugInstance>
+  <BugInstance type="MS_CANNOT_BE_FINAL" priority="2" rank="18" abbrev="MS" category="MALICIOUS_CODE">
+    <Class classname="org.usfirst.frc93.Team93Robot2015.RobotMap">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.RobotMap" start="24" end="80" sourcefile="RobotMap.java" sourcepath="org/usfirst/frc93/Team93Robot2015/RobotMap.java"/>
+    </Class>
+    <Field classname="org.usfirst.frc93.Team93Robot2015.RobotMap" name="rightMotorEncoder" signature="Ledu/wpi/first/wpilibj/Encoder;" isStatic="true">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.RobotMap" sourcefile="RobotMap.java" sourcepath="org/usfirst/frc93/Team93Robot2015/RobotMap.java"/>
+    </Field>
+  </BugInstance>
+  <BugInstance type="MS_SHOULD_BE_FINAL" priority="1" rank="16" abbrev="MS" category="MALICIOUS_CODE">
+    <Class classname="org.usfirst.frc93.Team93Robot2015.RobotMap">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.RobotMap" start="24" end="80" sourcefile="RobotMap.java" sourcepath="org/usfirst/frc93/Team93Robot2015/RobotMap.java"/>
+    </Class>
+    <Field classname="org.usfirst.frc93.Team93Robot2015.RobotMap" name="PWDSensor" signature="Ledu/wpi/first/wpilibj/AnalogInput;" isStatic="true">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.RobotMap" sourcefile="RobotMap.java" sourcepath="org/usfirst/frc93/Team93Robot2015/RobotMap.java"/>
+    </Field>
+    <SourceLine classname="org.usfirst.frc93.Team93Robot2015.RobotMap" start="65" end="65" startBytecode="144" endBytecode="144" sourcefile="RobotMap.java" sourcepath="org/usfirst/frc93/Team93Robot2015/RobotMap.java"/>
+  </BugInstance>
+  <BugInstance type="MS_SHOULD_BE_FINAL" priority="1" rank="16" abbrev="MS" category="MALICIOUS_CODE">
+    <Class classname="org.usfirst.frc93.Team93Robot2015.RobotMap">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.RobotMap" start="24" end="80" sourcefile="RobotMap.java" sourcepath="org/usfirst/frc93/Team93Robot2015/RobotMap.java"/>
+    </Class>
+    <Field classname="org.usfirst.frc93.Team93Robot2015.RobotMap" name="PWDSensorTwo" signature="Ledu/wpi/first/wpilibj/AnalogInput;" isStatic="true">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.RobotMap" sourcefile="RobotMap.java" sourcepath="org/usfirst/frc93/Team93Robot2015/RobotMap.java"/>
+    </Field>
+    <SourceLine classname="org.usfirst.frc93.Team93Robot2015.RobotMap" start="66" end="66" startBytecode="155" endBytecode="155" sourcefile="RobotMap.java" sourcepath="org/usfirst/frc93/Team93Robot2015/RobotMap.java"/>
+  </BugInstance>
+  <BugInstance type="MS_SHOULD_BE_FINAL" priority="1" rank="16" abbrev="MS" category="MALICIOUS_CODE">
+    <Class classname="org.usfirst.frc93.Team93Robot2015.RobotMap">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.RobotMap" start="24" end="80" sourcefile="RobotMap.java" sourcepath="org/usfirst/frc93/Team93Robot2015/RobotMap.java"/>
+    </Class>
+    <Field classname="org.usfirst.frc93.Team93Robot2015.RobotMap" name="autonomousSelectorOne" signature="Ledu/wpi/first/wpilibj/DigitalInput;" isStatic="true">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.RobotMap" sourcefile="RobotMap.java" sourcepath="org/usfirst/frc93/Team93Robot2015/RobotMap.java"/>
+    </Field>
+    <SourceLine classname="org.usfirst.frc93.Team93Robot2015.RobotMap" start="37" end="37" startBytecode="28" endBytecode="28" sourcefile="RobotMap.java" sourcepath="org/usfirst/frc93/Team93Robot2015/RobotMap.java"/>
+  </BugInstance>
+  <BugInstance type="MS_SHOULD_BE_FINAL" priority="1" rank="16" abbrev="MS" category="MALICIOUS_CODE">
+    <Class classname="org.usfirst.frc93.Team93Robot2015.RobotMap">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.RobotMap" start="24" end="80" sourcefile="RobotMap.java" sourcepath="org/usfirst/frc93/Team93Robot2015/RobotMap.java"/>
+    </Class>
+    <Field classname="org.usfirst.frc93.Team93Robot2015.RobotMap" name="leftMotorOne" signature="Ledu/wpi/first/wpilibj/Talon;" isStatic="true">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.RobotMap" sourcefile="RobotMap.java" sourcepath="org/usfirst/frc93/Team93Robot2015/RobotMap.java"/>
+    </Field>
+    <SourceLine classname="org.usfirst.frc93.Team93Robot2015.RobotMap" start="60" end="60" startBytecode="100" endBytecode="100" sourcefile="RobotMap.java" sourcepath="org/usfirst/frc93/Team93Robot2015/RobotMap.java"/>
+  </BugInstance>
+  <BugInstance type="MS_SHOULD_BE_FINAL" priority="1" rank="16" abbrev="MS" category="MALICIOUS_CODE">
+    <Class classname="org.usfirst.frc93.Team93Robot2015.RobotMap">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.RobotMap" start="24" end="80" sourcefile="RobotMap.java" sourcepath="org/usfirst/frc93/Team93Robot2015/RobotMap.java"/>
+    </Class>
+    <Field classname="org.usfirst.frc93.Team93Robot2015.RobotMap" name="leftMotorTwo" signature="Ledu/wpi/first/wpilibj/Talon;" isStatic="true">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.RobotMap" sourcefile="RobotMap.java" sourcepath="org/usfirst/frc93/Team93Robot2015/RobotMap.java"/>
+    </Field>
+    <SourceLine classname="org.usfirst.frc93.Team93Robot2015.RobotMap" start="61" end="61" startBytecode="111" endBytecode="111" sourcefile="RobotMap.java" sourcepath="org/usfirst/frc93/Team93Robot2015/RobotMap.java"/>
+  </BugInstance>
+  <BugInstance type="MS_SHOULD_BE_FINAL" priority="1" rank="16" abbrev="MS" category="MALICIOUS_CODE">
+    <Class classname="org.usfirst.frc93.Team93Robot2015.RobotMap">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.RobotMap" start="24" end="80" sourcefile="RobotMap.java" sourcepath="org/usfirst/frc93/Team93Robot2015/RobotMap.java"/>
+    </Class>
+    <Field classname="org.usfirst.frc93.Team93Robot2015.RobotMap" name="rightMotorOne" signature="Ledu/wpi/first/wpilibj/Talon;" isStatic="true">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.RobotMap" sourcefile="RobotMap.java" sourcepath="org/usfirst/frc93/Team93Robot2015/RobotMap.java"/>
+    </Field>
+    <SourceLine classname="org.usfirst.frc93.Team93Robot2015.RobotMap" start="62" end="62" startBytecode="122" endBytecode="122" sourcefile="RobotMap.java" sourcepath="org/usfirst/frc93/Team93Robot2015/RobotMap.java"/>
+  </BugInstance>
+  <BugInstance type="MS_SHOULD_BE_FINAL" priority="1" rank="16" abbrev="MS" category="MALICIOUS_CODE">
+    <Class classname="org.usfirst.frc93.Team93Robot2015.RobotMap">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.RobotMap" start="24" end="80" sourcefile="RobotMap.java" sourcepath="org/usfirst/frc93/Team93Robot2015/RobotMap.java"/>
+    </Class>
+    <Field classname="org.usfirst.frc93.Team93Robot2015.RobotMap" name="rightMotorTwo" signature="Ledu/wpi/first/wpilibj/Talon;" isStatic="true">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.RobotMap" sourcefile="RobotMap.java" sourcepath="org/usfirst/frc93/Team93Robot2015/RobotMap.java"/>
+    </Field>
+    <SourceLine classname="org.usfirst.frc93.Team93Robot2015.RobotMap" start="63" end="63" startBytecode="133" endBytecode="133" sourcefile="RobotMap.java" sourcepath="org/usfirst/frc93/Team93Robot2015/RobotMap.java"/>
+  </BugInstance>
+  <BugInstance type="URF_UNREAD_FIELD" priority="2" rank="18" abbrev="UrF" category="PERFORMANCE">
+    <Class classname="org.usfirst.frc93.Team93Robot2015.commands.BinSnatcherDeploy">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.commands.BinSnatcherDeploy" start="11" end="48" sourcefile="BinSnatcherDeploy.java" sourcepath="org/usfirst/frc93/Team93Robot2015/commands/BinSnatcherDeploy.java"/>
+    </Class>
+    <Field classname="org.usfirst.frc93.Team93Robot2015.commands.BinSnatcherDeploy" name="binSnatchDeploy" signature="Z" isStatic="false">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.commands.BinSnatcherDeploy" sourcefile="BinSnatcherDeploy.java" sourcepath="org/usfirst/frc93/Team93Robot2015/commands/BinSnatcherDeploy.java"/>
+    </Field>
+    <SourceLine classname="org.usfirst.frc93.Team93Robot2015.commands.BinSnatcherDeploy" start="12" end="12" startBytecode="6" endBytecode="6" sourcefile="BinSnatcherDeploy.java" sourcepath="org/usfirst/frc93/Team93Robot2015/commands/BinSnatcherDeploy.java"/>
+  </BugInstance>
+  <BugInstance type="UUF_UNUSED_FIELD" priority="2" rank="18" abbrev="UuF" category="PERFORMANCE">
+    <Class classname="org.usfirst.frc93.Team93Robot2015.commands.CanGrabber">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.commands.CanGrabber" start="12" end="61" sourcefile="CanGrabber.java" sourcepath="org/usfirst/frc93/Team93Robot2015/commands/CanGrabber.java"/>
+    </Class>
+    <Field classname="org.usfirst.frc93.Team93Robot2015.commands.CanGrabber" name="grabbing" signature="Z" isStatic="false">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.commands.CanGrabber" sourcefile="CanGrabber.java" sourcepath="org/usfirst/frc93/Team93Robot2015/commands/CanGrabber.java"/>
+    </Field>
+  </BugInstance>
+  <BugInstance type="NM_METHOD_NAMING_CONVENTION" priority="2" rank="16" abbrev="Nm" category="BAD_PRACTICE">
+    <Class classname="org.usfirst.frc93.Team93Robot2015.commands.DriveBackward">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.commands.DriveBackward" start="22" end="74" sourcefile="DriveBackward.java" sourcepath="org/usfirst/frc93/Team93Robot2015/commands/DriveBackward.java"/>
+    </Class>
+    <Method classname="org.usfirst.frc93.Team93Robot2015.commands.DriveBackward" name="DriveBackward" signature="(I)V" isStatic="false">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.commands.DriveBackward" start="30" end="35" startBytecode="0" endBytecode="72" sourcefile="DriveBackward.java" sourcepath="org/usfirst/frc93/Team93Robot2015/commands/DriveBackward.java"/>
+    </Method>
+  </BugInstance>
+  <BugInstance type="URF_UNREAD_FIELD" priority="2" rank="18" abbrev="UrF" category="PERFORMANCE">
+    <Class classname="org.usfirst.frc93.Team93Robot2015.commands.DriveForward">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.commands.DriveForward" start="25" end="86" sourcefile="DriveForward.java" sourcepath="org/usfirst/frc93/Team93Robot2015/commands/DriveForward.java"/>
+    </Class>
+    <Field classname="org.usfirst.frc93.Team93Robot2015.commands.DriveForward" name="finished" signature="Z" isStatic="false">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.commands.DriveForward" sourcefile="DriveForward.java" sourcepath="org/usfirst/frc93/Team93Robot2015/commands/DriveForward.java"/>
+    </Field>
+    <SourceLine classname="org.usfirst.frc93.Team93Robot2015.commands.DriveForward" start="25" end="25" startBytecode="6" endBytecode="6" sourcefile="DriveForward.java" sourcepath="org/usfirst/frc93/Team93Robot2015/commands/DriveForward.java"/>
+  </BugInstance>
+  <BugInstance type="UUF_UNUSED_FIELD" priority="2" rank="18" abbrev="UuF" category="PERFORMANCE">
+    <Class classname="org.usfirst.frc93.Team93Robot2015.commands.VisionProcessor">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.commands.VisionProcessor" start="34" end="264" sourcefile="VisionProcessor.java" sourcepath="org/usfirst/frc93/Team93Robot2015/commands/VisionProcessor.java"/>
+    </Class>
+    <Field classname="org.usfirst.frc93.Team93Robot2015.commands.VisionProcessor" name="length" signature="I" isStatic="false">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.commands.VisionProcessor" sourcefile="VisionProcessor.java" sourcepath="org/usfirst/frc93/Team93Robot2015/commands/VisionProcessor.java"/>
+    </Field>
+  </BugInstance>
+  <BugInstance type="UUF_UNUSED_FIELD" priority="2" rank="18" abbrev="UuF" category="PERFORMANCE">
+    <Class classname="org.usfirst.frc93.Team93Robot2015.commands.VisionProcessor">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.commands.VisionProcessor" start="34" end="264" sourcefile="VisionProcessor.java" sourcepath="org/usfirst/frc93/Team93Robot2015/commands/VisionProcessor.java"/>
+    </Class>
+    <Field classname="org.usfirst.frc93.Team93Robot2015.commands.VisionProcessor" name="rect" signature="Lcom/ni/vision/NIVision$Rect;" isStatic="false">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.commands.VisionProcessor" sourcefile="VisionProcessor.java" sourcepath="org/usfirst/frc93/Team93Robot2015/commands/VisionProcessor.java"/>
+    </Field>
+  </BugInstance>
+  <BugInstance type="UUF_UNUSED_FIELD" priority="2" rank="18" abbrev="UuF" category="PERFORMANCE">
+    <Class classname="org.usfirst.frc93.Team93Robot2015.commands.VisionProcessor">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.commands.VisionProcessor" start="34" end="264" sourcefile="VisionProcessor.java" sourcepath="org/usfirst/frc93/Team93Robot2015/commands/VisionProcessor.java"/>
+    </Class>
+    <Field classname="org.usfirst.frc93.Team93Robot2015.commands.VisionProcessor" name="rect2" signature="Lcom/ni/vision/NIVision$Rect;" isStatic="false">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.commands.VisionProcessor" sourcefile="VisionProcessor.java" sourcepath="org/usfirst/frc93/Team93Robot2015/commands/VisionProcessor.java"/>
+    </Field>
+  </BugInstance>
+  <BugInstance type="UUF_UNUSED_FIELD" priority="2" rank="18" abbrev="UuF" category="PERFORMANCE">
+    <Class classname="org.usfirst.frc93.Team93Robot2015.commands.VisionProcessor">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.commands.VisionProcessor" start="34" end="264" sourcefile="VisionProcessor.java" sourcepath="org/usfirst/frc93/Team93Robot2015/commands/VisionProcessor.java"/>
+    </Class>
+    <Field classname="org.usfirst.frc93.Team93Robot2015.commands.VisionProcessor" name="rect3" signature="Lcom/ni/vision/NIVision$Rect;" isStatic="false">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.commands.VisionProcessor" sourcefile="VisionProcessor.java" sourcepath="org/usfirst/frc93/Team93Robot2015/commands/VisionProcessor.java"/>
+    </Field>
+  </BugInstance>
+  <BugInstance type="UUF_UNUSED_FIELD" priority="2" rank="18" abbrev="UuF" category="PERFORMANCE">
+    <Class classname="org.usfirst.frc93.Team93Robot2015.commands.VisionProcessor">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.commands.VisionProcessor" start="34" end="264" sourcefile="VisionProcessor.java" sourcepath="org/usfirst/frc93/Team93Robot2015/commands/VisionProcessor.java"/>
+    </Class>
+    <Field classname="org.usfirst.frc93.Team93Robot2015.commands.VisionProcessor" name="rect3left" signature="I" isStatic="false">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.commands.VisionProcessor" sourcefile="VisionProcessor.java" sourcepath="org/usfirst/frc93/Team93Robot2015/commands/VisionProcessor.java"/>
+    </Field>
+  </BugInstance>
+  <BugInstance type="UUF_UNUSED_FIELD" priority="2" rank="18" abbrev="UuF" category="PERFORMANCE">
+    <Class classname="org.usfirst.frc93.Team93Robot2015.commands.VisionProcessor">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.commands.VisionProcessor" start="34" end="264" sourcefile="VisionProcessor.java" sourcepath="org/usfirst/frc93/Team93Robot2015/commands/VisionProcessor.java"/>
+    </Class>
+    <Field classname="org.usfirst.frc93.Team93Robot2015.commands.VisionProcessor" name="rect3right" signature="I" isStatic="false">
+      <SourceLine classname="org.usfirst.frc93.Team93Robot2015.commands.VisionProcessor" sourcefile="VisionProcessor.java" sourcepath="org/usfirst/frc93/Team93Robot2015/commands/VisionProcessor.java"/>
+    </Field>
+  </BugInstance>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Mon, 9 Feb 2015 19:58:54 -0600" total_classes="22" referenced_classes="105" total_bugs="33" total_size="520" num_packages="3" java_version="1.8.0_25" vm_version="25.25-b02" cpu_seconds="16.54" clock_seconds="13.44" peak_mbytes="174.05" alloc_mbytes="889.00" gc_seconds="0.58" priority_2="24" priority_1="9">
+    <PackageStats package="org.usfirst.frc93.Team93Robot2015" total_bugs="23" total_types="4" total_size="120" priority_2="14" priority_1="9">
+      <ClassStats class="org.usfirst.frc93.Team93Robot2015.AutonomousSelection" sourceFile="AutonomousSelection.java" interface="false" size="3" bugs="0"/>
+      <ClassStats class="org.usfirst.frc93.Team93Robot2015.OI" sourceFile="OI.java" interface="false" size="30" bugs="4" priority_2="2" priority_1="2"/>
+      <ClassStats class="org.usfirst.frc93.Team93Robot2015.Robot" sourceFile="Robot.java" interface="false" size="41" bugs="10" priority_2="10"/>
+      <ClassStats class="org.usfirst.frc93.Team93Robot2015.RobotMap" sourceFile="RobotMap.java" interface="false" size="46" bugs="9" priority_2="2" priority_1="7"/>
+    </PackageStats>
+    <PackageStats package="org.usfirst.frc93.Team93Robot2015.commands" total_bugs="10" total_types="14" total_size="366" priority_2="10">
+      <ClassStats class="org.usfirst.frc93.Team93Robot2015.commands.AutonomousCommandGroup" sourceFile="AutonomousCommandGroup.java" interface="false" size="5" bugs="0"/>
+      <ClassStats class="org.usfirst.frc93.Team93Robot2015.commands.AutonomousCommands" sourceFile="AutonomousCommands.java" interface="false" size="14" bugs="0"/>
+      <ClassStats class="org.usfirst.frc93.Team93Robot2015.commands.BinSnatcherDeploy" sourceFile="BinSnatcherDeploy.java" interface="false" size="16" bugs="1" priority_2="1"/>
+      <ClassStats class="org.usfirst.frc93.Team93Robot2015.commands.CanGrabber" sourceFile="CanGrabber.java" interface="false" size="15" bugs="1" priority_2="1"/>
+      <ClassStats class="org.usfirst.frc93.Team93Robot2015.commands.DriveBackward" sourceFile="DriveBackward.java" interface="false" size="29" bugs="1" priority_2="1"/>
+      <ClassStats class="org.usfirst.frc93.Team93Robot2015.commands.DriveContinuous" sourceFile="DriveContinuous.java" interface="false" size="21" bugs="0"/>
+      <ClassStats class="org.usfirst.frc93.Team93Robot2015.commands.DriveForward" sourceFile="DriveForward.java" interface="false" size="39" bugs="1" priority_2="1"/>
+      <ClassStats class="org.usfirst.frc93.Team93Robot2015.commands.DriveForwardOld" sourceFile="DriveForwardOld.java" interface="false" size="29" bugs="0"/>
+      <ClassStats class="org.usfirst.frc93.Team93Robot2015.commands.SleepCommand" sourceFile="SleepCommand.java" interface="false" size="14" bugs="0"/>
+      <ClassStats class="org.usfirst.frc93.Team93Robot2015.commands.TurnLeft" sourceFile="TurnLeft.java" interface="false" size="29" bugs="0"/>
+      <ClassStats class="org.usfirst.frc93.Team93Robot2015.commands.TurnRight" sourceFile="TurnRight.java" interface="false" size="29" bugs="0"/>
+      <ClassStats class="org.usfirst.frc93.Team93Robot2015.commands.UltrasonicSensor" sourceFile="UltrasonicSensor.java" interface="false" size="34" bugs="0"/>
+      <ClassStats class="org.usfirst.frc93.Team93Robot2015.commands.VisionProcessor" sourceFile="VisionProcessor.java" interface="false" size="81" bugs="6" priority_2="6"/>
+      <ClassStats class="org.usfirst.frc93.Team93Robot2015.commands.VisionProcessor$ESide" sourceFile="VisionProcessor.java" interface="false" size="11" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="org.usfirst.frc93.Team93Robot2015.subsystems" total_bugs="0" total_types="4" total_size="34">
+      <ClassStats class="org.usfirst.frc93.Team93Robot2015.subsystems.AutonomousSelector" sourceFile="AutonomousSelector.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="org.usfirst.frc93.Team93Robot2015.subsystems.Drive" sourceFile="Drive.java" interface="false" size="17" bugs="0"/>
+      <ClassStats class="org.usfirst.frc93.Team93Robot2015.subsystems.Switches" sourceFile="Switches.java" interface="false" size="5" bugs="0"/>
+      <ClassStats class="org.usfirst.frc93.Team93Robot2015.subsystems.ToteStack" sourceFile="ToteStack.java" interface="false" size="5" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="1766" invocations="956" avgMicrosecondsPerInvocation="1847" maxMicrosecondsPerInvocation="465897" standardDeviationMircosecondsPerInvocation="18970"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CheckRelaxingNullnessAnnotation" totalMilliseconds="815" invocations="22" avgMicrosecondsPerInvocation="37082" maxMicrosecondsPerInvocation="800168" standardDeviationMircosecondsPerInvocation="166529"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.UnreadFields" totalMilliseconds="688" invocations="22" avgMicrosecondsPerInvocation="31307" maxMicrosecondsPerInvocation="654821" standardDeviationMircosecondsPerInvocation="136113"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindOpenStream" totalMilliseconds="671" invocations="22" avgMicrosecondsPerInvocation="30535" maxMicrosecondsPerInvocation="662894" standardDeviationMircosecondsPerInvocation="138003"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="667" invocations="960" avgMicrosecondsPerInvocation="695" maxMicrosecondsPerInvocation="68164" standardDeviationMircosecondsPerInvocation="2211"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.MethodReturnCheck" totalMilliseconds="583" invocations="22" avgMicrosecondsPerInvocation="26525" maxMicrosecondsPerInvocation="579408" standardDeviationMircosecondsPerInvocation="120649"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRoughConstants" totalMilliseconds="463" invocations="22" avgMicrosecondsPerInvocation="21079" maxMicrosecondsPerInvocation="460348" standardDeviationMircosecondsPerInvocation="95856"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindFloatEquality" totalMilliseconds="443" invocations="22" avgMicrosecondsPerInvocation="20157" maxMicrosecondsPerInvocation="440945" standardDeviationMircosecondsPerInvocation="91823"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.DefaultEncodingDetector" totalMilliseconds="418" invocations="22" avgMicrosecondsPerInvocation="19008" maxMicrosecondsPerInvocation="415510" standardDeviationMircosecondsPerInvocation="86524"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.SuperfluousInstanceOf" totalMilliseconds="315" invocations="22" avgMicrosecondsPerInvocation="14356" maxMicrosecondsPerInvocation="315227" standardDeviationMircosecondsPerInvocation="65655"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="309" invocations="105" avgMicrosecondsPerInvocation="2944" maxMicrosecondsPerInvocation="97239" standardDeviationMircosecondsPerInvocation="11109"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="274" invocations="920" avgMicrosecondsPerInvocation="298" maxMicrosecondsPerInvocation="113880" standardDeviationMircosecondsPerInvocation="3961"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindUselessControlFlow" totalMilliseconds="195" invocations="22" avgMicrosecondsPerInvocation="8881" maxMicrosecondsPerInvocation="194648" standardDeviationMircosecondsPerInvocation="40537"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.WrongMapIterator" totalMilliseconds="195" invocations="22" avgMicrosecondsPerInvocation="8869" maxMicrosecondsPerInvocation="155122" standardDeviationMircosecondsPerInvocation="32933"/>
+      <ClassProfile name="edu.umd.cs.findbugs.DetectorToDetector2Adapter" totalMilliseconds="178" invocations="2823" avgMicrosecondsPerInvocation="63" maxMicrosecondsPerInvocation="98203" standardDeviationMircosecondsPerInvocation="2173"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="173" invocations="113" avgMicrosecondsPerInvocation="1532" maxMicrosecondsPerInvocation="60560" standardDeviationMircosecondsPerInvocation="6703"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="162" invocations="113" avgMicrosecondsPerInvocation="1436" maxMicrosecondsPerInvocation="35499" standardDeviationMircosecondsPerInvocation="4580"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="161" invocations="345" avgMicrosecondsPerInvocation="466" maxMicrosecondsPerInvocation="23349" standardDeviationMircosecondsPerInvocation="1465"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>

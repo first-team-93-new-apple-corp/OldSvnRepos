@@ -1,0 +1,85 @@
+-----------------------------------------------------------------------------------
+Snowflake Exercise
+-----------------------------------------------------------------------------------                        
+
+For this exercise, we have provided a skeleton for the java project. The exercise
+requires the use of a basic graphic display, but it would be ridiculous and 
+unnecessary to ask you all to understand how to do that. So instead, we've provided
+code that can be used to control basic text-based graphics easily. The project is
+called GraphicBase, and when you create your solution, you should copy the existing
+project and modify it. I would recommend reading through the code that has been
+provided to understand what it is doing. You don't need to know exactly how every
+piece does what it does, but you should at least understand what they can do, so
+that you can use them effectively when you need to.
+
+For this exercise, you will probably modify the doDuringEachLoop(), 
+handleKeyPressInLoop(), and run() methods of the Control class, so those are the
+most important parts to understand.
+
+-----------------------------------------------------------------------------------
+Problem Description
+-----------------------------------------------------------------------------------
+
+Copy the GraphicsBase project and remove the code that prints the last letter you
+typed and the code that prints the increasing number in the corner.
+
+Modify the code so that every 100 ms, a snowflake (a '*' character) appears in a 
+random column in the top row. Before the snowflake appears, all existing snowflakes
+on the screen should move one row down. Each snowflake that moves should also move
+one column to the right or left, determined randomly every time a snowflake moves.
+
+To accomplish this, you should create a Snowflake class. Each Snowflake object
+should have two ints representing its current row and column. It should also 
+have an update() method that changes its row and column to determine its new location.
+That way, you can create an array containing all the Snowflakes that can be 
+displayed at once. When a new snowflake appears, you can replace an unused
+Snowflake in the array with a new one at the top of the screen. When they all
+need to move, you can ask each one to move itself. Then you can clear the screen
+and draw all the snowflakes in their new locations.
+
+-----------------------------------------------------------------------------------
+Part 2
+-----------------------------------------------------------------------------------
+
+For part 2, you will be creating an interface that lets you draw more things on the
+screen, in addition to the snowflakes. 
+
+-----------------------------------------------------------------------------------
+2A - Drawable Interface
+-----------------------------------------------------------------------------------
+
+Create an interface called "Drawable". The interface should have two methods:
+Update - You should call Update to change the location or other state of the object
+			during each loop execution.
+Draw - You should call Draw to redraw the object on the screen after all objects 
+			have been updated. When the objects try to redraw themselves, they will
+			need to access the TextBoard in order to call its methods. So your
+			Draw method should ask for a TextBoard object as a parameter.
+You should modify your Snowflake to implement the Drawable interface.
+			
+-----------------------------------------------------------------------------------
+2B - Snowman
+-----------------------------------------------------------------------------------
+
+Create a Snowman class that implements the Drawable interface. Modify your loop
+so that the snowman appears somewhere on the screen when the user presses "M", and
+it disappears if they press "M" again. 
+     __
+   _|==|_  
+    ('')___/
+>--(`^^')
+  (`^'^'`)
+  `======'
+
+-----------------------------------------------------------------------------------
+2C - Penguins
+-----------------------------------------------------------------------------------
+
+Create a Penguin class that implements the Drawable interface. Modify your loop so
+that when the user presses "P", a penguin appears at a random spot on screen. After
+20 update loops, the penguin automatically disappears. Multiple penguins can be
+onscreen at once.
+
+(o)>
+//\
+V_/_

@@ -1,0 +1,7 @@
+To configure Ant build you need to click on the down arrow by the play button with the brick wall.  Then click on the external tool configuration.  Click on Ant Build then on new.  Under the main tab put in a name, I am calling my findbugs. Next browse your workspace for the build.xml file.  Then go under target tab and have only findbugs selected as your choice.  From there you can click run.  It will create your report here : …/robot\trunk\Team93Robot2015\reports.
+
+
+After you have configured your program, you need to know what is right or wrong with your code.  Once you have ran the Ant build, you need to find it in the .xml file it will be here: … \robot\trunk\Team93Robot2015\reports.  Then right click and open the file, it should open in internet explorer or a similar program. 
+
+How to read the Ant Build .xml file.  I have scrolled down to find the bugs in my code.  You can see in the picture below that in the under “<FindBugsSummary timestamp...>” you see that in the Robot.java that on line (size) 34.
+	

@@ -1,0 +1,17 @@
+If_statements_lesson{
+	public void lession {
+	Explain what if statements can do;
+	Explain why we use if statements;
+	Explain "traditional" vs corret way to write if statements;
+	Explain symbols (||, &&);
+	Give examples;
+	}
+	
+	public void Project{
+	Write if statements;
+	problem slove if statements;
+	use if statements for robot (last year code);
+	Extent Project (Home_work);
+	}
+	
+	

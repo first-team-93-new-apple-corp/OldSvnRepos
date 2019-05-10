@@ -1,0 +1,100 @@
+-----------------------------------------------------------------------------------
+Diamond Exercise
+-----------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------
+Problem 1
+-----------------------------------------------------------------------------------
+
+Create a program that prints a pyramid of '*' characters.  The pyramid should be 
+4 lines tall, and each line should have two more '*' characters than the line
+above it. In other words, the output should look exactly like this:
+
+   *   
+  ***
+ *****
+*******
+
+
+-----------------------------------------------------------------------------------
+Problem 2
+-----------------------------------------------------------------------------------
+
+Modify your program to prompt the user to enter a height for the pyramid. Print a
+pyramid of the specified height. The output should look like this:
+
+Height: 5            <---- The user entered 5 here
+    *
+   ***
+  *****
+ *******
+*********
+
+
+-----------------------------------------------------------------------------------
+Problem 3
+-----------------------------------------------------------------------------------
+
+Instead of printing a pyramid, print a diamond of the specified height. Output:
+
+Height: 7            	OR					Height: 8
+   *										   *   
+  ***										  ***
+ *****										 *****
+*******										*******
+ *****										*******
+  ***										 *****
+   *										  ***
+											   *
+
+-----------------------------------------------------------------------------------
+Problem 4
+-----------------------------------------------------------------------------------
+
+Create a class to represent each row of the diamond. When an object of the class
+is created, it is given the index of the row it represents (row 1, row 4, etc.) 
+and the total number of rows. That data should be stored in private variables.
+The class should have a public method that prints out the row. When creating the
+diamond, create an array of these objects, then call their print methods in order
+to print the diamond. One object of this class should look something like this:
+
+StarRow row3 = new StarRow(3, 8);
+row3.print();
+
+Output:
+ ***** 
+ 
+ 
+-----------------------------------------------------------------------------------
+Problem 5
+-----------------------------------------------------------------------------------
+
+Create another class that prints single-digit numbers instead of '*' in the pattern
+shown below. Note that this means that you have to set a limit on the height of
+the diamond.
+
+Height: 7          
+   1		
+  121		
+ 12321		
+1234321		
+ 12321		
+  121		
+   1		
+			
+
+-----------------------------------------------------------------------------------
+Problem 6
+-----------------------------------------------------------------------------------
+
+Create another class that prints letters in the pattern shown below.
+
+Height: 7          
+   A		
+  BAB		
+ CBABC		
+DCBABCD		
+ CBABC		
+  BAB		
+   A		

@@ -1,0 +1,7 @@
+SVN: The place where all of the code is
+Netbeams:  A application that we use to write our code
+Boolean:
+Private:
+Public:
+Void:
+Comment:

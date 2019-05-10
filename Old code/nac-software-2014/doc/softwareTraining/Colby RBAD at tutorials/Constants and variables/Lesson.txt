@@ -1,0 +1,41 @@
+Note this lesson should take no more than 1 hour.
+Teach about variables and hard numbers
+Give examples
+Create senario to solve
+Also teachs value of commments
+
+
+public void drawCube (Graphics canvas)
+    {
+        //Lines on x axis can go from 1-360 on defalt screen
+        //Lines on y axis can got from 1-240 on defalt screen
+        //Way 1     The Lines (See the Cube)
+        int P1x = 20; //should be the same as P4x
+        int P1y = 40; //should be the same as P2y
+        int P2x = 40; //dhould be the same as P3x
+        int P2y = 40; //should be the same as P1y
+        int P3x = 40; //should be the same as P2x
+        int P3y = 60; //should be the same as P4y
+        int P4x = 20; //should be the same as P1x
+        int P4y = 60;
+        int P5x = 40;
+        int P5y = 30;
+        int P6x = 60;
+        int P6y = 30;
+        int P7x = 60;
+        int P7y = 50;
+        int P8x = 40;
+        int P8y = 50;
+        canvas.drawLine(P1x, P1y, P2x, P2y);  //P1 to P2 (horizontal)
+        canvas.drawLine(P2x, P2y, P3x, P3y);  //P2 to P3 (vertical)
+        canvas.drawLine(P3x, P3y, P4x, P4y);  //P3 to P4 (horizontal)
+        canvas.drawLine(P4x, P4y, P1x, P1y);  //P4 to P1 (vertical)
+        canvas.drawLine(P5x, P5y, P6x, P6y);  //P5 to P6 (horizontal)
+        canvas.drawLine(P6x, P6y, P7x, P7y);  //P6 to P7 (vertical)
+        canvas.drawLine(P7x, P7y, P8x, P8y);  //P7 to P8 (horizontal)
+        canvas.drawLine(P8x, P8y, P5x, P5y);  //P8 to P5 (vertical)
+        canvas.drawLine(P1x, P1y, P5x, P5y);  //P1 to P5 (diagonal)
+        canvas.drawLine(P2x, P2y, P6x, P6y);  //P2 to P6 (diagonal)
+        canvas.drawLine(P3x, P3y, P7x, P7y);  //P3 to P7 (diagonal)
+        canvas.drawLine(P4x, P4y, P8x, P8y);  //P4 to P8 (diagonal)
+    }

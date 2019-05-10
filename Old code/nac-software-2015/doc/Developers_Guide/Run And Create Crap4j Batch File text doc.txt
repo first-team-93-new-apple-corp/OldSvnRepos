@@ -1,0 +1,168 @@
+How to run crap4j.bat file and how to create it.  First you need to know where the ant file lives in what ever program you are using.  In netbeans, it lives here : C:\Program Files\NetBeans 7.2.1\java\ant\bin\ant, while in eclipse, it lives here: C:\Program Files\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\bin\ant.  For the 2015 build season, the batch file looks like this. 
+
+set ANT_OPTS=-DCRAP4J_HOME=hooks/crap4j 
+"C:\Program Files\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\bin\ant" run-crap4j
+echo "Script completed"
+pause
+
+with the build.xml file looking like this:
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="FRC Deployment" default="deploy">
+
+  <!--
+  The following properties can be defined to override system level
+  settings. These should not be touched unless you know what you're
+  doing. The primary use is to override the wpilib version when
+  working with older robots that can't compile with the latest
+  libraries.
+  -->
+
+  <!-- By default the system version of WPI is used -->
+  <!-- <property name="version" value=""/> -->
+
+  <!-- By default the system team number is used -->
+  <!-- <property name="team-number" value=""/> -->
+
+  <!-- By default the target is set to 10.TE.AM.2 -->
+  <!-- <property name="target" value=""/> -->
+
+  <property file="${user.home}/wpilib/wpilib.properties" />
+  <property file="build.properties" />
+  <property file="${user.home}/wpilib/java/${version}/ant/build.properties" />
+  <property name="CRAP4J_HOME" value="${basedir}/hooks/crap4j"/>
+  <!-- <property environment="env"/>
+		<echo message="CRAP4J_HOME=${env.CRAP4J_HOME}" />
+	-->
+		
+	<taskdef resource="checkstyletask.properties"
+			classpath="${basedir}/hooks/checkstyle/checkstyle-6.2-all.jar"/>
+	<target name="checkstyle" description="Generates a report of code convention violations.">
+	<checkstyle config="${basedir}/hooks/checkstyle/checkstyle-rules.xml"
+	  		failureProperty="checkstyle.failure" 
+	  		failOnViolation="false">
+		<formatter type="xml" tofile="reports/checkstyle_report.xml"/>
+		<fileset dir="src" includes="**/*.java"/>
+	</checkstyle>
+	<style in="reports/checkstyle_report.xml" out="reports/checkstyle_report.html" style="${basedir}/hooks/checkstyle/checkstyle-simple.xsl"/>
+	</target>
+
+	
+	<taskdef name="crap4j" classname="org.crap4j.anttask.Crap4jAntTask">
+		<classpath>
+			<fileset dir="${CRAP4J_HOME}/lib">
+				<include name="**/*.jar"/>
+			</fileset>
+		</classpath>
+	</taskdef>
+  
+	<target name="run-crap4j">
+		<crap4j projectdir="${basedir}" 
+			    outputDir="reports/crap4j" 
+			    dontTest="false" debug="false">
+			
+
+
+			<classes>
+				<!-- put the project's class directories here. These are the classes you want crap numbers for -->
+				<pathElement location="${basedir}/bin" />
+			</classes>
+			
+			<srces>
+				<!-- The project's src folders -->
+				<pathElement location="${basedir}/src" /> 
+			</srces>
+			
+			<testClasses>
+				<!-- The project's test classes. 
+				         Note, separating it from the project classes makes life so much easier
+				         but if you didn't, then you probably just want to repeat the classDir entry here -->
+				<pathElement location="${basedir}/bin" />
+			</testClasses>
+			
+			<libClasspath>
+				<!-- Put the dependent paths and libraries here. 
+				         This is for stuff necessary to your project, but not stuff you want analyzed -->
+				<fileset dir="${basedir}/lib">
+					<include name="**/*.jar" />
+				</fileset>
+				<!-- if you get errors loading any agitar classes, like the mock classes, add this entry -->
+				
+				<fileset dir="${CRAP4J_HOME}/lib/com.agitar.eclipse.api_4.2.0.401405/lib/ext">
+				                    <include name="**/*.jar" />
+				                </fileset>
+				               
+			</libClasspath>
+		
+		</crap4j>
+	</target>
+   <!-- Linter lint4j target -->
+    <taskdef name="lint4j" classname="com.jutils.lint4j.ant.Lint4jAntTask">
+      <classpath>
+        <pathelement location="${basedir}/hooks/lint4j/jars/lint4j.jar" />
+      </classpath>
+    </taskdef>
+    <target name="run-lint4j" description="Perform lint4j static analysis">
+      <lint4j packages="org.usfirst.frc93.*" level="3" exact="false">
+        <classpath>
+          <!--
+          Removed dir="${basedir}/build/classes"  name="**/*.jar" because it
+          doesn't appear to be necessary.
+          -->
+          <fileset dir="${basedir}/lib">
+            <include name="**/*.jar" />
+          </fileset>
+        </classpath>
+        <sourcepath>
+          <dirset dir="${basedir}">
+            <include name="src" />
+          </dirset>
+          <!-- <pathelement location="${basedir}/src" />  Not sure which is correct, but style shown here works. -->
+        </sourcepath>
+        <formatters>
+          <formatter type="text" />
+          <formatter type="text" toFile="reports/lint4j/lint.txt" />
+          <formatter type="xml" toFile="reports/lint4j/lint.xml" />
+        </formatters>
+      </lint4j>
+    </target>  
+  <!-- Any other property in build.properties can also be overridden. -->
+  
+    <taskdef name="findbugs" classname="edu.umd.cs.findbugs.anttask.FindBugsTask">
+	  <classpath>
+	    <pathelement location="${basedir}/hooks/findbugs/lib/findbugs-ant.jar" />
+	  </classpath>
+	</taskdef>
+	
+	<property name="findbugs.home" value="${basedir}/hooks/findbugs/" />
+	<target name="findbugs" depends="athena-project-build.jar">
+	  <findbugs home="${findbugs.home}" output="xml" outputFile="${basedir}/reports/findbugs.xml" >
+	    <auxClasspath path="${basedir}/lib/" />
+	    <sourcePath path="${basedir}/src/" />
+	  	<class location="${basedir}/bin/" />
+	  </findbugs>
+	</target> 
+	
+	
+  <import file="${wpilib.ant.dir}/build.xml"/>
+  
+
+
+	<!-- Override compile target to call lint4j -->
+	<!--
+	<target name="compile" depends="athena-project-build.compile,run-lint4j" description="Compile the source code.">
+	</target>
+	-->
+	
+	<target name="compile" depends="athena-project-build.compile" description="Compile the source code.">
+	</target>
+	
+	<target name="jar" depends="athena-project-build.jar,findbugs,checkstyle" description="Build the jar file.">
+	</target>
+		
+	
+	
+</project> 
+
+After messing around with it after a few minutes you should get the file to generate a crap4j report.  For further help visit: https://code.google.com/p/crap4j/issues/detail?id=12
